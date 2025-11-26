@@ -1,4 +1,4 @@
-# 🏛️ mi legislation file tree
+# 🏛️ Michigan legislation file tree
 
 Download a copy of your states legislation.
 

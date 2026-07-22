@@ -1,15 +1,14 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 4187",
-  "title": "Corporate income tax: revenue distribution; distribution of corporate income tax revenue; modify. Amends secs. 623 & 695 of 1967 PA 281 (MCL 206.623 & 206.695).   TIE BAR WITH: HB 4180'25,  HB 4181'25,  HB 4182'25,  HB 4183'25,  HB 4184'25,  HB 4185'25,  HB 4186'25",
+  "title": "Individual income tax: revenue distributions; distribution and use of renew Michigan fund and lapse of interest and earnings from the revitalization and placemaking fund; modify and provide for. Amends secs.51, 51g & 696 of 1967 PA 281 (MCL 206.51 et seq.).  TIE BAR WITH: HB 4180'25,  HB 4181'25,  HB 4182'25,  HB 4183'25,  HB 4184'25,  HB 4185'25,  HB 4186'25",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Corporate income tax: rate",
     "Corporate income tax: revenue distribution",
-    "Corporate income tax: tax base"
+    "Individual income tax: revenue distributions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -381,6 +380,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
+      }
+    },
+    {
+      "description": "presented to the Governor 07/14/2026 12:08 PM",
+      "date": "2026-07-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -832,20 +843,23 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Summary as Enrolled (7/15/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-4187-2JTS930M.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
     {
       "publication": "Michigan Compiled Laws",
-      "citation": "MCL 206.623",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": null
-    },
-    {
-      "publication": "Michigan Compiled Laws",
-      "citation": "MCL 206.695",
+      "citation": "MCL 206.51",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -866,7 +880,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T23:15:30.967701Z"
   }
 }

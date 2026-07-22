@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0586",
-  "title": "Probate: guardians and conservators; requirement to state on record reasons for moving ward from residence; provide for. Amends secs. 5306 & 5314 of 1998 PA 386 (MCL 700.5306 & 700.5314).",
+  "title": "Probate: guardians and conservators; requirement to state on record reasons for moving ward from residence; provide for. Amends secs. 5306 & 5314 of 1998 PA 386 (MCL 700.5306 & 700.5314) & adds sec 5306b.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -300,6 +300,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:26 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -477,6 +489,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0586.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0586.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -573,7 +600,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T21:02:01.624416Z"
   }
 }

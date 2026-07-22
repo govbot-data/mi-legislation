@@ -1,14 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0966",
-  "title": "Individual income tax: credit; low income housing tax credit; provide for. Amends sec. 22 of 1966 PA 346 (MCL 125.1422) & adds sec. 22e.   TIE BAR WITH: SB 0967'26,  SB 0968'26",
+  "title": "Housing: housing development authority; housing opportunity tax credit program; establish and administer. Amends sec. 22 of 1966 PA 346 (MCL 125.1422) & adds sec. 22e.   TIE BAR WITH: HB 5806'26,  HB 5807'26",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Housing: other",
-    "Individual income tax: credit"
+    "Corporate income tax: credits",
+    "Housing: housing development authority",
+    "State agencies (existing): treasury"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -323,6 +324,50 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:40Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:20 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 7/21/2026 1:40 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 7/21/2026 2:24 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0023'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -462,6 +507,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2026-SNB-0966.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2026-SNB-0966.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -511,6 +571,21 @@
       "classification": ""
     },
     {
+      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 7-17-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-0966-U.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-0966-U.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Summary as Enrolled (7/6/2026)",
       "links": [
         {
@@ -523,6 +598,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 23 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
     {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 125.1422",
@@ -546,7 +629,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:40Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T20:00:33.619220Z"
   }
 }

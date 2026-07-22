@@ -1,12 +1,13 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 5570",
-  "title": "Housing: codes; single exit stairway in multiple-family dwellings; allow under certain conditions. Amends 1972 PA 230 (MCL 125.1501 - 125.1531) by adding sec. 4i.",
+  "title": "Construction: code; single exit stairway in multiple-family dwellings; allow under certain conditions. Amends 1972 PA 230 (MCL 125.1501 - 125.1531) by adding sec. 4j.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Construction: code",
     "Housing: codes",
     "Housing: other"
   ],
@@ -371,13 +372,23 @@
       }
     },
     {
-      "description": "House requests return",
+      "description": "Senate requests return",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:38Z"
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "request granted",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
       }
     },
     {
@@ -458,6 +469,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
+      }
+    },
+    {
+      "description": "presented to the Governor 07/14/2026 11:34 AM",
+      "date": "2026-07-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "approved by the Governor 07/21/2026 01:54 PM",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "filed with Secretary of State 07/21/2026 02:34 PM",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
+    },
+    {
+      "description": "assigned PA 28'26 with immediate effect",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -655,7 +710,7 @@
       "note": "Substitute (S-3) - 5",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5570-0T3238.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5570-0T3239.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -666,7 +721,7 @@
       "note": "Substitute (S-3) - 6",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5570-0Q2341.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5570-0Q2342.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -801,9 +856,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Summary as Enrolled (7/15/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5570-BGSCJRK6.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 28 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
     {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 125.1501",
@@ -835,7 +909,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T22:15:52.749261Z"
   }
 }

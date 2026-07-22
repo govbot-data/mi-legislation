@@ -271,6 +271,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 10:42 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -332,6 +344,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBH-0106.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0106.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0106.htm",
           "media_type": "text/html"
         }
       ],
@@ -418,7 +445,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T23:33:27.420812Z"
   }
 }

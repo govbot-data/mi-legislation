@@ -263,13 +263,13 @@
       }
     },
     {
-      "description": "transmitted",
+      "description": "returned to Senate",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:37Z"
+        "log_file_created": "2026-07-22T08:00:55Z"
       }
     },
     {
@@ -300,6 +300,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
+      }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:24 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -456,6 +468,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0585.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0585.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -544,7 +571,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T20:49:44.146965Z"
   }
 }

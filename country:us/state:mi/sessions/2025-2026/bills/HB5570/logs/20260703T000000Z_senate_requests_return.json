@@ -1,8 +1,8 @@
 {
   "action": {
-    "description": "SENATE REQUESTS RETURN",
+    "description": "Senate requests return",
     "occurred_at": "2026-07-03",
-    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",
     "entity_type": "bill",
     "classifications": [],

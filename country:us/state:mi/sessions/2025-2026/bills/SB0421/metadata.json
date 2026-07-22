@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0421",
-  "title": "Children: child abuse or child neglect; reference to the state child abuse and neglect prevention board; update in the vehicle code. Amends sec. 811j of 1949 PA 300 (MCL 257.811j).   TIE BAR WITH: SB 0418'25",
+  "title": "Children: child abuse or child neglect; reference to the state child abuse and neglect prevention board; update in the vehicle code. Amends sec. 811j of 1949 PA 300 (MCL 257.811j).   TIE BAR WITH: SB 0418'25,  HB 4805'25,  HB 4808'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -322,6 +322,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 10:58 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -436,6 +448,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0421.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0421.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -535,7 +562,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-21T21:53:45.668788Z"
   }
 }

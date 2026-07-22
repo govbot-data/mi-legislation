@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0456",
-  "title": "Law enforcement: reports; notification of the public by text message of a missing senior or vulnerable adult; provide for. Amends title & sec. 5 of 2012 PA 176 (MCL 28.715).",
+  "title": "Law enforcement: reports; notification of the public through wireless devices of a missing senior or vulnerable adult; provide for. Amends title & sec. 5 of 2012 PA 176 (MCL 28.715).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -261,6 +261,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:02 AM",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:00:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -367,6 +379,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0456.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0456.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -451,7 +478,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-07-22T08:00:55Z",
     "text_extraction_latest_update": "2026-07-22T01:51:15.589366Z"
   }
 }

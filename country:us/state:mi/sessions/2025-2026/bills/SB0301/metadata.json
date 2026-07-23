@@ -1,15 +1,18 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0301",
-  "title": "Corporate income tax: credits; employer credit for paid organ donation leave; provide for. Amends 1967 PA 281 (MCL 206.1 - 206.847) by adding secs. 279 & 679.",
+  "title": "Corporate income tax: credits; employer credit for paid organ donation leave; provide for. Amends secs. 30 & 623 of 1967 PA 281 (MCL 206.30 & 206.623) & adds secs. 279 & 679.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Corporate income tax: administration",
     "Corporate income tax: credits",
+    "Corporate income tax: deductions",
     "Health: anatomical gifts",
-    "Individual income tax: credit"
+    "Individual income tax: credit",
+    "Individual income tax: deductions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -324,7 +327,39 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
+        "log_file_created": "2026-07-23T07:12:34Z"
+      }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 7/21/2026 1:12 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T07:12:34Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 7/22/2026 10:42 AM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T07:12:34Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0039'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T07:12:34Z"
       }
     }
   ],
@@ -454,14 +489,14 @@
       "classification": ""
     },
     {
-      "note": "Senate Enrolled Bill",
+      "note": "Public Act",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0301.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0039.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0301.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0039.htm",
           "media_type": "text/html"
         }
       ],
@@ -570,8 +605,16 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 39 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
-      "citation": "MCL 206.1",
+      "citation": "MCL 206.30",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -579,7 +622,7 @@
     },
     {
       "publication": "Michigan Compiled Laws",
-      "citation": "MCL 206.847",
+      "citation": "MCL 206.623",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -600,7 +643,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:49.232265Z"
   }
 }

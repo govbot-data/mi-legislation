@@ -150,6 +150,16 @@
       }
     },
     {
+      "description": "title amended",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T07:12:34Z"
+      }
+    },
+    {
       "description": "transmitted",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -323,7 +333,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:30.627033Z"
   }
 }

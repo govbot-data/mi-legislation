@@ -476,50 +476,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 11:28 AM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "approved by the Governor 07/21/2026 01:48 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "filed with Secretary of State 07/21/2026 02:28 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "assigned PA 25'26 with immediate effect",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -743,29 +699,9 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Conference (7/18/2026)",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5630-ZH42S6MJ.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Michigan Public Acts",
-      "citation": "Public Act 25 of 2026",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": null
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5630",
@@ -780,7 +716,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:04:45.806375Z"
   }
 }

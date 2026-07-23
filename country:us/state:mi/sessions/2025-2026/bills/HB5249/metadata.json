@@ -7,8 +7,7 @@
     "bill"
   ],
   "subject": [
-    "Health: emergency services",
-    "State agencies (existing): health and human services"
+    "Health: emergency services"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -320,18 +319,6 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
-      }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 12:30 PM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -714,21 +701,6 @@
   ],
   "documents": [
     {
-      "note": "SUMMARY OF DISCHARGED BILL (Date Completed: 7-16-26)",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-5249-F.pdf",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-5249-F.htm",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Summary as Introduced (01/27/2026)",
       "links": [
         {
@@ -786,7 +758,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:28.486105Z"
   }
 }

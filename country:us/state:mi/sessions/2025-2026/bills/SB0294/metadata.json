@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0294",
-  "title": "Crimes: animals; forfeiture of seized animals and restitution for care and treatment of certain forfeited animals; amend. Amends sec. 50b of 1931 PA 328 (MCL 750.50b).",
+  "title": "Crimes: animals; restitution for care and treatment of certain forfeited animals; impose penalty on ownership of animal to person convicted of certain crimes against animal. Amends sec. 50b of 1931 PA 328 (MCL 750.50b).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -47,12 +47,12 @@
     },
     {
       "description": "SENATE CO-SPONSOR(S) NAMED: PAUL WOJNO",
-      "date": "2025-06-11",
+      "date": "2026-06-30",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
+        "log_file_created": "2026-07-23T07:12:34Z"
       }
     },
     {
@@ -274,18 +274,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:39Z"
       }
-    },
-    {
-      "description": "PRESENTED TO GOVERNOR 7/14/2026 10:50 AM",
-      "date": "2026-07-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -384,21 +372,6 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Senate Enrolled Bill",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0294.pdf",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0294.htm",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
   "documents": [
@@ -433,7 +406,7 @@
       "classification": ""
     },
     {
-      "note": "ANALYSIS AS PASSED BY THE SENATE (enrolled version) (Date Completed: 10-8-25)",
+      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 10-8-25)",
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0293-U.pdf",
@@ -442,17 +415,6 @@
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0293-U.htm",
           "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Summary as Enrolled (7/21/2026)",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-0293-40SFDNX3.pdf",
-          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -483,7 +445,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:03:27.072589Z"
   }
 }

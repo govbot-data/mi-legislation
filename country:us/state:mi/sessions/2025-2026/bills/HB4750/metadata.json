@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 4750",
-  "title": "Children: foster care; conditions on the use of certain benefits for a child in foster care; provide. Amends 1994 PA 203 (MCL 722.951 - 722.960) by adding sec. 8f.",
+  "title": "Children: foster care; department to use or conserve benefits for children in foster care in the best interests of the children in foster care; provide. Amends 1994 PA 203 (MCL 722.951 - 722.960) by adding sec. 8f.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -382,18 +382,6 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
-      }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 11:54 AM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -824,7 +812,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:28.457886Z"
   }
 }

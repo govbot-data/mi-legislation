@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0903",
-  "title": "School aid: other; requirements for districts to receive weighted funding; provide for. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1280h.",
+  "title": "School aid: other; requirements for districts to receive weighted funding; provide for. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1280h.   TIE BAR WITH: SB 0860'26",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -358,50 +358,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
-    },
-    {
-      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:18 AM",
-      "date": "2026-07-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "APPROVED BY GOVERNOR 7/21/2026 1:38 PM",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "FILED WITH SECRETARY OF STATE 7/21/2026 2:22 PM",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "ASSIGNED PA 0022'26 WITH IMMEDIATE EFFECT",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -541,33 +497,10 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Senate Enrolled Bill",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2026-SNB-0903.pdf",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2026-SNB-0903.htm",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
-    {
-      "publication": "Michigan Public Acts",
-      "citation": "Public Act 22 of 2026",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": null
-    },
     {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 380.1",
@@ -599,7 +532,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:34.893818Z"
   }
 }

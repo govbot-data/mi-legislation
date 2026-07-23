@@ -351,16 +351,6 @@
       }
     },
     {
-      "description": "Senate requests return",
-      "date": "2026-07-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
       "description": "request granted",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -431,6 +421,16 @@
       }
     },
     {
+      "description": "full title agreed to",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T07:12:34Z"
+      }
+    },
+    {
       "description": "bill ordered enrolled",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -438,60 +438,6 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
-      }
-    },
-    {
-      "description": "title amendment agreed to",
-      "date": "2026-07-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 11:38 AM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "approved by the Governor 07/21/2026 01:58 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "filed with Secretary of State 07/21/2026 02:38 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "assigned PA 30'26 with immediate effect",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
       }
     }
   ],
@@ -604,7 +550,7 @@
       "note": "Substitute (S-1) - 5",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5806-0T3337.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5806-0T3336.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -615,7 +561,7 @@
       "note": "Substitute (S-1) - 6",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5806-0Q2340.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5806-0Q2339.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -772,14 +718,6 @@
   ],
   "citations": [
     {
-      "publication": "Michigan Public Acts",
-      "citation": "Public Act 30 of 2026",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": null
-    },
-    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 206.1",
       "citation_type": "proposed",
@@ -810,7 +748,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:03:50.929385Z"
   }
 }

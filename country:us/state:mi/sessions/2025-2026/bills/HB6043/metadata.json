@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 6043",
-  "title": "Children: child care; tri-share child care program and fund and CareShare arrangement; establish. Amends 1973 PA 116 (MCL 722.111 - 722.128) by adding secs. 6b & 6c.",
+  "title": "Children: child care; tri-share child care program and fund; establish. Amends 1973 PA 116 (MCL 722.111 - 722.128) by adding secs. 6b & 6c.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -356,18 +356,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 12:22 PM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -528,17 +516,6 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Summary as Enrolled (7/21/2026)",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-6043-7GS6NBLT.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
   "citations": [
@@ -573,7 +550,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:49.239023Z"
   }
 }

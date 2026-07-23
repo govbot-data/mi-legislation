@@ -367,50 +367,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:40Z"
       }
-    },
-    {
-      "description": "presented to the Governor 07/14/2026 12:36 PM",
-      "date": "2026-07-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "approved by the Governor 07/21/2026 02:56 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "filed with Secretary of State 07/21/2026 03:00 PM",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
-    },
-    {
-      "description": "assigned PA 32'26 with immediate effect",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:00:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -657,16 +613,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Michigan Public Acts",
-      "citation": "Public Act 32 of 2026",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": null
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6074",
@@ -681,7 +628,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:00:55Z",
+    "logs_latest_update": "2026-07-23T07:12:34Z",
     "text_extraction_latest_update": "2026-07-22T08:02:28.475167Z"
   }
 }

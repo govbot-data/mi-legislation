@@ -274,50 +274,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
-    },
-    {
-      "description": "PRESENTED TO GOVERNOR 7/14/2026 11:04 AM",
-      "date": "2026-07-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-26T04:20:56Z"
-      }
-    },
-    {
-      "description": "APPROVED BY GOVERNOR 7/21/2026 1:24 PM",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-26T04:20:56Z"
-      }
-    },
-    {
-      "description": "FILED WITH SECRETARY OF STATE 7/22/2026 10:44 AM",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-26T04:20:56Z"
-      }
-    },
-    {
-      "description": "ASSIGNED PA 0040'26 WITH IMMEDIATE EFFECT",
-      "date": "2026-07-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-26T04:20:56Z"
-      }
     }
   ],
   "sponsorships": [
@@ -387,21 +343,6 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Public Act",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0040.pdf",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0040.htm",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
   "documents": [
@@ -436,7 +377,7 @@
       "classification": ""
     },
     {
-      "note": "ANALYSIS AS PASSED BY THE SENATE (enrolled version) (Date Completed: 9-26-25)",
+      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 9-26-25)",
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0501-U.pdf",
@@ -464,14 +405,6 @@
   ],
   "citations": [
     {
-      "publication": "Michigan Public Acts",
-      "citation": "Public Act 40 of 2026",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": null
-    },
-    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 333.16335",
       "citation_type": "proposed",
@@ -494,7 +427,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T04:20:56Z",
+    "logs_latest_update": "2026-07-26T06:39:38Z",
     "text_extraction_latest_update": "2026-07-26T04:22:00.089497Z"
   }
 }

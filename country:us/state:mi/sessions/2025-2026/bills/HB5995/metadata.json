@@ -269,6 +269,38 @@
       "_processing": {
         "log_file_created": "2026-07-26T14:23:57Z"
       }
+    },
+    {
+      "description": "approved by the Governor 07/21/2026 02:58 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T15:26:11Z"
+      }
+    },
+    {
+      "description": "filed with Secretary of State 07/23/2026 12:06 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T15:26:11Z"
+      }
+    },
+    {
+      "description": "assigned PA 66'26 with immediate effect",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T15:26:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -400,6 +432,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 66 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 257.320a",
       "citation_type": "proposed",
@@ -422,7 +462,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T14:23:57Z",
+    "logs_latest_update": "2026-07-26T15:26:11Z",
     "text_extraction_latest_update": "2026-07-26T14:25:01.414449Z"
   }
 }

@@ -283,6 +283,38 @@
       "_processing": {
         "log_file_created": "2026-07-26T14:23:57Z"
       }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 7/21/2026 1:04 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 7/27/2026 11:56 AM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0078'28 WITH IMMEDIATE EFFECT",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -488,6 +520,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 78 of 2028",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 500.1204c",
       "citation_type": "proposed",
@@ -510,7 +550,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T14:23:57Z",
+    "logs_latest_update": "2026-08-09T06:35:18Z",
     "text_extraction_latest_update": "2026-07-26T14:25:01.578269Z"
   }
 }

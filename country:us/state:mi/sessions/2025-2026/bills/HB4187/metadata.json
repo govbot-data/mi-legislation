@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 4187",
-  "title": "Individual income tax: revenue distributions; distribution and use of renew Michigan fund and lapse of interest and earnings from the revitalization and placemaking fund; modify and provide for. Amends secs.51, 51g & 696 of 1967 PA 281 (MCL 206.51 et seq.).  TIE BAR WITH: HB 4180'25,  HB 4181'25,  HB 4182'25,  HB 4183'25,  HB 4184'25,  HB 4185'25,  HB 4186'25",
+  "title": "Individual income tax: revenue distributions; distribution and use of renew Michigan fund and lapse of interest and earnings from the revitalization and placemaking fund to general fund; modify and provide for. Amends secs. 51, 51g & 696 of 1967 PA 281 (MCL 206.51 et seq.).  TIE BAR WITH: HB 4180'25,  HB 4181'25,  HB 4182'25,  HB 4183'25,  HB 4184'25,  HB 4185'25,  HB 4186'25",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -393,6 +393,38 @@
       "_processing": {
         "log_file_created": "2026-07-26T14:23:57Z"
       }
+    },
+    {
+      "description": "approved by the Governor 07/21/2026 02:28 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "filed with Secretary of State 07/27/2026 12:04 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "assigned PA 82'26 with immediate effect",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -769,14 +801,14 @@
       "classification": ""
     },
     {
-      "note": "House Enrolled Bill",
+      "note": "Public Act",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/pdf/2025-HNB-4187.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0082.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/htm/2025-HNB-4187.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0082.htm",
           "media_type": "text/html"
         }
       ],
@@ -858,6 +890,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 82 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 206.51",
       "citation_type": "proposed",
@@ -880,7 +920,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T14:23:57Z",
+    "logs_latest_update": "2026-08-09T06:35:18Z",
     "text_extraction_latest_update": "2026-07-26T14:25:01.792812Z"
   }
 }

@@ -265,6 +265,38 @@
       "_processing": {
         "log_file_created": "2026-07-26T14:23:57Z"
       }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 7/21/2026 12:54 PM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 7/27/2026 11:54 AM",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0077'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,14 +389,14 @@
       "classification": ""
     },
     {
-      "note": "Senate Enrolled Bill",
+      "note": "Public Act",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0052.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0077.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0052.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0077.htm",
           "media_type": "text/html"
         }
       ],
@@ -443,6 +475,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 77 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 120.102",
       "citation_type": "proposed",
@@ -465,7 +505,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T14:23:57Z",
+    "logs_latest_update": "2026-08-09T06:35:18Z",
     "text_extraction_latest_update": "2026-07-26T14:25:01.893011Z"
   }
 }

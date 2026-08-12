@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 1135",
-  "title": "Retirement: state employees; membership in the retirement system of certain law enforcement officers first hired after certain date; provide for, and allow for purchasing service credit for certain law enforcement officers' service under the state employees' retirement system. Amends 1986 PA 182 (MCL 38.1601 - 38.1674) & adds secs. 24c, 24d, 24e & 24f.   TIE BAR WITH: SB 1133'26,  SB 1134'26",
+  "title": "Retirement: state employees; membership in the retirement system of certain law enforcement officers first hired after certain date; provide for, and allow for purchasing service credit for certain law enforcement officers' service under the state employees' retirement system. Amends 1986 PA 182 (MCL 38.1601 - 38.1674) by adding secs. 24c, 24d, 24e & 24f.   TIE BAR WITH: SB 1133'26,  SB 1134'26",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -51,6 +51,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:01:53Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:01:53Z"
       }
     }
   ],
@@ -131,7 +151,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:35:18Z",
+    "logs_latest_update": "2026-08-12T07:01:53Z",
     "text_extraction_latest_update": "2026-08-09T06:37:59.589124Z"
   }
 }

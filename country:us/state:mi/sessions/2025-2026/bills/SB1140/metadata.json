@@ -43,16 +43,6 @@
       }
     },
     {
-      "description": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW",
-      "date": "2026-08-12",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-09T06:35:18Z"
-      }
-    },
-    {
       "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
       "date": "2026-08-12",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -63,6 +53,16 @@
       }
     },
     {
+      "description": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW",
+      "date": "2026-08-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:35:18Z"
+      }
+    },
+    {
       "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
       "date": "2026-08-12",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -70,6 +70,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-12T07:01:53Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: STEPHANIE CHANG",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T07:28:38Z"
       }
     }
   ],
@@ -88,6 +98,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mallory McMorrow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosemary Bayer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosemary Bayer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Moss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Moss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Chang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Chang\"}",
       "organization_id": null
     }
   ],
@@ -134,7 +168,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:01:53Z",
+    "logs_latest_update": "2026-08-14T07:28:38Z",
     "text_extraction_latest_update": "2026-08-12T07:02:54.216418Z"
   }
 }

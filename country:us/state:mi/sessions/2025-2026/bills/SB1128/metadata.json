@@ -40,6 +40,16 @@
       "_processing": {
         "log_file_created": "2026-08-09T06:35:18Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: STEPHANIE CHANG",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T07:28:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,6 +59,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mary Cavanagh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Chang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Chang\"}",
       "organization_id": null
     }
   ],
@@ -103,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:35:18Z",
+    "logs_latest_update": "2026-08-14T07:28:38Z",
     "text_extraction_latest_update": "2026-08-09T06:37:36.566459Z"
   }
 }

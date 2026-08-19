@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T06:28:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +134,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Sean McCann\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jeremy Moss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Moss\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -177,7 +195,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-08-19T06:28:26Z",
     "text_extraction_latest_update": "2026-07-21T23:09:25.098451Z"
   }
 }

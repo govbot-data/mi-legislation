@@ -1,0 +1,2432 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (H-4)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SUBSTITUTE FOR
+HOUSE BILL NO. 5356
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending sections 14, 41a, 78, 217, 217c, 233, 233a, 233b, 234,
+235, 238, 239, 240, 248, 248a, 248j, 249, 250, 258, 801b, 806, and
+810a (MCL 257.14, 257.41a, 257.78, 257.217, 257.217c, 257.233,
+257.233a, 257.233b, 257.234, 257.235, 257.238, 257.239, 257.240,
+257.248, 257.248a, 257.248j, 257.249, 257.250, 257.258, 257.801b,
+257.806, and 257.810a), sections 14, 217c, 235, 248, and 250 as
+amended by 2022 PA 224, section 41a as amended by 1998 PA 384,
+sections 217 and 233a as amended by 2023 PA 240, section 233 as
+amended by 2014 PA 290, section 233b as amended by 2002 PA 642,
+section 234 as amended by 2002 PA 552, section 238 as amended by
+2014 PA 291, section 239 as amended by 2020 PA 382, section 240 as
+THS H02042'25 (H-4) puei07
+
+2
+amended by 2004 PA 493, section 248a as amended by 2012 PA 498,
+section 248j as added by 2002 PA 652, section 249 as amended by
+2004 PA 495, section 258 as amended by 2018 PA 74, section 801b as
+amended by 1986 PA 311, section 806 as amended by 2023 PA 129, and
+section 810a as amended by 1993 PA 300, and by adding section 9b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 9b. "Courtesy transportation vehicle" means a new motor
+2 vehicle that has been titled and registered by a dealer and is used
+3 primarily for the dealer's service customers. After the courtesy
+4 transportation vehicle is used more than 5,000 miles, the vehicle
+5 is a used vehicle.
+6 Sec. 14. (1) Except as provided in subsections (2), (3), and
+7 (4), "established place of business" means premises actually
+8 occupied either continuously or at regular periods by a dealer or
+9 manufacturer at which the dealer or manufacturer keeps its books
+10 and records and at which the dealer or manufacturer transacts a
+11 large share of its business.
+12 (2) For a class (a) or class (b) dealer, "established place of
+13 business" means premises that meet all of the following
+14 requirements:
+15 (a) The premises contain, except as otherwise provided in this
+16 act, a permanently enclosed building or structure that is either
+17 owned, leased, or rented by the dealer; the building or structure
+18 is not a residence, tent, temporary stand, or any temporary
+19 quarters; the building or structure is continuously occupied in
+20 good faith for the purpose of selling, buying, trading, leasing, or
+21 otherwise dealing in motor vehicles; all books, records, and files
+22 necessary to conduct the business of a class (a) or class (b)
+23 dealer are securely maintained in the building or structure; and
+THS H02042'25 (H-4) puei07
+
+3
+1 the building or structure houses an office of at least 150 square
+2 feet in size, equipped with standard office furniture, secure
+3 document storage, working utilities, a working restroom, and a
+4 working telephone listed in the name of the business on the
+5 dealer's license.
+6 (b) The premises have land space of not less than 1,300 square
+7 feet to accommodate the display of a minimum of 10 vehicles of the
+8 kind and type that the dealer is licensed to sell and an additional
+9 650 square feet for customer parking.
+10 (c) The display and customer parking areas described in
+11 subdivision (b) are adequately surfaced and well-lit during
+12 business hours.
+13 (d) The premises are identified by an exterior sign displaying
+14 the name of the dealership that is permanently affixed to the
+15 building or land with letters clearly visible from the roadway.
+16 (e) The premises contain a conspicuous posting of the dealer's
+17 regular hours of operation. The posted hours must not be less than
+18 30 hours per week for not less than 48 weeks per year. Fifteen of
+19 the 30 hours per week must be between the hours of 8 a.m. and 5
+20 p.m., Monday through Friday. The dealer may change its posted hours
+21 of operation to be less than 30 hours per week for not more than 4
+22 weeks per year if the dealer notifies the department not less than
+23 7 days prior to the change. The department shall waive the 7-day
+24 notification requirement under this subdivision for good cause,
+25 including, but not limited to, a medical emergency or other
+26 extenuating circumstances.
+27 (f) The premises contain a registered repair facility on site
+28 for the repair and servicing of motor vehicles of a type sold at
+29 the established place of business, unless the dealer has entered
+THS H02042'25 (H-4) puei07
+
+4
+1 into a written servicing agreement with a registered repair
+2 facility at a location that is located within a 10-mile radius of
+3 the established place of business. If repairs are conducted under a
+4 servicing agreement, the dealer shall conspicuously post the
+5 servicing agreement in the dealer's office.
+6 (g) The premises meet all applicable zoning requirements and
+7 any other applicable municipal requirements.
+8 (3) For a wholesaler, "established place of business" means
+9 premises that meet all of the following requirements:
+10 (a) The premises contain a permanently enclosed building or
+11 structure that is either owned, leased, or rented and is not a
+12 commercial mailbox, tent, temporary stand, or other temporary
+13 quarters. Beginning January 1, 2024, the permanently enclosed
+14 building or structure must be heated and electrified.
+15 (b) Until December 31, 2023, all books, records, and files
+16 necessary to conduct the business of the wholesaler are maintained
+17 in the building or structure described in subdivision (a).
+18 Beginning January 1, 2024, all books, records, and files necessary
+19 to conduct the business of the wholesaler are maintained in an
+20 office that meets all of the following requirements:
+21 (i) Is not less than 8 feet by 8 feet with a door.
+22 (ii) Has no fewer than 4 rigid walls.
+23 (iii) Has working utilities including, but not limited to,
+24 lighting and telephone that are listed in the name of the business
+25 on the wholesaler's license.
+26 (iv) Has a working restroom.
+27 (v) Has standard office furniture including, but not limited
+28 to, a desk and a locking filing cabinet.
+29 (c) The premises are not used for the display of vehicles.
+THS H02042'25 (H-4) puei07
+
+5
+1 However, the premises may be used for the storage of vehicles
+2 purchased by the wholesaler before sale to a licensed vehicle
+3 dealer.
+4 (d) The premises are identified by an exterior sign displaying
+5 the name of the wholesaler that is permanently affixed to the
+6 building or land with letters clearly visible from the roadway.
+7 (e) The premises meet all applicable zoning requirements and
+8 any other applicable municipal requirements.
+9 (f) The premises contain a conspicuous posting of the
+10 wholesaler's regular hours of operation that include at least 15
+11 regular business hours each week between the hours of 8 a.m. and 5
+12 p.m., Monday through Friday.
+13 (g) If a wholesaler receives its initial license on or after
+14 January 1, 2023, the premises are not located within 200 feet of an
+15 established place of business for another licensed wholesaler.
+16 (4) For a used or secondhand vehicle parts dealer, vehicle
+17 scrap metal processor, vehicle salvage pool operator, distressed
+18 vehicle transporter, broker, and automotive recycler, "established
+19 place of business" means premises that meet all of the following
+20 requirements:
+21 (a) Beginning January 1, 2024, the premises contain a
+22 permanently enclosed building or structure that is heated and
+23 electrified and that is either owned, leased, or rented by the
+24 business and that is not a commercial mailbox, tent, temporary
+25 stand, or other temporary quarters.
+26 (b) Beginning January 1, 2024, all books, records, and files
+27 necessary to conduct the business of the dealer, processor,
+28 operator, transporter, broker, or recycler are maintained in an
+29 office that meets all of the following requirements:
+THS H02042'25 (H-4) puei07
+
+6
+1 (i) Is not less than 8 feet by 8 feet with a door.
+2 (ii) Has no fewer than 4 rigid walls.
+3 (iii) Has working utilities including, but not limited to,
+4 lighting and telephone that are listed in the name of the business
+5 on the dealer's, processor's, operator's, transporter's, broker's,
+6 or recycler's license.
+7 (iv) Has a working restroom.
+8 (v) Has standard office furniture including, but not limited
+9 to, a desk and a locking filing cabinet.
+10 (c) The premises are identified by an exterior sign displaying
+11 the name of the dealer, processor, operator, transporter, broker,
+12 or recycler that is permanently affixed to the building or land
+13 with letters clearly visible from the roadway.
+14 (d) The premises meet all applicable zoning requirements and
+15 any other applicable municipal requirements.
+16 (e) The premises contain a conspicuous posting of the
+17 business's regular hours of operation. The posted hours must not be
+18 less than 15 hours per week for not less than 48 weeks per year.
+19 Five of the 15 hours per week must be between the hours of 8 a.m.
+20 and 5 p.m., Monday through Friday.
+21 Sec. 41a. "Police book" means a hardcover, bound volume or a
+22 an electronic record in a form prescribed by the secretary of state
+23 that provides a bought and sold record for each vehicle handled by
+24 a dealer, contains the information required by section 251, and
+25 includes any other information required by law or the secretary of
+26 state.
+27 Sec. 78. "Used or second-hand secondhand vehicle" means any
+28 motor vehicle, except for a courtesy transportation vehicle, to
+29 which a certificate of title and license plates have been issued
+THS H02042'25 (H-4) puei07
+
+7
+1 and which motor vehicle has been registered for use on the highways
+2 by a consumer or by a dealer.
+3 Sec. 217. (1) An owner of a vehicle that is subject to
+4 registration under this act shall apply to the secretary of state,
+5 on an appropriate form furnished by the secretary of state, for the
+6 registration of the vehicle and issuance of a certificate of title
+7 for the vehicle. A vehicle brought into this state from another
+8 state or jurisdiction that has a rebuilt, salvage, scrap, flood, or
+9 comparable certificate of title issued by that other state or
+10 jurisdiction must be issued a rebuilt, salvage, scrap, or flood
+11 certificate of title by the secretary of state. The application
+12 must be accompanied by the required fee. An application for a
+13 certificate of title must bear the signature or verification and
+14 certification of the owner. The application must contain all of the
+15 following:
+16 (a) The owner's name, the owner's bona fide residence, and
+17 either of the following:
+18 (i) If the owner is an individual, the owner's mailing address.
+19 (ii) If the owner is a firm, association, partnership, limited
+20 liability company, or corporation, the owner's business address.
+21 (b) A description of the vehicle including the make or name,
+22 style of body, and model year; the number of miles, not including
+23 the tenths of a mile, registered on the vehicle's odometer at the
+24 time of transfer; whether the vehicle is a flood vehicle or another
+25 state previously issued the vehicle a flood certificate of title;
+26 whether the vehicle is to be or has been used as a taxi or police
+27 vehicle, or by a political subdivision of this state, unless the
+28 vehicle is owned by a dealer and loaned or leased to a political
+29 subdivision of this state for use as a driver education vehicle;
+THS H02042'25 (H-4) puei07
+
+8
+1 whether the vehicle has previously been issued a salvage or rebuilt
+2 certificate of title from this state or a comparable certificate of
+3 title from any other state or jurisdiction; the vehicle
+4 identification number; and the vehicle's weight fully equipped, if
+5 a passenger vehicle registered in accordance with section
+6 801(1)(a), and, if a trailer coach or pickup camper, in addition to
+7 the weight, the manufacturer's serial number, or in the absence of
+8 the serial number, a number assigned by the secretary of state. A
+9 number assigned by the secretary of state must be permanently
+10 placed on the trailer coach or pickup camper in the manner and
+11 place designated by the secretary of state.
+12 (c) A statement of the applicant's title and the names and
+13 addresses of the holders of security interests in the vehicle and
+14 in an accessory to the vehicle, in the order of their priority.
+15 (d) Further information that the secretary of state reasonably
+16 requires to enable the secretary of state to determine whether the
+17 vehicle is lawfully entitled to registration and the owner entitled
+18 to a certificate of title. If the secretary of state is not
+19 satisfied as to the ownership of a vehicle having a value over
+20 $2,500.00, or $5,000.00 for a new vehicle dealer licensed under
+21 this act, or that is less than 10 years old, before registering the
+22 vehicle and issuing a certificate of title, the secretary of state
+23 may require the applicant to file a properly executed surety bond
+24 in a form prescribed by the secretary of state and executed by the
+25 applicant and a company authorized to conduct a surety business in
+26 this state. The bond must be in an amount equal to twice 2 times
+27 the value of the vehicle as determined by the secretary of state
+28 and must be conditioned to indemnify or reimburse the secretary of
+29 state, any prior owner, and any subsequent purchaser or lessee of
+THS H02042'25 (H-4) puei07
+
+9
+1 the vehicle and their successors in interest against any expense,
+2 loss, or damage, including reasonable attorney fees, because of the
+3 issuance of a certificate of title for the vehicle or on account of
+4 any defect in the right, title, or interest of the applicant in the
+5 vehicle. An interested person has a right of action to recover on
+6 the bond for a breach of the conditions of the bond, but the
+7 aggregate liability of the surety to all persons must not exceed
+8 the amount of the bond. If the secretary of state is not satisfied
+9 as to the ownership of a vehicle that is valued at $2,500.00, or
+10 $5,000.00 for a new vehicle dealer licensed under this act, or less
+11 and that is 10 years old or older, the secretary of state shall
+12 require the applicant to certify that the applicant is the owner of
+13 the vehicle and entitled to register and title the vehicle.
+14 (e) Except as provided in subdivision (f), an application for
+15 a commercial vehicle must also have attached a scale weight receipt
+16 of the motor vehicle fully equipped as of the time the application
+17 is made. A scale weight receipt is not necessary if there is
+18 presented with the application a registration receipt of the
+19 previous year that shows on its face the empty weight of the motor
+20 vehicle as registered with the secretary of state that is
+21 accompanied by a statement of the applicant that there has not been
+22 structural change in the motor vehicle that has increased the empty
+23 weight and that the previous registered weight is the true weight.
+24 (f) An application for registration of a vehicle on the basis
+25 of elected gross weight must include a declaration by the applicant
+26 specifying the elected gross weight for which application is being
+27 made.
+28 (g) If the application is for a certificate of title of a
+29 motor vehicle registered in accordance with section 801(1)(p), the
+THS H02042'25 (H-4) puei07
+
+10
+1 application must include the manufacturer's suggested base list
+2 price for the model year of the vehicle. The base list price must
+3 be the manufacturer's suggested retail price as shown on the label
+4 required to be affixed to the vehicle under 15 USC 1232. If the
+5 manufacturer's suggested retail price is unavailable, the
+6 application must list the purchase price of the vehicle. As used in
+7 this subdivision, "purchase price" means that term as defined in
+8 section 801.
+9 (2) An applicant for registration of a leased pickup truck or
+10 passenger vehicle that is subject to registration under this act,
+11 except a vehicle that is subject to a registration fee under
+12 section 801g, shall disclose in writing to the secretary of state
+13 the lessee's name, the lessee's bona fide residence, and either of
+14 the following:
+15 (a) If the lessee is an individual, the lessee's Michigan
+16 driver license number or Michigan personal identification number
+17 or, if the lessee does not have a Michigan driver license or
+18 Michigan personal identification number, the lessee's mailing
+19 address.
+20 (b) If the lessee is a firm, association, partnership, limited
+21 liability company, or corporation, the lessee's business address.
+22 (3) The secretary of state shall maintain the information
+23 described in subsection (2) on the secretary of state's computer
+24 records.
+25 (4) Except as provided in subsections (5), (11), and (12), a
+26 dealer selling, leasing, or exchanging vehicles required to be
+27 titled, within 21 days after delivering a vehicle to the purchaser
+28 or lessee, and a person engaged in the sale of vessels required to
+29 be numbered by part 801 of the natural resources and environmental
+THS H02042'25 (H-4) puei07
+
+11
+1 protection act, 1994 PA 451, MCL 324.80101 to 324.80199, within 21
+2 days after delivering a boat trailer weighing less than 2,500
+3 pounds to the purchaser or lessee, shall apply to the secretary of
+4 state for a new title, if required, and transfer or secure
+5 registration plates and secure a certificate of registration for
+6 the vehicle or boat trailer, in the name of the purchaser or
+7 lessee. Subject to subsection (11), the dealer's license may be
+8 suspended or revoked in accordance with section 249 for failure to
+9 apply for a title when required or for failure to transfer or
+10 secure registration plates and certificate of registration within
+11 the 21 days required by this section. Subject to subsection (11),
+12 if the dealer or person fails to apply for a title when required,
+13 and to transfer or secure registration plates and secure a
+14 certificate of registration and pay the required fees within 21
+15 days of delivery of the vehicle or boat trailer, a title and
+16 registration for the vehicle or boat trailer may subsequently be
+17 acquired only on the payment of a late transfer fee of $50.00 for
+18 an individual or a dealer other than a dealer subject to section
+19 235b in addition to the fees specified in section 806. Subject to
+20 subsection (11), for a used or secondhand vehicle dealer subject to
+21 section 235b, the late transfer fee is $100.00 in addition to the
+22 fees specified in section 806. The purchaser or lessee of the
+23 vehicle or the purchaser of the boat trailer shall sign the
+24 application, including, if applicable, the declaration specifying
+25 the maximum elected gross weight as required by subsection (1)(f),
+26 and other necessary papers to enable the dealer or person to secure
+27 the title, registration plates, and transfers from the secretary of
+28 state. If the secretary of state mails or delivers a purchaser's
+29 certificate of title to a dealer, the dealer shall mail or deliver
+THS H02042'25 (H-4) puei07
+
+12
+1 the certificate of title to the purchaser not later than 5 days
+2 after receiving the certificate of title from the secretary of
+3 state. However, as provided under section 238, the secretary of
+4 state is not required to issue a paper title to the owner of a
+5 vehicle or lienholder if the title is subject to a security
+6 interest, and may issue an electronic title as provided under
+7 section 222.
+8 (5) Except as provided in subsection (12), a dealer selling or
+9 exchanging an off lease or buy back vehicle shall apply to the
+10 secretary of state for a new title for the vehicle within not later
+11 than 21 days after it receives the certificate of title from the
+12 lessor or manufacturer under section 235 or section 235b and
+13 transfer or secure registration plates and secure a certificate of
+14 registration for the vehicle in the name of the purchaser. Subject
+15 to subsection (12), the dealer's license may be suspended or
+16 revoked in accordance with section 249 for failure to apply for a
+17 title when required or for failure to transfer or secure
+18 registration plates and certificate of registration within the 21-
+19 day period. Subject to subsection (12), if the dealer or person
+20 fails to apply for a title when required, and to transfer or secure
+21 registration plates and secure a certificate of registration and
+22 pay the required fees within the 21-day time period, a title and
+23 registration for the vehicle may subsequently be acquired only on
+24 the payment of a late transfer fee of $50.00 for an individual or
+25 dealer other than a used or secondhand vehicle dealer subject to
+26 section 235b in addition to the fees specified in section 806.
+27 Subject to subsection (12), the late transfer fee for a used or
+28 secondhand vehicle dealer subject to section 235b is $100.00 in
+29 addition to the fees specified in section 806. The purchaser of the
+THS H02042'25 (H-4) puei07
+
+13
+1 vehicle shall sign the application, including, if applicable, the
+2 declaration specifying the maximum elected gross weight as required
+3 by subsection (1)(f), and other necessary papers to enable the
+4 dealer or person to secure the title, registration plates, and
+5 transfers from the secretary of state. If the secretary of state
+6 mails or delivers a purchaser's certificate of title to a dealer,
+7 the dealer shall mail or deliver the certificate of title to the
+8 purchaser not later than 5 days after receiving the certificate of
+9 title from the secretary of state. However, as provided under
+10 section 238, the secretary of state is not required to issue a
+11 paper title to the owner of a vehicle if the title is subject to a
+12 security interest, and may issue an electronic title as provided
+13 under section 222.
+14 (6) If a vehicle is delivered to a purchaser or lessee who has
+15 valid Michigan registration plates that are to be transferred to
+16 the vehicle, and an application for title, if required, and
+17 registration for the vehicle is not made before delivery of the
+18 vehicle to the purchaser or lessee, the registration plates must be
+19 affixed to the vehicle immediately, and the dealer shall provide
+20 the purchaser or lessee with an instrument in writing, on a form
+21 prescribed by the secretary of state, which serves as a temporary
+22 registration for the vehicle for a period of 30 days from the date
+23 the vehicle is delivered.
+24 (7) If the seller does not prepare the credit information,
+25 contract note, and mortgage, and the holder, finance company,
+26 credit union, or banking institution requires the installment
+27 seller to record the lien on the title, the holder, finance
+28 company, credit union, or banking institution shall pay the seller
+29 a service fee of not more than $10.00. The service fee must be paid
+THS H02042'25 (H-4) puei07
+
+14
+1 from the finance charges and must not be charged to the buyer in
+2 addition to the finance charges. The holder, finance company,
+3 credit union, or banking institution shall issue its check or bank
+4 draft for the principal amount financed, payable jointly to the
+5 buyer and seller, and the following must be imprinted on the back
+6 side of the check or bank draft:
+7 "Under Michigan law, the seller must record a first lien in
+8 favor of (name of lender) _______________ on the vehicle with
+9 vehicle identification number _______________ and title the vehicle
+10 only in the name(s) shown on the reverse side."
+11 (8) On the front of the check or draft described under
+12 subsection (7), the holder, finance company, credit union, or
+13 banking institution shall note the name or names of the prospective
+14 owners. Failure of the holder, finance company, credit union, or
+15 banking institution to comply with these requirements frees the
+16 seller from any obligation to record the lien or from any liability
+17 that may arise as a result of the failure to record the lien. A
+18 service fee must not be charged to the buyer.
+19 (9) In the absence of actual malice proved independently and
+20 not inferred from lack of probable cause, a person who in any
+21 manner causes a prosecution for larceny of a motor vehicle; for
+22 embezzlement of a motor vehicle; for any crime an element of which
+23 is the taking of a motor vehicle without authority; or for buying,
+24 receiving, possessing, leasing, or aiding in the concealment of a
+25 stolen, embezzled, or converted motor vehicle knowing that the
+26 motor vehicle has been stolen, embezzled, or converted, is not
+27 liable for damages in a civil action for causing the prosecution.
+28 This subsection does not relieve a person from proving any other
+29 element necessary to sustain the person's cause of action.
+THS H02042'25 (H-4) puei07
+
+15
+1 (10) Receipt by the secretary of state of a properly tendered
+2 application for a certificate of title on which a security interest
+3 in a vehicle is to be indicated is a condition of perfection of a
+4 security interest in the vehicle and is equivalent to filing a
+5 financing statement under the uniform commercial code, 1962 PA 174,
+6 MCL 440.1101 to 440.9994, with respect to the vehicle. When a
+7 security interest in a vehicle is perfected, it has priority over
+8 the rights of a lien creditor as that term is defined in section
+9 9102 of the uniform commercial code, 1962 PA 174, MCL 440.9102.
+10 (11) Notwithstanding subsection (4), a dealer selling,
+11 leasing, or exchanging vehicles, required to be titled, after March
+12 31, 2021 but before August 1, 2021, may apply to the secretary of
+13 state for a new title, if required, and transfer or secure
+14 registration plates and secure a certificate of registration for
+15 the vehicle in the name of the purchaser within 30 days. Both of
+16 the following apply to a dealer that complies with this subsection:
+17 (a) The dealer's license must not be suspended or revoked in
+18 accordance with section 249 for failure to apply for a title when
+19 required or for failure to transfer or secure registration plates
+20 and certificate of registration within the 21-day period required
+21 under subsection (4).
+22 (b) The secretary of state shall not charge any applicable
+23 late fees required under subsection (4) and shall, on the dealer's
+24 request, reimburse a late fee charged and collected after March 31,
+25 2021 to the end of the period described under this subsection.
+26 (12) Notwithstanding subsection (5), a dealer selling or
+27 exchanging an off lease or buy back vehicle after March 31, 2021
+28 but before August 1, 2021 may apply to the secretary of state for a
+29 new title for the vehicle within not later than 30 days after the
+THS H02042'25 (H-4) puei07
+
+16
+1 dealer receives the certificate of title from the lessor or
+2 manufacturer under section 235 or 235b and transfer or secure
+3 registration plates and secure a certificate of registration for
+4 the vehicle in the name of the purchaser. Both of the following
+5 apply to a dealer that complies with this subsection:
+6 (a) The dealer's license must not be suspended or revoked in
+7 accordance with section 249 for failure to apply for a title when
+8 required or for failure to transfer or secure registration plates
+9 and certificate of registration within the 21-day period required
+10 under subsection (5).
+11 (b) The secretary of state shall not charge any applicable
+12 late fees required under subsection (5) and shall, on the dealer's
+13 request, reimburse a late fee charged and collected after March 31,
+14 2021 to the end of the period described under this subsection.
+15 Sec. 217c. (1) The secretary of state may conduct periodic
+16 reviews of the records of a dealer to determine whether adequate
+17 notice is given to a transferee or lessee of a rebuilt salvage
+18 vehicle of that vehicle's prior designation as a salvage vehicle.
+19 The secretary of state may request an insurance company to provide
+20 copies of salvage title documents and claims reports involving
+21 major component parts to assist the secretary of state in
+22 monitoring compliance with this act.
+23 (2) Except for a late model vehicle that has been stolen and
+24 recovered and that has no major component part removed, missing, or
+25 destroyed, or damaged and not salvageable, an insurance company
+26 licensed to conduct business in this state that acquires ownership
+27 of a late model vehicle through the payment of a claim shall
+28 proceed under either of the following:
+29 (a) If the insurance company acquires ownership of the vehicle
+THS H02042'25 (H-4) puei07
+
+17
+1 through payment of a total loss claim, the owner of the vehicle
+2 must shall assign the certificate of title to the insurance
+3 company, which shall do all of the following:
+4 (i) Surrender a properly assigned certificate of title to the
+5 secretary of state.
+6 (ii) If the estimated cost of repair, including parts and
+7 labor, is equal to or more than 75% but less than 91% of the
+8 predamaged actual cash value of the vehicle, apply for a salvage
+9 certificate of title, and if the estimated cost of repair,
+10 including parts and labor, is equal to or greater than 91% of the
+11 predamaged actual cash value of the vehicle, apply for a scrap
+12 certificate of title. The insurance company shall not sell the
+13 vehicle without first receiving a salvage or scrap certificate of
+14 title, which shall must be assigned to the buyer. An insurance
+15 company may assign a salvage or scrap certificate of the title only
+16 to an automotive recycler, used or secondhand vehicle parts dealer,
+17 foreign salvage vehicle dealer, distressed vehicle transporter, or
+18 vehicle scrap metal processor.
+19 (b) If after payment of a total loss claim the insurance
+20 company permits the owner of the vehicle to retain ownership, the
+21 insurance company shall do all of the following:
+22 (i) If the estimated cost of repair, including parts and labor,
+23 is equal to or greater than 75% but less than 91% of the predamaged
+24 actual cash value of the vehicle, require each owner of the vehicle
+25 to sign an application for a salvage certificate of title, or if
+26 the estimated cost of repair, including parts and labor, is equal
+27 to or greater than 91% of the predamaged actual cash value of the
+28 vehicle, require each owner of the vehicle to sign an application
+29 for a scrap vehicle certificate of title.
+THS H02042'25 (H-4) puei07
+
+18
+1 (ii) Attach the owner's certificate of title to the application
+2 for a salvage or scrap certificate of title or have the owner
+3 certify that the certificate of title is lost.
+4 (iii) On behalf of the owner, apply to the secretary of state
+5 for a salvage or scrap certificate of title in the name of the
+6 owner. The owner shall not sell or otherwise dispose of the vehicle
+7 without first receiving a salvage or scrap certificate of title,
+8 which must be assigned to the buyer. An insurance company may
+9 assign a salvage or scrap certificate of title only to an
+10 automotive recycler, used or secondhand vehicle parts dealer,
+11 foreign salvage vehicle dealer, or vehicle scrap metal processor.
+12 (3) If an insurance company pays a claim for total loss to the
+13 owner or lienholder of record as kept by the secretary of state, or
+14 both, if applicable, of a vehicle but the owner or lienholder of
+15 record as kept by the secretary of state fails to surrender the
+16 certificate of title or other document necessary for the transfer
+17 of ownership of the vehicle to the insurance company within the
+18 expiration of not later than 30 days after the claim payment, the
+19 insurance company, without having obtained the surrender of the
+20 title or other document otherwise necessary for the transfer of
+21 ownership for the vehicle from the owner or lienholder of record as
+22 kept by the secretary of state, or both, if applicable, may apply
+23 to the secretary of state for a title as provided under this
+24 section. The insurance company shall, at the time of application,
+25 provide proof of the payment and that the insurance company has
+26 requested in writing, by certified mail or by another commercially
+27 available delivery service providing proof of delivery, on at least
+28 2 separate occasions that the owner or lienholder of record as kept
+29 by the secretary of state surrender to the insurance company the
+THS H02042'25 (H-4) puei07
+
+19
+1 certificate of title or other document necessary for the transfer
+2 of ownership to the insurance company. The application must be
+3 signed under the penalty of perjury. Subject to subsection
+4 (2)(a)(ii), upon on meeting the requirements of this subsection, the
+5 secretary of state shall issue to the insurance company the
+6 appropriate certificate of title free of all liens. Proof of
+7 payment of the claim is satisfied only by 1 of the following:
+8 (a) In the case of payment by check, either of the following:
+9 (i) A copy of the front and back of the endorsed check.
+10 (ii) Evidence that the check has cleared the account of the
+11 payer.
+12 (b) In the case of payment by electronic transfer, evidence
+13 that the payment was charged to the account of the payer.
+14 (4) Except as provided in subsection (3), if an insurance
+15 company acquires ownership of a vehicle other than a late model
+16 vehicle through payment of damages due to an accident, the company
+17 shall surrender a properly assigned title to the buyer upon on
+18 delivery.
+19 (5) If a dealer acquires ownership of a late model vehicle
+20 that is a distressed vehicle from an owner, the dealer shall
+21 receive an assigned certificate of title. If the assigned
+22 certificate of title is not a salvage or scrap certificate of
+23 title, the dealer, other than a vehicle scrap metal processor,
+24 shall surrender the assigned certificate of title to the secretary
+25 of state, and, if the estimated cost of repair, including parts and
+26 labor, is equal to or greater than 75% but less than 91% of the
+27 predamaged actual cash value of the vehicle, apply for a salvage
+28 certificate of title, or if the estimated cost of repair, including
+29 parts and labor, is equal to or greater than 91% of the predamaged
+THS H02042'25 (H-4) puei07
+
+20
+1 actual cash value of the vehicle, apply for a scrap certificate of
+2 title within 5 not later than 10 days after the dealer receives the
+3 assigned certificate of title. The dealer may sell a salvage
+4 vehicle to another an automotive recycler, used or secondhand
+5 vehicle parts dealer, foreign salvage vehicle dealer, distressed
+6 vehicle transporter, or vehicle scrap metal processor by assigning
+7 the salvage certificate of title to the buyer. Unless the vehicle
+8 is rebuilt, inspected, and recertified under this section, if the
+9 vehicle is sold to a buyer other than a licensed dealer,
+10 application must be made for a salvage certificate in the name of
+11 the buyer in the manner provided in this act. The dealer may sell a
+12 scrap vehicle only to a vehicle scrap metal processor. A vehicle
+13 scrap metal processor shall surrender an assigned certificate of
+14 title to the secretary of state within not later than 30 days after
+15 acquiring a vehicle for which a certificate of title was received.
+16 A vehicle scrap metal processor shall surrender an assigned salvage
+17 or scrap certificate of title to the secretary of state within not
+18 later than 30 days after acquiring a vehicle for which a salvage or
+19 scrap certificate of title was received and processed, and report
+20 that the vehicle was destroyed or scrapped.
+21 (6) An application for a scrap certificate of title must be
+22 made on a form prescribed by the secretary of state and accompanied
+23 by a fee of $15.00. The application must contain all of the
+24 following:
+25 (a) The complete name and current address of the owner.
+26 (b) A description of the vehicle, including its make, style of
+27 body, model year, fee category or weight, color, and vehicle
+28 identification number.
+29 (c) If the vehicle is a late model vehicle, a listing of each
+THS H02042'25 (H-4) puei07
+
+21
+1 major component part that was not salvageable.
+2 (d) Further information as may reasonably be required by the
+3 secretary of state.
+4 (7) The scrap certificate of title must authorize the holder
+5 of the document to transport but not drive on a highway the vehicle
+6 or parts of a vehicle, and assign ownership to a vehicle scrap
+7 metal processor, automotive recycler, used or secondhand vehicle
+8 parts dealer, or foreign salvage vehicle dealer. A certificate of
+9 title must not again be issued for this vehicle. A person shall not
+10 rebuild or repair a scrap vehicle and allow it to retain the
+11 original vehicle identification number.
+12 (8) If a person, other than a dealer or insurance company that
+13 is subject to subsection (2) or (5), acquires ownership of a
+14 distressed, late model vehicle, the person must surrender the title
+15 or assigned certificate of title to the secretary of state, and if
+16 the estimated cost of repair, including parts and labor, is equal
+17 to or greater than 75% but less than 91% of the predamaged actual
+18 cash value of the vehicle, apply for a salvage certificate of
+19 title, or if the estimated cost of repair, including parts and
+20 labor, is equal to or greater than 91% of the predamaged actual
+21 cash value of the vehicle, apply for a scrap certificate of title
+22 before the vehicle may be transported.
+23 (9) An owner of a vehicle may determine that a vehicle is a
+24 scrap vehicle or a salvage vehicle without making any determination
+25 as to the actual cash value of the vehicle.
+26 (10) If a leasing company, vehicle manufacturer, insurance
+27 company not licensed to do business in this state, association,
+28 repossession company, self-insured owner, financial institution,
+29 governmental entity, or other company, institution, or entity, owns
+THS H02042'25 (H-4) puei07
+
+22
+1 a distressed, late model vehicle, the titleholder shall surrender
+2 the title or assigned certificate of title to the secretary of
+3 state and apply for a salvage certificate of title if the retail
+4 cost of repair, including parts and labor, is equal to or greater
+5 than 75% but less than 91% of the predamaged actual cash value of
+6 the vehicle, or if the retail cost of repair, including parts and
+7 labor, is equal to or greater than 91% of the predamaged actual
+8 cash value of the vehicle, apply for a scrap certificate of title,
+9 before the vehicle may be transported or sold. If ownership is
+10 transferred, the owner must sell the vehicle only to a dealer that
+11 is eligible to buy a salvage or scrap vehicle in this state unless
+12 the owner complies with subsection (13). When a leasing company,
+13 vehicle manufacturer, insurance company not licensed to do business
+14 in this state, association, repossession company, self-insured
+15 owner, financial institution, governmental entity, or other
+16 company, institution, or entity, estimates the repair of a
+17 distressed, late model vehicle for the purpose of determining
+18 whether to apply for a salvage or scrap certificate of title, a
+19 complete record of the estimate and, if the vehicle is repaired
+20 before a transfer of ownership, a complete record of the actual
+21 cost of the repairs performed and who performed the repairs must be
+22 maintained for a minimum of 5 years by the leasing company, vehicle
+23 manufacturer, insurance company not licensed to do business in this
+24 state, association, repossession company, self-insured owner,
+25 financial institution, governmental entity, or other company,
+26 institution, or entity. The estimates and repair records required
+27 by this subsection must be available for unannounced inspections by
+28 a law enforcement agency or a representative of the secretary of
+29 state. The secretary of state may request a leasing company,
+THS H02042'25 (H-4) puei07
+
+23
+1 vehicle manufacturer, insurance company not licensed to do business
+2 in this state, association, repossession company, self-insured
+3 owner, financial institution, governmental entity, or other
+4 company, institution, or entity to provide copies of title
+5 documents, repair estimates, claims reports involving major
+6 component parts, and actual cash value determination documents to
+7 assist the secretary of state in monitoring compliance with this
+8 act.
+9 (11) An application for a salvage certificate of title must be
+10 made on a form prescribed by the secretary of state and accompanied
+11 by a fee of $10.00. The application must contain all of the
+12 following:
+13 (a) The complete name and current address of the owner.
+14 (b) A description of the vehicle, including its make, style of
+15 body, model year, fee category or weight, color, and vehicle
+16 identification number.
+17 (c) An estimate of the cost repair, including parts and labor,
+18 and an estimate of the predamaged actual cash value of the vehicle.
+19 (d) If the vehicle is a late model vehicle, a listing of each
+20 major component part that was not salvageable.
+21 (e) Further information as may reasonably be required by the
+22 secretary of state.
+23 (12) The secretary of state shall issue and mail the salvage
+24 certificate within not later than 5 business days after the time
+25 the application is received at the secretary of state's office in
+26 Lansing. Each salvage certificate of title must include a listing
+27 of each major component part that was not salvageable.
+28 (13) A salvage certificate of title authorizes the holder of
+29 the title to possess, transport, but not drive on a highway, and
+THS H02042'25 (H-4) puei07
+
+24
+1 transfer ownership in, a vehicle. The secretary of state shall not
+2 issue a certificate of title or registration plates for a vehicle
+3 for which a salvage certificate of title was issued unless a
+4 specially trained officer described in subsection (15) certifies
+5 all of the following:
+6 (a) That the vehicle identification numbers and parts
+7 identification numbers are correct.
+8 (b) That the applicant has proof of ownership of repair parts
+9 used.
+10 (c) That the vehicle complies with the equipment standards of
+11 this act.
+12 (d) That any repairs performed on the vehicle were done in a
+13 workmanlike manner, as certified on a form provided by the
+14 department by a properly licensed mechanic in the appropriate
+15 specialty. A properly licensed mechanic described in under this
+16 subdivision must not be the same individual as the specially
+17 trained officer making the certification of the vehicle as required
+18 under this subsection.
+19 (14) The certification required by subsection (13) must be
+20 made on a form prescribed and furnished by the secretary of state
+21 in conjunction with the department of state police and must
+22 accompany the application that is submitted to the secretary of
+23 state for a certificate of title. An application for a certificate
+24 of title must contain a description of each salvageable part used
+25 to repair the vehicle and any identification number affixed to or
+26 inscribed on the part as required by state or federal law. Upon On
+27 satisfactory completion of the inspection as required by the
+28 secretary of state and other requirements for application, the
+29 secretary of state shall issue a certificate of title for the
+THS H02042'25 (H-4) puei07
+
+25
+1 vehicle bearing the legend "rebuilt salvage".
+2 (15) An officer specially trained as provided by the secretary
+3 of state and authorized by the secretary of state to conduct a
+4 salvage vehicle inspection is any of the following:
+5 (a) An employee of the department of state.
+6 (b) An on-duty or off-duty police officer.
+7 (c) A previously certified police officer who is appointed by
+8 the local police agency as a limited enforcement officer to conduct
+9 salvage vehicle inspections. The local police agency shall give
+10 this officer access to the agency's law enforcement information
+11 network system and the authority to confiscate any stolen vehicle
+12 or vehicle parts discovered during an inspection. The local police
+13 agency may give the officer the authority to arrest a person
+14 suspected of having unlawful possession of a stolen vehicle or
+15 vehicle parts. The local police agency shall not appoint a
+16 previously certified police officer whose certificate has been
+17 suspended, revoked, or denied under subsection (16).
+18 (16) The secretary of state shall issue a certificate to an
+19 officer who is specially trained as provided by the secretary of
+20 state to conduct salvage vehicle inspections. Only a person who has
+21 a valid certification from the secretary of state may perform
+22 salvage inspections. The secretary of state on the secretary of
+23 state's own initiative or in response to complaints shall make
+24 reasonable and necessary public or private investigations within or
+25 outside of this state and gather evidence against an officer who
+26 was issued a certificate and who violated or is about to violate
+27 this act or a rule promulgated under this act. Subject to
+28 subsection (17), the secretary of state may suspend, revoke, or
+29 deny a certificate after an investigation if the secretary of state
+THS H02042'25 (H-4) puei07
+
+26
+1 determines that the officer committed 1 or more of the following:
+2 (a) Violated this act or a rule promulgated under this act.
+3 (b) Was, after an investigation, found responsible for a
+4 fraudulent act in connection with the inspection, purchase, sale,
+5 lease, or transfer of a salvage vehicle.
+6 (c) Was found guilty of the theft, embezzlement, or
+7 misappropriation of salvage vehicle inspection fees.
+8 (d) Performed improper, careless, or negligent salvage vehicle
+9 inspections.
+10 (e) Ceased to function as a police officer because of
+11 suspension, retirement, dismissal, disability, or termination of
+12 employment.
+13 (f) Was convicted of a violation or attempted violation of
+14 1986 PA 119, MCL 257.1351 to 257.1355.
+15 (g) Made a false statement of a material fact in the officer's
+16 certification of a salvage vehicle inspection or any record
+17 concerning a salvage vehicle inspection.
+18 (h) Charged a fee in excess of the fee described in subsection
+19 (26).
+20 (17) If the secretary of state revokes, suspends, or denies a
+21 certificate under subsection (16)(a), (d), (g), or (h), the
+22 secretary of state shall, at the time of revocation, suspension, or
+23 denial, notify the officer and the law enforcement agency on behalf
+24 of which the officer is performing inspections of the law
+25 enforcement agency's right to appeal the revocation, suspension, or
+26 denial. The notification must include a statement that a request
+27 for an appeal under this subsection must be made no later than 30
+28 days after the revocation, suspension, or denial. An agency making
+29 an appeal under this subsection may request a hearing at the time
+THS H02042'25 (H-4) puei07
+
+27
+1 the appeal is made. The secretary of state or any person designated
+2 by the secretary of state to act in the secretary of state's place
+3 shall deny or grant an appeal made under this subsection within a
+4 reasonable period, in writing or stated in the record if a hearing
+5 is held. If the secretary of state revokes a certificate under
+6 subsection (16)(a), (d), (g), or (h) and denies an appeal of the
+7 revocation under this subsection, the officer may apply for a new
+8 certificate no earlier than 5 years after the revocation.
+9 (18) Upon On receipt of the appropriate abstract of conviction
+10 from a court and without any investigation, the secretary of state
+11 shall immediately revoke the certificate of an officer who has been
+12 convicted of a violation or attempted violation of section 413,
+13 414, 415, 535, 535a, or 536a of the Michigan penal code, 1931 PA
+14 328, MCL 750.413, 750.414, 750.415, 750.535, 750.535a, and
+15 750.536a, or has been convicted in federal court or in another
+16 state of a violation or attempted violation of a law substantially
+17 corresponding to 1 of those sections.
+18 (19) If a dealer, other than a vehicle scrap metal processor,
+19 acquires ownership of an older model a vehicle from an owner, the
+20 dealer shall must receive an assigned certificate of title and
+21 shall retain it as long as the dealer retains the vehicle. If a
+22 vehicle scrap metal processor acquires ownership of a vehicle from
+23 an owner who is not a licensed dealer, the vehicle scrap metal
+24 processor must receive an assigned certificate of title and shall
+25 retain the certificate of title until surrendered to the secretary
+26 of state under this subsection. A vehicle scrap metal processor,
+27 used or secondhand vehicle parts dealer, distressed vehicle
+28 transporter, or automotive recycler shall surrender an assigned
+29 certificate of title to the secretary of state within 30 days after
+THS H02042'25 (H-4) puei07
+
+28
+1 the vehicle is destroyed or scrapped.as required under this
+2 subsection. A vehicle scrap metal processor shall surrender an
+3 assigned certificate of title not later than 30 days after
+4 processing the vehicle. If an automotive recycler, used or
+5 secondhand parts dealer, used vehicle dealer, distressed vehicle
+6 transporter, or foreign salvage vehicle dealer sells or assigns a
+7 vehicle to a vehicle scrap metal processor, the seller or assignor
+8 shall surrender the certificate of title to the secretary of state
+9 not later than 30 days after the vehicle is sold or assigned as
+10 required under subsection (20).
+11 (20) A dealer selling or assigning a vehicle to a vehicle
+12 scrap metal processor shall make a record in a format determined by
+13 the secretary of state. triplicate on a form to be provided by the
+14 secretary of state in substantially the following form:
+15 Scrap Vehicle Inventory:
+16 SELLER: Dealer name __________________________________________
+17 Dealer address _______________________________________
+18 Dealer license number ________________________________
+19 PURCHASER: Conveyed to:_________________________ Date____________
+20 (Vehicle scrap metal processor)
+21 Dealer address _______________________________________
+22 Dealer license number ________________________________
+23 Vehicles
+24 Dealer's
+25 Stock
+26 Model Year Vehicle Make VIN Title Number Number Color
+27 1.________ ____________ ___ ___________ ______ ______
+28 2.________ ____________ ___ ___________ ______ ______
+29 3.________ ____________ ___ ___________ ______ ______
+THS H02042'25 (H-4) puei07
+
+29
+1 etc.
+2 One copy must be retained as a permanent record by the dealer,
+3 1 copy must be forwarded with the vehicle to be retained by the
+4 vehicle scrap metal processor, and 1 copy must be forwarded to the
+5 secretary of state.The purchasing dealer's name noted on the record
+6 must correspond to the name of the assignee on the title submitted
+7 by the selling dealer provided under subsection (19). The record
+8 must include, but is not limited to, all of the following
+9 information:
+10 (a) The dealer's name, address, and license number.
+11 (b) The scrap metal processor's name, address, and license
+12 number.
+13 (c) The date of the transaction.
+14 (d) The vehicle's year, make, vehicle identification number,
+15 title number, dealer stock number, and color.
+16 (21) A person, other than an automotive recycler, used or
+17 secondhand vehicle parts dealer, distressed vehicle transporter, or
+18 a foreign salvage vehicle dealer, receiving a salvage certificate
+19 of title shall not sell the vehicle to anyone other than 1 of the
+20 following:
+21 (a) The vehicle's former owner.
+22 (b) A used or secondhand vehicle parts dealer.
+23 (c) A vehicle scrap metal processor.
+24 (d) A foreign salvage vehicle dealer licensed under this act.
+25 (e) An automotive recycler.
+26 (f) A distressed vehicle transporter.
+27 (22) A person receiving a scrap certificate of title shall not
+28 sell the vehicle to anyone other than 1 of the following:
+29 (a) An automotive recycler.
+THS H02042'25 (H-4) puei07
+
+30
+1 (b) A vehicle scrap metal processor.
+2 (c) A foreign salvage vehicle dealer licensed under this act.
+3 (d) A used or secondhand vehicle parts dealer.
+4 (e) A distressed vehicle transporter.
+5 (23) The secretary of state may conduct periodic reviews of
+6 the records of a dealer to determine whether adequate notice is
+7 given to a transferee or lessee of a rebuilt salvage vehicle of
+8 that vehicle's prior designation as a salvage vehicle. The
+9 secretary of state may request an insurance company to provide
+10 copies of salvage title documents and claims reports involving
+11 major component parts to assist the secretary of state in
+12 monitoring compliance with this act.
+13 (24) A licensed automotive recycler, used or secondhand
+14 vehicle parts dealer, vehicle scrap metal processor, vehicle
+15 salvage pool operator, distressed vehicle transporter, foreign
+16 salvage vehicle dealer, or broker that has removed a scrap vehicle
+17 from this state for the purpose of rebuilding the vehicle or
+18 selling or leasing the vehicle to a person other than a vehicle
+19 scrap metal processor, shall receive an automatic suspension of its
+20 dealer license and of any salvage vehicle agent's license assigned
+21 to that dealer for a period of 30 days. Upon On receipt by the
+22 secretary of state of a written request from the dealer, the dealer
+23 shall have the right to an immediate hearing on the matter within
+24 that 30-day period.
+25 (25) For the purpose of this section, the estimated costs of
+26 the repair parts must be determined by using the current published
+27 retail cost of original manufacturer equipment parts or an estimate
+28 of the actual cost of the repair parts. The estimated labor costs
+29 must be computed by using the hourly rate and time allocations that
+THS H02042'25 (H-4) puei07
+
+31
+1 are reasonable and commonly assessed in the repair industry in the
+2 community where the repairs are performed.
+3 (26) A police agency shall charge a fee for an inspection of a
+4 vehicle under subsection (13). Each local authority with a police
+5 agency shall determine the amount of the fee for inspections by
+6 that police agency, that but the fee must not exceed $100.00.
+7 $125.00. Except as otherwise provided in this subsection, a fee
+8 collected under this subsection must be deposited with the local
+9 authority for that police agency. The records of the local
+10 authority regarding the collection and disposition of inspection
+11 fees is subject to review or audit by the local unit of government
+12 and must be made available upon on request to the department. If an
+13 inspection was conducted by an employee of the department of state,
+14 the fee must be deposited with the department of state. A fee
+15 collected by a local authority must be used for law enforcement
+16 purposes. related to stolen vehicles, including, but not limited
+17 to, equipment and road patrol services that increase the likelihood
+18 of recovering stolen vehicles or stolen vehicle parts, and salvage
+19 vehicle inspections. A fee collected by the department of state
+20 must be used by the department for the administration of the
+21 salvage vehicle inspection program and must not lapse to the
+22 general fund. A local police agency may compensate an off-duty and
+23 limited enforcement police officer for a salvage vehicle
+24 inspection.
+25 (27) For the purpose of this section, "actual cash value"
+26 means the retail dollar value of a vehicle as determined by an
+27 objective vehicle evaluation using local market resources such as
+28 dealers or want ads or by an independent vehicle evaluation or
+29 vehicle appraisal service or by a current issue of a nationally
+THS H02042'25 (H-4) puei07
+
+32
+1 recognized used vehicle guide for financial institution appraisal
+2 purposes in this state.
+3 Sec. 233. (1) If the owner of a registered vehicle transfers
+4 or assigns the title or interest in the vehicle, the registration
+5 plates issued for the vehicle shall must be removed and transferred
+6 to the owner's spouse, mother, father, sister, brother, or child to
+7 whom title or interest in the vehicle is transferred, or retained
+8 and preserved by the owner for transfer to another vehicle upon on
+9 application and payment of the required fees. A person shall not
+10 transfer the plates to a vehicle without applying for a proper
+11 certificate of registration describing the vehicle to which the
+12 plates are being transferred, except as provided in section 217(4).
+13 If the owner of a registered vehicle acquires another vehicle
+14 without transferring or assigning the title or interest in the
+15 vehicle for which the plates were issued, the owner may have the
+16 plates transferred to the subsequently acquired vehicle upon on
+17 application and payment of the required fees.
+18 (2) A person shall not purchase or lease another vehicle or an
+19 interest in another vehicle with the intent to circumvent the
+20 restrictions created by immobilization of a vehicle under this act.
+21 (3) A person shall not transfer or attempt to transfer
+22 ownership or right of possession of a vehicle subject to forfeiture
+23 or ordered forfeited under this act with the intent to avoid the
+24 forfeiture of that vehicle.
+25 (4) During the time a vehicle is subject to a temporary
+26 registration plate, vehicle forfeiture, immobilization,
+27 registration denial, or the period from adjudication to
+28 immobilization or forfeiture under this act, a person shall not
+29 without a court order transfer or assign the title or an interest
+THS H02042'25 (H-4) puei07
+
+33
+1 in the vehicle to a person who that is not subject to payment of a
+2 use tax under section 3 of the use tax act, 1937 PA 94, MCL 205.93.
+3 (5) A person who that violates subsection (2), (3), or (4) is
+4 guilty of a misdemeanor punishable by imprisonment for not more
+5 than 1 year or a fine of not more than $1,000.00, or both.
+6 (6) A person An individual whose operator's or chauffeur's
+7 license is suspended, revoked, or denied for, or who has never been
+8 licensed by this state and was convicted for, a third or subsequent
+9 violation of section 625 or 625m, of a local ordinance
+10 substantially corresponding to section 625 or 625m, or of a law of
+11 another state substantially corresponding to section 625 or 625m,
+12 or for a fourth or subsequent suspension or revocation under
+13 section 904 shall not purchase, lease, or otherwise acquire a motor
+14 vehicle during the suspension, revocation, or denial period. A
+15 person An individual who violates this subsection is guilty of a
+16 misdemeanor punishable by imprisonment for not more than 93 days or
+17 a fine of not more than $100.00, or both.
+18 (7) If the assigned holder of registration plates applies for
+19 a new registration certificate, the application shall must be
+20 accompanied either by the old registration certificate or by a
+21 certificate of title showing the person to be the assigned holder
+22 of the registration plates for which the old registration
+23 certificate had been issued. A person who that fails or neglects to
+24 fulfill the requirements of this subsection is guilty of a
+25 misdemeanor punishable by imprisonment for not more than 93 days or
+26 a fine of not more than $100.00, or both.
+27 (8) The Except for a title issued electronically under section
+28 222, the owner shall indorse endorse on the certificate of title as
+29 required by the secretary of state an assignment of the title with
+THS H02042'25 (H-4) puei07
+
+34
+1 warranty of title in the form printed on the certificate with a
+2 statement of all security interests in the vehicle or in
+3 accessories on the vehicle and deliver or cause the certificate to
+4 be mailed or delivered to the purchaser or transferee at the time
+5 of the delivery to the purchaser or transferee of the vehicle. The
+6 certificate shall must show the payment or satisfaction of any
+7 security interest as shown on the original title. However, as
+8 provided under section 238, the secretary of state is not required
+9 to issue a title to the owner of a vehicle if the title is subject
+10 to a security interest.
+11 (9) Upon On the delivery of a motor vehicle and the transfer,
+12 sale, or assignment of the title or interest in a motor vehicle by
+13 a person, including a dealer, the effective date of the transfer of
+14 title or interest in the vehicle is the date of signature on either
+15 the application for title or the assignment of the certificate of
+16 title by the purchaser, transferee, or assignee.
+17 (10) A secured receipt that is in a form approved by the
+18 department and produced at the time the secured interest is
+19 presented with payment in satisfaction of the security interest may
+20 be submitted to the department in lieu of the title for purposes of
+21 transferring ownership in the vehicle.
+22 Sec. 233a. (1) Except as otherwise provided in subsection
+23 (17), if the owner of a registered motor vehicle transfers the
+24 owner's title or interest in that vehicle, the transferor shall
+25 present to the transferee before delivery of the vehicle, written
+26 disclosure of odometer mileage by means of the certificate of title
+27 or a written statement signed by the transferor including the
+28 transferor's printed name, containing all of the following:
+29 (a) The odometer reading at the time of transfer, not
+THS H02042'25 (H-4) puei07
+
+35
+1 including the tenths of a mile or kilometer.
+2 (b) The date of transfer.
+3 (c) The transferor's name and current address.
+4 (d) The transferee's name and current address.
+5 (e) The identity of the vehicle, including its make, model,
+6 body type, year, and vehicle identification number.
+7 (f) A reference to this section and comparable federal law,
+8 and a statement that failing to complete the title or form or
+9 providing false information may result in civil liability and civil
+10 or criminal penalties being imposed on the transferor.
+11 (g) One of the following:
+12 (i) A statement by the transferor certifying that to the best
+13 of the transferor's knowledge the odometer reading reflects the
+14 actual mileage of the vehicle.
+15 (ii) If the transferor knows that the odometer reading reflects
+16 the amount of mileage in excess of the designed mechanical odometer
+17 limit, a statement to that effect.
+18 (iii) If the transfer knows that the odometer reading differs
+19 from the mileage and the difference is greater than that caused by
+20 odometer calibration error, a statement that the odometer reading
+21 does not reflect the actual mileage and should not be relied on.
+22 This notice must include a warning notice to alert the transferee
+23 that a discrepancy exists between the odometer and the actual
+24 mileage.
+25 (h) Space for the signature and printed name of the
+26 transferee, and the date of presentation to the transferee.
+27 (2) A certificate of title and a dealer reassignment form must
+28 contain a place for the information required by subsection (1)(a)
+29 to (h). If the vehicle is not titled or the title does not contain
+THS H02042'25 (H-4) puei07
+
+36
+1 a space for the required information, a written statement must be
+2 provided as a separate document.
+3 (3) A dealer selling or exchanging vehicles required to be
+4 titled under this act shall present the certificate of title or
+5 written statement and any reassigned titles in the dealer's
+6 possession to the transferee. The transferee or the transferee's
+7 agent shall inspect, print the transferee's or transferee's agent's
+8 name on, sign, and date the certificate or statement and return it
+9 to the transferor for submission to the secretary of state. If
+10 neither the transferee nor transferor is a dealer licensed under
+11 this act, completing the odometer information on the certificate of
+12 title must be considered to comply with subsection (1). A person
+13 shall not sign an odometer disclosure statement as both the
+14 transferor and transferee in the same transaction.
+15 (4) A new or used vehicle dealer shall obtain from the
+16 transferor a completed odometer mileage statement that meets the
+17 requirements of subsection (1) with each motor vehicle acquired by
+18 the dealer. Except as provided in subsection (16), the dealer shall
+19 not accept or provide an odometer mileage statement or a title that
+20 contains a place for odometer information that has not been
+21 completely filled in by the transferor.
+22 (5) The odometer information described in subsection (1) must
+23 not be required for any of the following:
+24 (a) Vehicles having a gross vehicle weight rating of more than
+25 16,000 pounds.
+26 (b) A vehicle that is not self-propelled.
+27 (c) A vehicle manufactured in or before the 2010 model year
+28 that is transferred at least 10 years after January 1 of the
+29 calendar year that is included in the model year in which the
+THS H02042'25 (H-4) puei07
+
+37
+1 vehicle is manufactured.
+2 (d) A vehicle manufactured in or after the 2011 model year
+3 that is transferred at least 20 years after January 1 of the
+4 calendar year that is included in the model year in which the
+5 vehicle was manufactured.
+6 (e) A new vehicle transferred from a manufacturer to a dealer.
+7 (f) A vehicle sold directly by the manufacturer to an agency
+8 of the United States in conformity with contractual specifications.
+9 (g) A low-speed vehicle.
+10 (h) A scrap vehicle.
+11 (6) A person shall not alter, set back, or disconnect an
+12 odometer; cause or allow an odometer to be altered, set back, or
+13 disconnected; or advertise for sale, sell, use, install, or cause
+14 or allow to be installed a device which causes an odometer to
+15 register other than the actual mileage driven. This subsection does
+16 not prohibit the service, repair, or replacement of an odometer if
+17 the mileage indicated on the odometer remains the same as before
+18 the service, repair, or replacement. If the odometer is incapable
+19 of registering the same mileage as before the service, repair, or
+20 replacement, the odometer must be adjusted to read zero and a
+21 notice in writing must be attached to the left door frame of the
+22 vehicle by the owner or the owner's agent specifying the mileage
+23 prior to service, repair, or replacement of the odometer and the
+24 date on which it was serviced, repaired, or replaced. A person
+25 shall not remove, deface, or alter any notice affixed to a motor
+26 vehicle under this subsection.
+27 (7) A person who violates subsection (6) is guilty of a
+28 felony.
+29 (8) Before executing a transfer of ownership document, a
+THS H02042'25 (H-4) puei07
+
+38
+1 lessor of a leased vehicle shall notify the lessee in writing that
+2 ownership of the vehicle is being transferred and that the lessee
+3 is required to provide a written statement to the lessor regarding
+4 the mileage of the vehicle. This notice must inform the lessee of
+5 the penalties for failure to comply with the requirement.
+6 (9) Upon On receiving notification from the lessor of a leased
+7 vehicle that ownership of the vehicle is to be transferred, the
+8 lessee shall furnish to the lessor a written statement regarding
+9 the mileage of the vehicle. This statement must be signed by the
+10 lessee and must contain all of the following:
+11 (a) The printed name of the person making the statement.
+12 (b) The current odometer reading, not including tenths of
+13 miles.
+14 (c) The date of the statement.
+15 (d) The lessee's name and current address.
+16 (e) The lessor's name and current address.
+17 (f) The identity of the vehicle, including its make, model,
+18 year, body type, and vehicle identification number.
+19 (g) The date that the lessor notified the lessee of the
+20 requirements of this subsection.
+21 (h) The date that the completed disclosure statement was
+22 received by the lessor.
+23 (i) The signature of the lessor.
+24 (j) One of the following:
+25 (i) A statement by the lessee certifying that to the best of
+26 the lessee's knowledge the odometer reading reflects the actual
+27 mileage of the vehicle.
+28 (ii) If the lessee knows that the odometer reading reflects the
+29 amount of mileage in excess of the designed mechanical odometer
+THS H02042'25 (H-4) puei07
+
+39
+1 limit, a statement to that effect.
+2 (iii) If the lessee knows that the odometer reading differs from
+3 the mileage and that the difference is greater than that caused by
+4 odometer calibration error, a statement that the odometer reading
+5 is not the actual mileage and should not be relied on.
+6 (10) If the lessor transfers a leased vehicle without
+7 obtaining possession of the vehicle, the lessor may indicate on the
+8 certificate of title the mileage disclosed by the lessee under
+9 subsection (9), unless the lessor has reason to believe that the
+10 mileage disclosed by the lessee does not reflect the actual mileage
+11 of the vehicle.
+12 (11) A dealer that is required by this section to execute an
+13 odometer mileage statement shall retain for 5 years a photostatic,
+14 carbon, or other facsimile copy of each odometer mileage statement
+15 the dealer issues or receives. The dealer shall retain the odometer
+16 mileage statements at the dealer's primary place of business in an
+17 order that is appropriate to business requirements and that permits
+18 systematic retrieval.
+19 (12) A lessor shall retain, for 5 years following the date of
+20 transfer of ownership of each leased vehicle, the odometer mileage
+21 statement received from the lessee. The lessor shall retain the
+22 odometer mileage statements at the lessor's primary place of
+23 business in an order that is appropriate to business requirements
+24 and that permits systematic retrieval.
+25 (13) An auction dealer or vehicle salvage pool operator shall
+26 establish and retain at the auction dealer's or vehicle salvage
+27 pool operator's primary place of business in an order that is
+28 appropriate to business requirements and that permits systematic
+29 retrieval, for 5 years following the date of sale of each motor
+THS H02042'25 (H-4) puei07
+
+40
+1 vehicle, the following records:
+2 (a) The name and the most recent owner, other than the auction
+3 dealer or salvage pool operator.
+4 (b) The name of the buyer.
+5 (c) The vehicle identification number.
+6 (d) The odometer reading, not including the tenths of a mile,
+7 on the date the auction dealer or salvage pool operator took
+8 possession of the motor vehicle.
+9 (14) A violation of subsection (1) or (6) by any dealer
+10 licensed under this act is prima facie evidence of a fraudulent act
+11 as provided in section 249.
+12 (15) A person who, with intent to defraud, violates any
+13 requirement under subsection (1) or (6), or a dealer that fails to
+14 retain for 5 years each odometer mileage statement the dealer
+15 receives and each odometer mileage statement furnished by the
+16 dealer upon on the sale of a vehicle, is liable in an amount equal
+17 to 3 times the amount of actual damages sustained or $1,500.00
+18 whichever is greater, and in the case of a successful recovery of
+19 damages, the costs of the action together with reasonable attorney
+20 fees.
+21 (16) For the purposes of this section and beginning not later
+22 than July 1, 2026, the department may shall accept an
+23 electronically signed odometer disclosure document that complies
+24 with all of the following:from a new vehicle dealer or a used or
+25 secondhand vehicle dealer approved by the department.
+26 (a) Is submitted on a form that is approved by the department.
+27 (b) Is electronically signed using software that provides
+28 antitamper and identification verification technology and is
+29 approved for this use by the department.
+THS H02042'25 (H-4) puei07
+
+41
+1 (c) Is otherwise fully compliant with 49 CFR part 580.
+2 (17) The department may establish, implement, and operate an
+3 electronic system to process the notification and transfer of a
+4 vehicle ownership interest between private parties through an
+5 electronic transfer instead of the collection of paper documents
+6 otherwise required under this act. If the electronic system is
+7 established, a private party that uses the electronic system shall
+8 comply with any requirement of this section that the department
+9 determines is necessary and provide any information that is
+10 required by the department. The department may enter into 1 or more
+11 contracts to establish, implement, and operate the electronic
+12 system under this subsection. The contract must require the
+13 protection of proprietary information contained in the electronic
+14 system and other information as protected under this act.
+15 (18) As used in this section, "private parties" means that
+16 both a vehicle's buyer and seller are not a dealer.
+17 Sec. 233b. (1) As used in this section:
+18 (a) "Distributor" means that term as defined in section 3(1)
+19 of the motor vehicle franchise act, 1981 PA 118, MCL 445.1563.
+20 (b) "Manufacturer" means that term as defined in section 4(2)
+21 4(5) of the motor vehicle franchise act, 1981 PA 118, MCL 445.1564.
+22 (c) "Program vehicle" means a motor vehicle from either the
+23 current model year or the immediately preceding model year, that
+24 was repurchased by a manufacturer or distributor from a rental car
+25 company.
+26 (2) Except as provided in this subsection, a new motor vehicle
+27 dealer shall disclose in writing to a purchaser or lessee of a new
+28 motor vehicle, demonstrator, courtesy transportation vehicle,
+29 executive or manufacturer's vehicle, or program vehicle before
+THS H02042'25 (H-4) puei07
+
+42
+1 entering into a sales contract or lease agreement that, after the
+2 vehicle completed the manufacturing process, the vehicle was
+3 damaged and repaired, including an itemization of repairs, if the
+4 dealer has knowledge of the damage and repairs and if the cost of
+5 the cumulative repairs, as calculated at the rate of the dealer's
+6 authorized warranty rate for labor and parts exceeds either 1 of
+7 the following:
+8 (a) Five percent of the manufacturer's suggested retail price
+9 of the vehicle.
+10 (b) Seven hundred fifty One thousand five hundred dollars in
+11 surface coating repairs or corrosion protection restoration or a
+12 combination of these items. If a new motor vehicle dealer fails to
+13 comply with this subsection, the purchaser or lessee shall retain
+14 all applicable remedies available under article 2 of the uniform
+15 commercial code, 1962 PA 174, MCL 440.2101 to 440.2725.
+16 (3) A dealer in new motor vehicles is not required to disclose
+17 to a purchaser or lessee under this act that any glass, tires,
+18 wheels, bumpers, audio equipment, in-dash components, or components
+19 contained in the living quarters of a motor home that are not
+20 required for the operation of the motor home as a motor vehicle
+21 were damaged at any time if the damaged item has been replaced with
+22 original manufacturer's parts and material.
+23 (4) Repaired damage to a motor vehicle, subject to this
+24 section, not exceeding the cost of cumulative repairs as determined
+25 pursuant to subsection (2) shall is not constitute grounds for
+26 revocation of acceptance by the purchaser or lessee. The right of
+27 revocation ceases upon the purchaser's or lessee's acceptance of
+28 delivery of the vehicle.
+29 Sec. 234. (1) The Except for a title issued electronically
+THS H02042'25 (H-4) puei07
+
+43
+1 under section 222, if a purchaser or transferee, unless the person
+2 is a licensed dealer, shall present or cause presents or causes to
+3 be presented the certificate of title and registration certificate
+4 if plates are being transferred to another vehicle, assigned as
+5 provided in this act, to the secretary of state accompanied by with
+6 the fees as provided by law, whereupon a new certificate of title
+7 and registration certificate shall must be issued to the assignee.
+8 The certificate of title shall must be mailed or delivered to the
+9 owner or another person the owner may direct in a separate
+10 instrument in a form prescribed by the secretary of state. shall
+11 prescribe.
+12 (2) If the secretary of state mails or delivers a purchaser's
+13 or transferee's certificate of title to a dealer, the dealer shall
+14 mail or deliver that certificate of title to the purchaser or
+15 transferee not more than 5 days after receiving the certificate of
+16 title. from the secretary of state.
+17 (3) Unless the transfer is made and the fee fees are paid
+18 within 15 21 days, the vehicle is considered to be without
+19 registration, the secretary of state may repossess the license
+20 plates, and transfer of the vehicle ownership may be effected and a
+21 valid registration acquired thereafter only upon after payment of a
+22 transfer fee of $15.00 $50.00 in addition to the fee fees provided
+23 for in section 806.
+24 (4) If a security interest is reserved or created at the time
+25 of the transfer, the parties shall comply with the requirements of
+26 section 238.
+27 Sec. 235. (1) If the transferee of a vehicle is a new motor
+28 vehicle dealer or a used or secondhand vehicle dealer that acquires
+29 the vehicle for resale, the dealer is not required to obtain a new
+THS H02042'25 (H-4) puei07
+
+44
+1 registration of the vehicle or forward the certificate of title to
+2 the secretary of state, but shall retain and have in the dealer's
+3 immediate possession, or, upon on providing prior written notice to
+4 the department and receiving the department's approval within not
+5 later than 7 business days after the department receives the
+6 written notice, at a secondary location owned by the dealer that is
+7 located within a 15-mile radius, the assigned certificate of title
+8 with the odometer information properly completed, except for a
+9 title issued electronically under section 222, or as otherwise
+10 provided in section 235b. A dealer shall obtain a certificate of
+11 title for a vehicle that has a salvage certificate of title before
+12 the dealer may operate the vehicle under dealer's license plates.
+13 Upon transferring title or interest to another person that is not a
+14 dealer, the dealer shall complete an assignment and warranty of
+15 title upon on the certificate of title, salvage certificate of
+16 title, or dealer reassignment of title form and apply for a
+17 registration and a new title as provided in section 217(4).
+18 (2) The dealer or transferee is liable for all damages arising
+19 from the operation of the vehicle while the vehicle is in the
+20 dealer's or transferee's possession.
+21 (3) Upon Except for a title issued electronically under
+22 section 222, on transferring title or interest to another dealer,
+23 the dealer shall complete an assignment and warranty of title on
+24 the certificate of title, salvage certificate of title, or dealer
+25 reassignment of title form and deliver it to the licensed dealer
+26 receiving the transfer.
+27 (4) The secretary of state shall prescribe the dealer
+28 reassignment of title form. The form must contain the title number
+29 of the accompanying title; the name, address, and, if applicable,
+THS H02042'25 (H-4) puei07
+
+45
+1 dealer license number of the transferee; the year, make, model,
+2 body type, and vehicle identification number of the vehicle; the
+3 name, address, dealer number, and signature of the transferor; an
+4 odometer mileage statement as prescribed under section 233a; and
+5 any other information the secretary of state requires.
+6 (5) This section does not prohibit a dealer from selling a buy
+7 back vehicle while the certificate of title is in the possession of
+8 a manufacturer that obtained the certificate of title under the
+9 manufacturer's buy back vehicle program. The manufacturer shall
+10 mail the certificate of title to the dealer within not later than 5
+11 business days after the manufacturer's receipt of a signed
+12 statement from the purchaser of the vehicle acknowledging the
+13 purchaser was informed by the dealer that the manufacturer acquired
+14 title to the vehicle as the result of an arbitration proceeding,
+15 under a customer satisfaction policy adopted by the manufacturer,
+16 or under 1986 PA 87, MCL 257.1401 to 257.1410, or a similar law of
+17 another state.
+18 (6) This section does not prohibit a dealer from selling an
+19 off lease vehicle while the certificate of title is in the
+20 possession of a lessor. The lessor shall mail the certificate of
+21 title to the dealer within not later than 21 days after the lessor
+22 receives the purchase price of the vehicle and any other fees and
+23 charges due under the lease.
+24 Sec. 238. (1) When an owner named in a certificate of title
+25 creates a security interest in the vehicle described in the
+26 certificate or in any accessory on the vehicle, all of the
+27 following apply:
+28 (a) The owner shall immediately execute an application in the
+29 form prescribed by the department to name the holder of the
+THS H02042'25 (H-4) puei07
+
+46
+1 security interest on the certificate of title, showing the name and
+2 address of the holder and deliver the certificate of title,
+3 application, and the required fee together with a copy of the
+4 application, to the holder of the security interest.
+5 (b) The holder of the security interest shall cause the
+6 certificate of title, application, and fee and the copy of the
+7 application to be mailed or delivered to the department.
+8 (c) The department shall indicate on the copy of the
+9 application the date and place of filing of the application.
+10 (d) Upon On receipt of the certificate of title, application,
+11 and the required fee, the department shall issue a new certificate
+12 in the form provided by section 222 setting forth the name and
+13 address of each holder of a security interest in the vehicle or in
+14 any accessory on the vehicle for which a termination statement has
+15 not been filed and the date on which the application first stating
+16 the security interest was filed, and mail the certificate to the
+17 owner. However, as provided under this section, the secretary of
+18 state is not required to issue a title to the owner of a vehicle if
+19 the title is subject to a security interest.
+20 (2) A holder of any kind of a security interest may assign,
+21 absolutely or otherwise, the holder's security interest in the
+22 vehicle or any accessory thereon on the vehicle to a person other
+23 than the owner without affecting the interest of the owner or the
+24 validity of the security interest, but any person without notice of
+25 the assignment is protected in dealing with the holder of the
+26 security interest as the holder thereof.of the security interest.
+27 (3) If a person rejects the assignment or the purchase of a
+28 motor vehicle lease agreement or installment sale contract or, at
+29 any time after accepting the assignment or purchase of a motor
+THS H02042'25 (H-4) puei07
+
+47
+1 vehicle lease agreement or installment sale contract, the person
+2 subsequently reassigns or transfers the motor vehicle lease
+3 agreement or installment sale contract to the licensed dealer or
+4 installment seller after a security interest is identified on the
+5 application for title or the title for the vehicle, the person
+6 shall provide written notice to the licensed dealer or installment
+7 seller that the person does not retain a security interest or that
+8 it has returned the security interest in the vehicle to the
+9 licensed dealer or installment seller. If a written notice is
+10 accompanied by a properly completed application for title, the
+11 department of state shall accept the written notice from the person
+12 and promptly issue a new title identifying the licensed dealer or
+13 installment seller as the secured party on the title to the
+14 vehicle.
+15 (4) (3) The assignee of a security interest may have the
+16 certificate of title indorsed with the assignee named as the holder
+17 of the security interest by providing the department with a copy of
+18 the assignment instrument, but the failure of the assignee to do so
+19 shall does not affect the validity of the security interest of that
+20 assignment.
+21 (5) (4) If there is no outstanding obligation and no
+22 commitment to make advances, incur obligations, or otherwise give
+23 value secured or to be secured by a security interest in a vehicle
+24 or an accessory on the vehicle, for which the certificate of title
+25 is in possession of a secured party, the secured party may, not
+26 more than 14 days after satisfaction of the obligation, execute a
+27 termination statement in the form prescribed by the department and
+28 mail or deliver the termination statement to the owner or another
+29 person as the owner may direct.
+THS H02042'25 (H-4) puei07
+
+48
+1 (6) (5) If there is no outstanding obligation and no
+2 commitment to make advances, incur obligations, or otherwise give
+3 value secured or to be secured by a security interest in a vehicle
+4 or an accessory on the vehicle, for which the certificate of title
+5 is in the possession of another person, the secured party shall,
+6 within 14 days after demand but not more than 30 days after demand,
+7 execute a termination statement in the form prescribed by the
+8 department and mail or deliver the termination statement to the
+9 owner or another person as the owner may direct.
+10 (7) (6) The department may require that all transactions
+11 concerning vehicle title liens and security interests be conducted
+12 by electronic means, as determined by the department. After all
+13 liens have been terminated, or for purposes of retitling the
+14 vehicle in another state or any other purpose deemed appropriate by
+15 the department, the department may issue a paper copy of the
+16 vehicle title to the vehicle's owner.
+17 (8) (7) A vehicle sale transaction in which a security
+18 interest is entered by electronic means shall must include a
+19 document recording entry of the electronic security interest and
+20 information regarding the financial institution that holds the
+21 security interest. At the time a security interest is presented
+22 with payment in satisfaction of the security interest, a secured
+23 receipt in a form approved by the department and produced at the
+24 time the security interest is presented with payment in
+25 satisfaction of the security interest may be submitted to the
+26 department in lieu instead of the title for purposes of
+27 transferring ownership in the vehicle.
+28 (9) As used in this section, "installment buyer", "installment
+29 sale contract", and "installment seller" mean those terms as
+THS H02042'25 (H-4) puei07
+
+49
+1 defined in section 2 of the motor vehicle sales finance act, 1950
+2 (Ex Sess) PA 27, MCL 492.102.
+3 Sec. 239. A Except for a title issued electronically under
+4 section 222, a person shall not fail or neglect to properly endorse
+5 indorse and deliver a certificate of title to a transferee or owner
+6 lawfully entitled to the title. A person who that violates this
+7 section is responsible for a civil infraction and shall may be
+8 ordered to pay a civil fine of not more than $100.00.
+9 Sec. 240. (1) The owner of a motor vehicle who has made a bona
+10 fide sale by transfer of his or her the owner's title or interest
+11 and, except for a title issued electronically under section 222,
+12 who has delivered possession of the vehicle and the certificate of
+13 title to that vehicle properly endorsed to the purchaser or
+14 transferee is not liable for any damages or a violation of law that
+15 subsequently results from the use or ownership of the vehicle by
+16 another, if the owner, other than a licensed dealer, satisfies the
+17 conditions prescribed under subsection (2).
+18 (2) The owner of a motor vehicle, other than a licensed
+19 dealer, shall satisfy 1 of the following conditions:
+20 (a) Accompany the purchaser of the vehicle to a secretary of
+21 state branch office to assure that the title of the vehicle being
+22 sold is transferred.
+23 (b) Maintain a record of the sale for not less than 18 months.
+24 As used in this subdivision, "record of the sale" means either a
+25 photocopy of the reassigned title or a form or document that
+26 includes the name, address, driver license number, and signature of
+27 the person to whom the vehicle is sold and the purchase price and
+28 date of sale of the vehicle.
+29 (3) A person who that violates subsection (2) is responsible
+THS H02042'25 (H-4) puei07
+
+50
+1 for a civil infraction and shall may be ordered to pay a civil fine
+2 of $15.00.
+3 (4) A person who that violates subsection (2) is presumed to
+4 be the last titled owner and to be liable for towing fees and daily
+5 storage fees for an abandoned motor vehicle.
+6 Sec. 248. (1) The secretary of state shall not grant a dealer
+7 license under this section until the secretary of state conducts an
+8 investigation of the applicant's qualifications under this act. ,
+9 except that this This subsection does not apply to a license
+10 renewal. The secretary of state shall conduct the investigation
+11 within 15 days after receiving the application and prepare a report
+12 on the investigation.
+13 (2) An applicant for a new vehicle dealer or a used or
+14 secondhand vehicle dealer or broker license shall include a
+15 properly executed bond or a bond renewal certificate, approved by
+16 the secretary of state, with the license application. If a renewal
+17 certificate is used, the bond is considered renewed for each
+18 succeeding year in the same amount and with the same effect as an
+19 original bond. The bond must be in the amount of $25,000.00. The
+20 bond must indemnify or reimburse a purchaser, seller, lessee,
+21 financing agency, or governmental agency for monetary loss caused
+22 through fraud, cheating, or misrepresentation in the conduct of the
+23 vehicle business whether the fraud, cheating, or misrepresentation
+24 was made by the dealer or by an employee, agent, or salesperson of
+25 the dealer. The surety shall make indemnification indemnify or
+26 reimbursement for reimburse a monetary loss only after a judgment
+27 based on fraud, cheating, or misrepresentation is entered in a
+28 court of record against the licensee, or a final order that the
+29 licensee has engaged in fraud, cheating, or misrepresentation is
+THS H02042'25 (H-4) puei07
+
+51
+1 issued by the secretary of state after an administrative hearing,
+2 or the licensee and the secretary of state enter into a stipulated
+3 agreement. The bond must also indemnify or reimburse the state for
+4 any sales tax deficiency as provided in the general sales tax act,
+5 1933 PA 167, MCL 205.51 to 205.78, or use tax deficiency as
+6 provided in the use tax act, 1937 PA 94, MCL 205.91 to 205.111, for
+7 the year in which the bond is in force. The surety shall make
+8 indemnification indemnify or reimbursement reimburse only after a
+9 final judgment is entered in a court of record against the
+10 licensee, or a final order is issued by the secretary of state
+11 after an administrative hearing, or the licensee and the secretary
+12 of state enter into a stipulated agreement. A dealer or applicant
+13 that provides proof that is satisfactory to the secretary of state
+14 that a bond similar to the bond required by this subsection is
+15 executed and in force is exempt from the bond requirements of this
+16 subsection. The aggregate liability of the surety must not exceed
+17 the sum of the bond. The surety on the bond may cancel the bond by
+18 giving notice in writing to the secretary of state of the
+19 cancellation at least 30 days before the effective date of the
+20 cancellation and is not liable for a breach of condition occurring
+21 after the effective date of the cancellation.
+22 (3) An applicant for a new vehicle dealer or a used or
+23 secondhand vehicle dealer license shall apply for not less than 2
+24 dealer plates under section 245 and shall include with the
+25 application the proper fee for those plates under section 803.
+26 (4) As a condition precedent to the granting of a license, a
+27 dealer must file with the secretary of state an irrevocable written
+28 stipulation, authenticated by the applicant, stipulating and
+29 agreeing that legal process affecting the dealer, served on the
+THS H02042'25 (H-4) puei07
+
+52
+1 secretary of state or a deputy of the secretary of state, has the
+2 same effect as if personally served on the dealer. This appointment
+3 remains in force as long as the dealer has any outstanding
+4 liability within this state.
+5 (5) A person shall not carry on or conduct the business of
+6 buying, selling, brokering, leasing, negotiating a lease, or
+7 dealing in 5 or more vehicles of a type required to be titled under
+8 this act in a 12-month period unless the person obtains a dealer
+9 license from the secretary of state authorizing the carrying on or
+10 conducting of that business. A person shall not carry on or conduct
+11 the business of buying, selling, brokering, leasing, negotiating a
+12 lease, or dealing in 5 or more distressed, late model vehicles or
+13 salvageable parts to 5 or more of those vehicles in a 12-month
+14 period unless the person obtains a used or secondhand vehicle parts
+15 dealer, an automotive recycler, or a salvage pool license from the
+16 secretary of state or is an insurance company admitted to conduct
+17 business in this state. A person shall not carry on or conduct the
+18 business of buying 5 or more vehicles in a 12-month period to
+19 process into scrap metal or store or display 5 or more vehicles in
+20 a 12-month period as an agent or escrow agent of an insurance
+21 company unless the person obtains a dealer license from the
+22 secretary of state. A vehicle scrap metal processor that does not
+23 purchase vehicles or salvageable parts from unlicensed persons is
+24 not required to obtain a dealer license. A person from another
+25 state shall not purchase, sell, or otherwise deal in distressed,
+26 late model vehicles or salvageable parts unless the person obtains
+27 a foreign salvage vehicle dealer license from the secretary of
+28 state under section 248b. A person, including a dealer, shall not
+29 purchase or acquire a distressed, late model vehicle or a
+THS H02042'25 (H-4) puei07
+
+53
+1 salvageable part through a salvage pool, auction, or broker without
+2 a license as a salvage vehicle agent. The secretary of state shall
+3 investigate and seek prosecution, if necessary, of persons
+4 allegedly conducting a business without a license.
+5 (6) The application for a dealer license must be in the form
+6 prescribed by the secretary of state and signed by the applicant.
+7 In addition to any other information required by the secretary of
+8 state, the application must include all of the following:
+9 (a) The name of the applicant.
+10 (b) The location of the applicant's established place of
+11 business in this state, together with a written verification from
+12 the appropriate governing or zoning authority that the established
+13 place of business meets all applicable municipal and zoning
+14 requirements.
+15 (c) The name under which the dealer will conduct business.
+16 (d) If the business is a corporation, the state of
+17 incorporation.
+18 (e) If the business is a sole proprietorship or partnership,
+19 the name, address, and date of birth of each owner or partner; if
+20 the business is a corporation, the name, address, and date of birth
+21 of each of the principal officers.
+22 (f) The county in which the applicant will conduct business
+23 and the address of each place of business in that county.
+24 (g) If the dealer's business is the sale of new vehicles, the
+25 make or makes of those vehicles. Each A new vehicle dealer shall
+26 send with the application for license a certification that the
+27 dealer holds a bona fide contract to act as factory representative,
+28 factory distributor, or distributor representative to sell at
+29 retail ......... (the make of vehicle to be sold) and that the
+THS H02042'25 (H-4) puei07
+
+54
+1 contract meets the requirements for a dealer agreement under the
+2 motor vehicle franchise act, 1981 PA 118, MCL 445.1561 to 445.1583.
+3 (h) A statement of the previous history, record, and
+4 associations of the applicant and of each owner, partner, officer,
+5 or director of the applicant. The statement must be sufficient to
+6 establish to the satisfaction of the secretary of state the
+7 business reputation and character of the applicant.
+8 (i) A statement showing whether the applicant has previously
+9 applied for a license, the result of the application, and whether
+10 the applicant has ever been the holder of a dealer license that was
+11 revoked or suspended.
+12 (j) If the applicant is a corporation or partnership, a
+13 statement showing whether a partner, employee, officer, or director
+14 has been refused a license or has been the holder of a license that
+15 was revoked or suspended.
+16 (k) If the application is for a used or secondhand vehicle
+17 parts dealer or an automotive recycler, all of the following:
+18 (i) Evidence that the applicant maintains or will maintain an
+19 established place of business.
+20 (ii) Evidence that the applicant maintains or will maintain a
+21 police book and vehicle parts purchase and sales and lease records
+22 as required under this act.
+23 (iii) Evidence of worker's compensation insurance coverage for
+24 employees classified under the North American Industry
+25 Classification System number 42114, 423140, entitled "motor vehicle
+26 parts (used) merchant wholesalers" or under the National Council on
+27 Compensation Insurance classification code number 3821, entitled
+28 "automobile dismantling", if applicable.
+29 (l) A certification that neither the applicant nor another
+THS H02042'25 (H-4) puei07
+
+55
+1 person named on the application is acting as the alter ego of any
+2 other person or persons in seeking the license. For the purpose of
+3 this subdivision, "alter ego" means a person that acts for and on
+4 behalf of, or in the place of, another person for purposes of
+5 obtaining a vehicle dealer license.
+6 (m) A certification that the applicant if the applicant is an
+7 individual or sole proprietorship, the partners of the applicant if
+8 the applicant is a partnership, the principal officers of the
+9 applicant if the applicant is a corporation, or any other
+10 individual who is responsible for the daily operations of the
+11 dealership, as applicable, has reviewed and understands the
+12 requirements of this act, the rules promulgated under this act, the
+13 dealer manual published by the secretary of state, and any other
+14 applicable material provided by the department.
+15 (n) For an application submitted by or on behalf of an
+16 eligible used vehicle dealer for an original license, a
+17 certification that within the 6-month period preceding the date of
+18 the application, the applicant, the partners of the applicant, or
+19 the principal officers of the applicant, as applicable, completed
+20 the dealer training program described in section 248l(2). This
+21 subdivision does not apply to an application to renew the license
+22 of an eligible used vehicle dealer and does not apply to any
+23 original license that was granted to an eligible used vehicle
+24 dealer before, and that is valid on, March 20, 2019. As used in
+25 this subdivision and subdivision (o), "eligible used vehicle
+26 dealer" means that term as defined in section 248l.
+27 (o) For an application submitted by or on behalf of an
+28 eligible used vehicle dealer for an original or renewal license, a
+29 certification that each retail sales location of that dealer has an
+THS H02042'25 (H-4) puei07
+
+56
+1 employee that has completed the dealer training program required
+2 under section 248l(3) or (5), as applicable.
+3 (7) A person shall apply separately for a dealer license for
+4 each county in which business is to be conducted. Before moving 1
+5 or more places of business or opening an additional place of
+6 business, a dealer shall apply to the secretary of state for and
+7 obtain a supplemental dealer license. The secretary of state shall
+8 not charge a fee for a supplemental dealer license and shall issue
+9 a supplemental dealer license only for a location, including a
+10 tent, temporary stand, or any temporary quarters, that does not
+11 meet the definition of an established place of business, within the
+12 county in which the dealer's established place of business is
+13 located. A dealer license entitles the dealer to conduct the
+14 business of buying, selling, leasing, and dealing in vehicles or
+15 salvageable parts in the county covered by the license. The dealer
+16 license also entitles the dealer to conduct at any other licensed
+17 dealer's established place of business in this state only the
+18 business of buying, selling, leasing, or dealing in vehicles at
+19 wholesale.
+20 (8) The secretary of state shall classify and differentiate
+21 vehicle dealers according to the type of activity they perform. A
+22 dealer shall not engage in activities of a particular
+23 classification as provided in this act unless the dealer is
+24 licensed in that classification. An applicant may apply for a
+25 dealer license in 1 or more of the following classifications:
+26 (a) New vehicle dealer.
+27 (b) Used or secondhand vehicle dealer. A used or secondhand
+28 vehicle dealer may be eligible for a mobility dealer endorsement
+29 under section 248k.
+THS H02042'25 (H-4) puei07
+
+57
+1 (c) Used or secondhand vehicle parts dealer.
+2 (d) Vehicle scrap metal processor.
+3 (e) Vehicle salvage pool operator.
+4 (f) Distressed vehicle transporter.
+5 (g) Broker.
+6 (h) Foreign salvage vehicle dealer.
+7 (i) Automotive recycler.
+8 (j) Wholesaler.
+9 (9) All of the following apply to the issuance, renewal, and
+10 expiration of a dealer license under this section:
+11 (a) A dealer license expires on December 31 of the last year
+12 that the license is valid.
+13 (b) A dealer shall renew its dealer license annually. The
+14 secretary of state may renew a dealer license for a period of not
+15 more than 4 years if the secretary receives a renewal application
+16 and payment of the fee required under section 807.
+17 (c) To renew a dealer license, the dealer shall file an
+18 application for renewal with the secretary of state at least 30
+19 days before the expiration of its current license.
+20 (d) If a dealer has not renewed its dealer license on or
+21 before the expiration date of its current license, the secretary of
+22 state within not later than 10 business days after that expiration
+23 date must notify the dealer that the secretary of state has not
+24 received its renewal application. The notice must include the
+25 amount of the late renewal fee.
+26 (e) A dealer may continue to operate its dealer business after
+27 the expiration of its dealer license, pending approval of the
+28 renewal application, if the renewal application is delivered in
+29 person or mailed to the secretary of state on or before the
+THS H02042'25 (H-4) puei07
+
+58
+1 expiration date of the license. If requested by the department, a
+2 dealer that mails an application under this subdivision must
+3 provide proof of the mailing of the renewal application that is
+4 satisfactory to the department.
+5 (f) If an application to renew a dealer license is filed with
+6 the secretary of state after the expiration of that license, the
+7 dealer may operate its dealer business beginning on the date on
+8 which the application is delivered or mailed to the secretary of
+9 state, pending approval of the renewal application. If requested by
+10 the department, a dealer that mails an application under this
+11 subdivision must provide proof of the mailing of the renewal
+12 application that is satisfactory to the department. A dealer shall
+13 pay a renewal fee equal to 150% of the normal renewal fee for a
+14 renewal described in this subdivision.
+15 (g) If a dealer files an application to renew a dealer license
+16 more than 30 days after the expiration of that license, the dealer
+17 is considered a new applicant for a dealer license under this
+18 section.
+19 (h) The secretary of state shall deposit the late renewal fees
+20 collected under subdivisions (d) and (f) in the transportation
+21 administration collection fund created in section 810b.
+22 (i) The secretary of state shall not renew a the dealer's
+23 license if the applicant has not bought or sold more than 5
+24 vehicles during the 12 months preceding the dealer's renewal
+25 application.
+26 (10) A dealer may conduct the business of buying, selling, or
+27 dealing in motor homes, trailer coaches, trailers, or pickup
+28 campers at a recreational vehicle show conducted at a location in
+29 this state without obtaining a separate or supplemental license
+THS H02042'25 (H-4) puei07
+
+59
+1 under subsection (7) if all of the following apply:
+2 (a) The dealer is licensed as a new vehicle dealer or used or
+3 secondhand vehicle dealer.
+4 (b) The duration of the recreational vehicle show is not more
+5 than 14 days.
+6 (c) Not less than 14 days before the beginning date of the
+7 recreational vehicle show, the show producer notifies the secretary
+8 of state, in a manner and form prescribed by the secretary of
+9 state, that the recreational vehicle show is scheduled, the
+10 location, dates, and times of the recreational vehicle show, and
+11 the name, address, and dealer license number of each dealer
+12 participating in the recreational vehicle show.
+13 (11) Notwithstanding section 235, a dealer may advertise or
+14 display to the public a vehicle that the dealer has acquired or
+15 that is available to the dealer directly from the manufacturer or
+16 distributor or the manufacturer's or distributor's subsidiary or
+17 affiliate within a reasonable period of time, or a vehicle for
+18 which the dealer has requested a paper title from the department
+19 after the dealer assumed the lien, even though the dealer is still
+20 waiting on possession of the vehicle's title. Such a The vehicle,
+21 if displayed on the dealer's lot, must be placed in a dedicated
+22 area at the dealership and arranged in a manner that clearly
+23 separates the vehicle from those vehicles that are available for
+24 immediate sale to the public with signage placed on the vehicle
+25 indicating the vehicle is not available for final sale until the
+26 title is in the possession of the dealer.
+27 (12) A dealer may park, store, hold, and repair vehicles owned
+28 under 1 dealer license on the lot or property held by the same
+29 dealer under a separate dealer license that is located within a 15-
+THS H02042'25 (H-4) puei07
+
+60
+1 mile radius.
+2 (13) Except as otherwise provided in this subsection, a dealer
+3 may surrender a dealer license by delivering to the secretary of
+4 state the license and written notice that the dealer surrenders the
+5 license. The surrender of a license under this subsection does not
+6 affect the dealer's administrative, civil, or criminal liability
+7 for an act committed before the surrender of the license under this
+8 subsection. The surrender of a license does not affect a proceeding
+9 to suspend or revoke a license. The secretary of state shall not
+10 issue a refund to the dealer surrendering the license. The
+11 secretary of state shall not issue the surrendering dealer a new
+12 dealer license at this location before 1 year after the voluntary
+13 surrender of the license. The secretary of state shall deny a
+14 dealer's attempt to surrender a dealer license under this
+15 subsection if the secretary of state determines that the dealer is
+16 surrendering the license to avoid disciplinary action.
+17 Sec. 248a. (1) A motor vehicle dealer shall not advertise or
+18 represent a motor vehicle to be a demonstrator, courtesy
+19 transportation vehicle, executive or manufacturer's vehicle, leased
+20 vehicle, new motor vehicle, or used or secondhand vehicle unless
+21 the vehicle so described is as defined in this act.
+22 (2) A motor vehicle dealer shall maintain and adhere to
+23 designated business hours that are filed with the secretary of
+24 state.
+25 Sec. 248j. (1) In addition to any other remedies provided by
+26 law, if the secretary of state determines that a person has acted
+27 as a dealer without a dealer license, he or she the secretary of
+28 state may issue the person a verbal or written warning or assess an
+29 administrative fine of not more than $5,000.00 for a first
+THS H02042'25 (H-4) puei07
+
+61
+1 violation, and not more than $7,500.00 for each subsequent
+2 violation occurring within not later than 7 years of after a prior
+3 violation.
+4 (2) If the secretary of state assesses an administrative fine
+5 under subsection (1), the secretary of state shall provide notice
+6 of the assessment in writing pursuant to under section 212. At a
+7 minimum, the notice of assessment shall must contain all of the
+8 following:
+9 (a) A unique identification number.
+10 (b) A description of the alleged violation that is the basis
+11 for the assessment, including the date the alleged violation
+12 occurred and a reference to the specific section or rule alleged to
+13 have been violated.
+14 (c) The administrative fine established for the violation.
+15 (d) A statement indicating that if the fine is not paid, the
+16 secretary of state may refer the fine to the department of treasury
+17 for collection.
+18 (e) A statement indicating that if the alleged violation is
+19 contested, the person has a right to request an informal conference
+20 before an administrative hearing, accompanied by simple
+21 instructions informing the person how to request or waive the
+22 informal conference.
+23 (3) Not later than 20 days after receiving the written notice
+24 of assessment, the alleged violator shall do 1 of the following:
+25 (a) Pay the administrative fine to the secretary of state. A
+26 payment waives the person's right to an informal conference and an
+27 administrative hearing.
+28 (b) Request the secretary of state to conduct an informal
+29 conference.
+THS H02042'25 (H-4) puei07
+
+62
+1 (c) Waive the right to an informal conference and request the
+2 secretary of state to conduct an administrative hearing.
+3 (d) If the person is not a licensed dealer, pay the
+4 administrative fine to the secretary of state and submit a properly
+5 completed dealer license application to the secretary of state.
+6 (4) A person's request for an informal conference or an
+7 administrative hearing shall must comply with all of the following:
+8 (a) Be in writing.
+9 (b) Be postmarked or received by the department within not
+10 later than 20 days after the date the person received the written
+11 notice of assessment.
+12 (c) State the name, address, and telephone number of the
+13 person requesting the informal conference or administrative
+14 hearing.
+15 (d) State the written notice of assessment's unique
+16 identification number.
+17 (e) State the reason for the request.
+18 (f) If the request is for an administrative hearing without an
+19 informal conference, state the person is waiving his or her the
+20 person's right to an informal conference.
+21 (5) If the secretary of state receives a request for an
+22 informal conference or an administrative hearing that meets all of
+23 the conditions prescribed in subsection (4), the secretary of state
+24 shall schedule an informal conference or an administrative hearing,
+25 as applicable. If the request fails to meet all of the conditions
+26 prescribed in subsection (4), the secretary of state may in writing
+27 deny the request. A denial shall must be served on the person by
+28 first-class mail and shall do both of the following:
+29 (a) State the reason for the denial.
+THS H02042'25 (H-4) puei07
+
+63
+1 (b) Grant the person 14 days to submit a valid request to the
+2 secretary of state.
+3 (6) The secretary of state shall conduct an informal
+4 conference under this section within not later than 45 days after
+5 receiving a valid request for the conference. The secretary of
+6 state shall serve upon on the alleged violator, by first-class mail
+7 not less than 5 days before the conference, a written notice that
+8 includes time, place, and date of the informal conference. The
+9 notice shall must state that the alleged violator may be
+10 represented by an attorney at the informal conference.
+11 (7) After the informal conference, the secretary of state
+12 shall evaluate the validity of the assessment of the administrative
+13 fine and affirm , modify, or dismiss the assessment, or offer the
+14 alleged violator an alternative penalty agreement in lieu of an
+15 administrative hearing. In making the evaluation, the secretary of
+16 state may consider 1 or more of the following:
+17 (a) Whether there is reason to believe the alleged violation
+18 did in fact occur.
+19 (b) The severity of the alleged violation and its impact on
+20 the public.
+21 (c) The number of prior or related violations by the person.
+22 (d) The likelihood of future compliance by the person.
+23 (e) Any other considerations the secretary of state considers
+24 appropriate.
+25 (8) Within Not later than 20 days after conducting the
+26 informal conference, the secretary of state shall serve upon on the
+27 person by first-class mail a written statement describing whether
+28 the assessment of the administrative fine is affirmed , modified,
+29 or dismissed and the basis of the action. If the assessment is
+THS H02042'25 (H-4) puei07
+
+64
+1 affirmed, or modified, this statement shall must also advise the
+2 person that he or she the person will receive a notice of hearing
+3 where the validity of the assessment may be contested or he or she
+4 the person may immediately pay the fine to the secretary of state
+5 and that payment of the fine will prevent scheduling of an
+6 administrative hearing.
+7 (9) As an alternative to or in addition to administrative
+8 action under this section, the secretary of state may, by written
+9 agreement with the alleged violator, place the alleged violator's
+10 license on probation and include conditions on the probation in the
+11 agreement, including, but not limited to, paying an administrative
+12 fine.
+13 (10) (9) A notice of hearing under this section shall must be
+14 served on the person by first-class mail not less than 5 days
+15 before the date scheduled for the administrative hearing and, at a
+16 minimum, advise the person of all of the following:
+17 (a) The time, place, and date of hearing.
+18 (b) That an impartial hearing officer will conduct the hearing
+19 and allow the person an opportunity to examine the secretary of
+20 state's evidence and present evidence in person or in writing.
+21 (c) That the person has a right to be represented by an
+22 attorney at the administrative hearing.
+23 (d) The common reasons why the secretary of state could
+24 dismiss an assessment of an administrative fine.
+25 (e) That the hearing officer conducting the administrative
+26 hearing will be authorized to do all of the following:
+27 (i) Affirm, modify, or dismiss the assessment of an
+28 administrative fine.
+29 (ii) Correct any errors in the department's records that relate
+THS H02042'25 (H-4) puei07
+
+65
+1 directly to the assessment.
+2 (iii) Refer or not refer the fine to the department of treasury
+3 for collection.
+4 (iv) Take or order any other action or resolution considered
+5 appropriate by the hearing officer.
+6 (f) That if the department of treasury takes enforcement
+7 action against the person, he or she the person may seek a review
+8 in the court of claims.
+9 (11) (10) The secretary of state shall conduct an
+10 administrative hearing under this section pursuant to under the
+11 contested case provisions of the administrative procedures act of
+12 1969, 1969 PA 306, MCL 24.201 to 24.328. If an administrative fine
+13 assessed under this section is affirmed by the decision of the
+14 hearing officer, the hearing officer may assess the person costs of
+15 not more than $500.00, to reimburse the secretary of state for
+16 proving the validity of the alleged violation, in addition to any
+17 other penalties, sanctions, or costs imposed as provided by law.
+18 (12) (11) An administrative fine assessed under this section
+19 becomes final upon on the first to occur of the following:
+20 (a) The secretary of state does not receive a valid request
+21 for an informal conference or an administrative hearing within the
+22 time period described in subsection (4).
+23 (b) Twenty days after a person waives his or her the person's
+24 right to an administrative hearing.
+25 (c) The person and the secretary of state sign an agreement
+26 that includes an administrative fine.
+27 (d) (c) An administrative hearing decision is served upon on
+28 the person.
+29 (13) (12) After a person pays the secretary of state the fine
+THS H02042'25 (H-4) puei07
+
+66
+1 imposed, the secretary of state shall forward the money to the
+2 department of treasury for deposit in a separate fund within the
+3 general fund. Upon On appropriation, this money shall must be used
+4 first to defray the expense of the secretary of state in
+5 administering this chapter.
+6 (14) (13) If an administrative fine assessed under this
+7 section is not paid within not later than 60 days after it becomes
+8 final, the secretary of state may refer the matter to the
+9 department of treasury for collection as a state debt through the
+10 offset of state tax refunds and may use the services of the
+11 department of treasury to levy the salary, wages, or other income
+12 or assets of the person as provided by law.
+13 (15) (14) Payment of an administrative fine assessed under
+14 this section does not constitute an admission of responsibility or
+15 guilt by the person. Payment of an administrative fine assessed
+16 under this section does not prevent the secretary of state from
+17 charging a violation described in the assessment of the
+18 administrative fine in a subsequent or concurrent contested case
+19 proceeding conducted by the secretary of state pursuant to the
+20 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+21 24.328.
+22 (16) (15) If the person submits a properly completed
+23 application and appropriate fee for a dealer license within not
+24 later than 20 days after an administrative fine under subsection
+25 (1) is assessed, and if the secretary of state issues the person a
+26 dealer license within not later than 45 days of after receiving the
+27 properly completed application and fee, the secretary of state
+28 shall reduce the amount of the administrative fine by 50%.
+29 (17) (16) The secretary of state shall serve a notice, denial,
+THS H02042'25 (H-4) puei07
+
+67
+1 decision, or statement under this section in compliance with
+2 section 212.
+3 (18) (17) An informal conference under this section is not a
+4 compliance conference under section 92 of the administrative
+5 procedures act of 1969, 1969 PA 306, MCL 24.292.
+6 Sec. 249. The secretary of state may deny the application of a
+7 person for a license as a dealer and refuse to issue the person a
+8 license as a dealer, or may suspend or revoke a license already
+9 issued, if the secretary of state finds that 1 or more of the
+10 following apply:
+11 (a) The applicant or licensee has made a false statement of a
+12 material fact in his or her the applicant or licensee's
+13 application.
+14 (b) The applicant or licensee has not complied with the
+15 provisions of this chapter or a rule promulgated under this
+16 chapter.
+17 (c) The applicant or licensee has sold or leased or offered
+18 for sale or lease a new vehicle of a type required to be registered
+19 under this act without having authority of a contract with a
+20 manufacturer or distributor of the new vehicle.
+21 (d) The applicant or licensee has been guilty of committed a
+22 fraudulent act in connection with selling, leasing, or otherwise
+23 dealing in vehicles of a type required to be registered under this
+24 act. As used in this subdivision, "fraudulent act" means a
+25 deliberate misrepresentation of a material fact made with the
+26 intent to deceive another person or the secretary of state that
+27 leads the other person or secretary of state to rely on the
+28 misrepresentation to the person's or secretary of state's
+29 detriment. To establish a fraudulent act under this subdivision,
+THS H02042'25 (H-4) puei07
+
+68
+1 the secretary of state must establish all of the following:
+2 (i) The applicant or licensee made a material representation.
+3 (ii) The representation was false.
+4 (iii) The applicant or licensee knew the representation was
+5 false or made the representation recklessly without any knowledge
+6 of the potential truth.
+7 (iv) The applicant or licensee made the representation with the
+8 intent that a person or the secretary of state act on the
+9 representation.
+10 (v) The person or secretary of state acted in reliance on the
+11 representation.
+12 (vi) The person or secretary of state suffered an injury as a
+13 result of acting in reliance on the representation.
+14 (e) The applicant or licensee has entered into or is about to
+15 enter into a contract or agreement with a manufacturer or
+16 distributor of vehicles of a type required to be registered under
+17 this act that is contrary to any provision of this act.
+18 (f) The applicant or licensee has no established place of
+19 business that is used or will be used for the purpose of selling,
+20 leasing, displaying, or offering for sale or lease or dealing in
+21 vehicles of a type required to be registered, and does not have
+22 proper servicing facilities.
+23 (g) The applicant or licensee is a corporation, or
+24 partnership, or limited liability company, and a stockholder,
+25 officer, director, or partner of the applicant or licensee has been
+26 guilty of any act or omission that would be cause for refusing,
+27 revoking, or suspending a license issued to the stockholder,
+28 officer, director, or partner as an individual.
+29 (h) The applicant or licensee has possessed a vehicle or a
+THS H02042'25 (H-4) puei07
+
+69
+1 vehicle part that has been confiscated under section 415 of the
+2 Michigan penal code, 1931 PA 328, MCL 750.415. The secretary of
+3 state shall conduct a hearing pursuant to the administrative
+4 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, before
+5 the secretary of state takes any action under this subdivision.
+6 (i) The applicant or licensee has been convicted under section
+7 415 of the Michigan penal code, 1931 PA 328, MCL 750.415.
+8 (j) The applicant or licensee has been convicted of violating
+9 1986 PA 119, MCL 257.1351 to 257.1355.
+10 (k) The established place of business of the applicant or
+11 licensee is not in compliance with all applicable zoning
+12 requirements and municipal requirements.
+13 (l) The applicant or licensee has engaged in the business of
+14 buying, selling, trading, or exchanging new, used, or secondhand
+15 motor vehicles or has offered to buy, sell, trade, or exchange, or
+16 participate in the negotiation thereof, or attempted to buy, sell,
+17 trade, or exchange any motor vehicle or interest in any motor
+18 vehicle or any written instrument pertaining to a motor vehicle on
+19 a Sunday, as prohibited by 1953 PA 66, MCL 435.251 to 435.254.
+20 Sec. 250. (1) If the secretary of state receives a complaint
+21 against a licensee that merits an investigation, the secretary of
+22 state must notify the licensee, and the complaint must be made
+23 available to the licensee at no charge at the time the state
+24 notifies the licensee. Before denying, revoking, suspending, or
+25 refusing to renew a dealer's license the secretary of state shall
+26 do all of the following:
+27 (a) Investigate the licensee after a complaint in writing of
+28 any person has been filed with the secretary of state.
+29 (b) Provide the licensee with a copy of all documentation,
+THS H02042'25 (H-4) puei07
+
+70
+1 including digital records and digital or audio recordings, the
+2 secretary of state collected, examined, or copied as part of the
+3 complaint at least 10 days before the hearing under subdivision
+4 (c).
+5 (c) (b) Set a date for hearing and give the licensee notice of
+6 the hearing at least not less than 10 days in advance in the manner
+7 herein provided in this section. A matter shall not proceed to
+8 hearing until all documents in subdivision (b) have been provided
+9 to the licensee.
+10 (d) (c) Record the hearing proceedings.
+11 (e) (d) Enter a final order with the secretary of state's
+12 findings.
+13 (2) A final order of the secretary of state under subsection
+14 (1)(d) (1)(e) is final unless, within not later than 30 days after
+15 notice of such the final order is mailed by the secretary of state
+16 to the person whose application or license is denied, revoked,
+17 suspended, or refused, the licensee appeals the final order to the
+18 circuit court for the county in which the licensee resides or
+19 maintains a place of business or to the circuit court for the
+20 county of Ingham. On appeal, the court shall review both law and
+21 facts as disclosed by the record, and may in its the court's
+22 discretion receive newly discovered evidence, but shall not conduct
+23 a hearing de novo. The court may confirm, modify, or set aside such
+24 a final order and make such any further orders as justice may
+25 require.requires.
+26 Sec. 258. (1) The secretary of state may cancel, revoke,
+27 delete, or suspend the registration of a vehicle, a certificate of
+28 title, registration certificate, or registration plate if any of
+29 the following apply:
+THS H02042'25 (H-4) puei07
+
+71
+1 (a) The secretary of state determines that the registration,
+2 certificate of title, or plate was fraudulently or erroneously
+3 issued.
+4 (b) The secretary of state determines that the licensee has
+5 made or is making an unlawful use of his or her the registration
+6 certificate, plate, or certificate of title.
+7 (c) A registered vehicle has been dismantled or wrecked.
+8 (d) The secretary of state determines that the required fee
+9 has not been paid and it is not paid upon on reasonable notice or
+10 demand.
+11 (e) A registration certificate or registration plate is
+12 knowingly displayed upon on a vehicle other than the one for which
+13 it was issued.
+14 (f) The secretary of state determines that the owner has
+15 committed an offense under this act involving the registration or
+16 certificate of title.
+17 (g) The secretary of state is authorized to do so under this
+18 act.
+19 (h) Upon On receiving notification from another state or
+20 foreign country that a certificate of title issued by the secretary
+21 of state has been surrendered by the owner in conformity with under
+22 the laws of that state or foreign country.
+23 (i) It is shown by satisfactory evidence that delivery of a
+24 motor vehicle in the possession of a dealer was not made to the
+25 applicant registered under this act. The money paid for
+26 registration and license fees may be refunded to the party who that
+27 applies for the refund.
+28 (j) The owner is a motor carrier subject to an out-of-service
+29 order. As used in this subdivision, "out-of-service order" means
+THS H02042'25 (H-4) puei07
+
+72
+1 that term as defined in 49 CFR 390.5, and also includes an out-of-
+2 service order issued under 49 CFR 386.73. A law enforcement officer
+3 may also confiscate a registration plate issued to a motor carrier
+4 described in this subdivision.
+5 (2) If the licensee's offense consists of hauling on the
+6 registered vehicle a gross weight more than 1,000 pounds in excess
+7 of the elected gross weight specified on the owners' registration
+8 certificate, the secretary of state shall cancel the registration
+9 shall be canceled and the vehicle shall must not again be operated
+10 on the highways, roads, or streets until it is registered again and
+11 new plates are issued. The new registration fee shall must be
+12 computed on the basis of twice the difference between the original
+13 registration fee and the registration fee applicable to the gross
+14 weight constituting the violation of the elected gross weight. One-
+15 half of the new registration fee shall be is a penalty. The period
+16 of the new registration fee shall must not extend beyond the
+17 termination date of the canceled registration certificate. The new
+18 registration fee shall must not exceed the maximum gross weight of
+19 the vehicle or combination of vehicles as determined by the number
+20 of axles and the legal weight applicable to those axles as
+21 specified by section 722. The gross weight of a vehicle or
+22 combination of vehicles may be determined by weighing the
+23 individual axles or group of axles, and the total weight on all
+24 axles is the gross vehicle weight.
+25 (3) Before the secretary of state makes a cancellation under
+26 subsection (1)(a), (b), (1)(b), (e), (f), or (g), the person
+27 affected by the cancellation shall must be given notice and an
+28 opportunity to be heard.
+29 Sec. 801b. (1) If a person, through error either on his or her
+THS H02042'25 (H-4) puei07
+
+73
+1 the person's own part or that of the secretary of state, pays the
+2 specific tax required by section 801 or 802 more than once on the
+3 same equipment, the secretary of state, upon on application and
+4 satisfactory proof, shall refund the amount paid in error. A claim
+5 shall must be filed within not later than 1 year after the date of
+6 payment and verified by the secretary of state before a refund is
+7 made. If an application for a dealer license provided for in
+8 section 248 is withdrawn by the applicant or the applicant's heir,
+9 before issuance of the dealer license, the fees that accompanied
+10 the application under sections 803, 803a, and 807 may be refunded
+11 by the secretary of state upon on application and satisfactory
+12 proof.
+13 (2) If a person's license to drive a motor vehicle is revoked,
+14 suspended, or denied for medical or physical reasons, the person
+15 may return the registration plates and obtain a refund on the
+16 plates prorated on a monthly basis for the time period remaining in
+17 the registration year from the date the plates are returned.
+18 However, the refund shall must not exceed the original registration
+19 fee.
+20 (3) Upon On the death of a spouse, the surviving spouse may
+21 return registration plates and obtain a refund on the plates
+22 prorated on a monthly basis for the time period remaining in the
+23 registration year from the date the plates are returned. However,
+24 the refund shall must not exceed the original registration fee.
+25 (4) The owner of a registered vehicle who transfers or assigns
+26 title or interest in that registered vehicle before placing upon on
+27 the registered vehicle the registration plates or tabs issued for
+28 that registered vehicle may obtain a refund in full from the
+29 secretary of state for the registration plates or tabs.
+THS H02042'25 (H-4) puei07
+
+74
+1 Registration plates , or tabs issued for 1978 and thereafter shall
+2 must be returned by the owner within not later than 30 days
+3 following the date of transfer or assignment.
+4 (5) The owner of a vehicle registered pursuant to section
+5 801d(2) who transfers or assigns title or interest in the vehicle
+6 may obtain a refund on the registration for each unused, whole
+7 registration period remaining on the registration from the date the
+8 plates are returned and the application for a refund is made.
+9 (5) (6) In the case of an original application for
+10 registration plates issued under section 217a or 803b, the
+11 secretary of state shall issue a refund prorated on a monthly basis
+12 from the date of application for the time period remaining in the
+13 previously issued registration, if an application for the refund is
+14 made and satisfactory proof is presented to the secretary of state.
+15 A refund shall must not be made if the amount due is less than
+16 $5.00.
+17 (6) (7) In the case of an original application for the
+18 registration plates bearing the letters "SEN" or "REP", the
+19 secretary of state shall issue a refund prorated on a monthly basis
+20 from the date of application for the time period remaining in the
+21 previously issued registration.
+22 (7) (8) In the case of an original application and issuance of
+23 an international registration plan registration plate under section
+24 801g, the secretary of state shall make a refund as a credit
+25 prorated on a monthly basis from the date of application for the
+26 months remaining for the previously issued registration on the same
+27 vehicle, if an application for the refund as a credit is made and
+28 satisfactory proof of eligibility is presented to the secretary of
+29 state. A refund as a credit shall must not exceed the total amount
+THS H02042'25 (H-4) puei07
+
+75
+1 of the Michigan apportioned fees assessed for the plates issued
+2 under section 801g nor be made if the amount due is less than
+3 $5.00. For the purpose of this subsection, a month shall mean means
+4 30 consecutive days and a partial month shall be is considered as a
+5 whole month.
+6 (8) If a licensed dealer submitted a vehicle title and
+7 registration application and paid a title application fee and
+8 vehicle registration fee and the registrant of the vehicle
+9 committed fraud during the registration process, the department
+10 shall issue a refund for the vehicle registration fee to the
+11 licensed dealer.
+12 Sec. 806. (1) Until October 1, 2027, an applicant for a
+13 certificate of title required by this act or an applicant for a
+14 duplicate of a certificate of title shall accompany the application
+15 with a fee of $10.00. An applicant that requests that the
+16 application be given special expeditious treatment shall accompany
+17 the application with an additional fee of $5.00. The secretary of
+18 state shall collect a $3.00 service fee, in addition to the other
+19 fees collected under this subsection, for each title issued and
+20 shall deposit the fee in the transportation administration
+21 collection fund created under section 810b through October 1, 2027.
+22 Until October 1, 2027, the $5.00 expeditious treatment fee must be
+23 deposited into the transportation administration collection fund
+24 created under section 810b.
+25 (2) An applicant for a special identifying number under
+26 section 230 shall accompany the application with a fee of $10.00.
+27 (3) In addition to paying the fees required by subsection (1),
+28 until December 31, 2027, each person that applies for a certificate
+29 of title, a salvage vehicle certificate of title, or a scrap
+THS H02042'25 (H-4) puei07
+
+76
+1 certificate of title under this act shall pay a tire disposal
+2 surcharge of $1.50 for each certificate of title or duplicate of a
+3 certificate of title that person receives. The secretary of state
+4 shall deposit money received under this subsection into the scrap
+5 tire regulatory fund created in section 16908 of the natural
+6 resources and environmental protection act, 1994 PA 451, MCL
+7 324.16908.
+8 (4) Beginning October 1, 2026, the fees under this section and
+9 section 810a do not apply to a new or used vehicle dealer that
+10 acquires ownership of a vehicle that has a title from this state
+11 issued electronically by the secretary of state and that was not
+12 owned by a dealer.
+13 (5) Beginning October 1, 2026, for an electronic transfer of
+14 title, if an applicant is a new or used vehicle dealer that
+15 acquires ownership of a vehicle from another new or used vehicle
+16 dealer, the applicant shall pay a fee of $5.00. This fee applies
+17 only if the selling dealer held an electronic title from this
+18 state. A new or used vehicle dealer that pays the fee under this
+19 subsection is not subject to the fees in subsections (1) to (3) or
+20 section 810a. The fee under this subsection must be deposited into
+21 the transportation administration collection fund created under
+22 section 810b.
+23 Sec. 810a. The Except as otherwise provided in section 806,
+24 the secretary of state shall collect an assessment of 50 cents in
+25 connection with the issuance of a salvage vehicle certificate of
+26 title, a certificate of title, or beginning July 1, 1994 a scrap
+27 certificate of title. The assessment shall must be collected in the
+28 same manner and at the same time as fees collected by the secretary
+29 of state pursuant to under sections 217c and 806. Each assessment
+THS H02042'25 (H-4) puei07
+
+77
+1 collected shall must be deposited in a vehicle theft prevention
+2 account to be expended for purposes of developing a vehicle theft
+3 prevention program, including the administration, inspection, and
+4 enforcement of antitheft procedures, as described in this act.
+Final Page
+THS H02042'25 (H-4) puei07

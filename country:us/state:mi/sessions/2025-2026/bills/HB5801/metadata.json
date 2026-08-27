@@ -142,6 +142,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "Rep. Jaime Greene removed as cosponsor",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,14 +297,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alicia St. Germaine\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jaime Greene",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jaime Greene\"}",
       "organization_id": null
     },
     {
@@ -600,7 +602,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-08-27T17:48:52Z",
     "text_extraction_latest_update": "2026-07-21T20:08:36.498593Z"
   }
 }

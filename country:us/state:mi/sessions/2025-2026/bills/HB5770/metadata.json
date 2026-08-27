@@ -62,6 +62,68 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
+    },
+    {
+      "description": "rule suspended",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "motion to discharge committee approved",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "placed on second reading",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "substitute (H-1) adopted and amended",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +171,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Substitute (H-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5770-0O409.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -124,7 +197,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Summary as Introduced (8/24/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5770-7NTQZ1SC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -140,7 +225,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-08-27T17:48:52Z",
     "text_extraction_latest_update": "2026-07-22T01:24:53.466525Z"
   }
 }

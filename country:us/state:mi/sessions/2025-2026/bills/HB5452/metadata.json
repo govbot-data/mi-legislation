@@ -107,6 +107,50 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "amended",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #355 Yeas 84 Nays 14 Excused 0 Not Voting 12",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -135,6 +179,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2026-HEBH-5452.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2026-HEBH-5452.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -142,7 +201,7 @@
       "note": "Summary as Introduced (5/12/2026)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5452-ZJ3H8PMW.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5452-HKCNMY6W.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,10 +209,10 @@
       "classification": ""
     },
     {
-      "note": "Summary as Reported from Committee (6/16/2026)",
+      "note": "Revised Summary as Reported from Committee (8/26/2026)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5452-R63KD2Z9.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5452-261MGH0F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -185,7 +244,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-08-27T17:48:52Z",
     "text_extraction_latest_update": "2026-07-21T21:52:35.724456Z"
   }
 }

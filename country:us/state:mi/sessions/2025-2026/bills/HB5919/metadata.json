@@ -62,6 +62,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
       }
+    },
+    {
+      "description": "reported with recommendation with substitute (H-1)",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
+    },
+    {
+      "description": "referred to second reading",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T17:48:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -141,6 +163,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Substitute (H-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5919-0N295.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -162,6 +195,17 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5919-Y80TDZSQ.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary of Proposed H-1 Substitute (8/25/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-5919-PNZ36C98.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -201,7 +245,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-08-27T17:48:52Z",
     "text_extraction_latest_update": "2026-07-21T22:17:05.371575Z"
   }
 }

@@ -1,0 +1,8 @@
+Title: 
+Official Title: 
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+HOUSE BILL NO. 6257 A bill to amend 1984 PA 431, entitled "The management and budget act," (MCL 18.1101 to 18.1594) by adding section 261g. the people of the state of michigan enact: Sec. 261g. The department shall work with a state agency to contract for independent verification and validation services for each information technology project for which the contract value is greater than $10,000,000.00. The department shall make every effort to ensure the independent verification and validation services do not exceed 5% of the cost of the contract and shall require the independent vendor to submit a report at least on a quarterly basis, and preferably a monthly basis, regarding the verification and validation of the information technology project to the department, applicable state agency, appropriations committees, fiscal agencies, appropriations subcommittees on general government, house and senate policy offices, state budget office, and each technology vendor on the project.

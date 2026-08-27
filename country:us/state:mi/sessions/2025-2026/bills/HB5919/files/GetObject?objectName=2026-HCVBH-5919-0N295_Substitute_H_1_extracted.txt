@@ -1,0 +1,460 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SUBSTITUTE FOR
+HOUSE BILL NO. 5919
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending sections 4 and 5 (MCL 380.4 and 380.5), section 4 as
+amended by 2011 PA 232 and section 5 as amended by 2019 PA 38, and
+by adding sections 562, 564, 565, 566, 567, 568, 569, and 1701b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 4. (1) "Educational media center" means a program
+2 operated by an intermediate school district and approved by the
+3 state board that provides services to local school districts or
+4 constituent districts under section 671.
+5 (2) "Educational provider" means any person or entity,
+6 including an individual teacher acting as an independent contractor
+7 selected and hired directly by a parent or legal guardian, that
+CRM H01429'25 (H-1) pug7hr
+
+2
+1 provides a program, course, or service under a direct contract with
+2 the learner-first district or under a parent-directed direct-
+3 instruction agreement facilitated and funded by the learner-first
+4 district
+5 (3) (2) "Intermediate school board" means the board of an
+6 intermediate school district.
+7 (4) (3) "Intermediate school district" means a corporate body
+8 established under part 7.
+9 (5) (4) "Intermediate school district election" means an
+10 election called by an intermediate school board and held on the
+11 date of the regular school elections of constituent districts or on
+12 a date determined by the intermediate school board under section
+13 642c of the Michigan election law, MCL 168.642c.
+14 (6) (5) "Intermediate school elector" means a person who is a
+15 school elector of a constituent district and who is registered in
+16 the city or township in which the person resides.
+17 (7) (6) "Intermediate superintendent" means the superintendent
+18 of an intermediate school district.
+19 (8) "Learner-first district" means the school district
+20 organized under part 6F.
+21 Sec. 5. (1) "Local act school district" means a district
+22 governed by a local act or chapter of a local act. "Local school
+23 district" and "local school district board" as used in article 3
+24 include a local act school district and a local act school district
+25 board.
+26 (2) "Membership" means the number of full-time equivalent
+27 pupils in a public school as determined by the number of pupils
+28 registered for attendance plus pupils received by transfer and
+29 minus pupils lost as defined by rules promulgated by the
+CRM H01429'25 (H-1) pug7hr
+
+3
+1 superintendent of public instruction.
+2 (3) "Michigan election law" means the Michigan election law,
+3 1954 PA 116, MCL 168.1 to 168.992.
+4 (4) "Nonpublic school" means a private, denominational, or
+5 parochial school.
+6 (5) "Objectives" means measurable pupil academic skills and
+7 knowledge.
+8 (6) "Public school" means a public elementary or secondary
+9 educational entity or agency that is established under this act or
+10 under other law of this state, has as its primary mission the
+11 teaching and learning of academic and vocational-technical skills
+12 and knowledge, and is operated by a school district, intermediate
+13 school district, school of excellence corporation, public school
+14 academy corporation, strict discipline academy corporation, urban
+15 high school academy corporation, or by the department, the state
+16 board, or another public body. Public school also includes the
+17 learner-first district, a laboratory school, or other elementary or
+18 secondary school that is controlled and operated by a state public
+19 university described in section 4, 5, or 6 of article VIII of the
+20 state constitution of 1963.
+21 (7) "Public school academy" means a public school academy
+22 established under part 6a and, except as used in part 6a, also
+23 includes an urban high school academy established under part 6c, a
+24 school of excellence established under part 6e, and a strict
+25 discipline academy established under sections 1311b to 1311m.
+26 (8) "Pupil membership count day" of a school district means
+27 that term as defined in section 6 of the state school aid act of
+28 1979, MCL 388.1606.
+29 (9) "Qualifying school district" means a school district that
+CRM H01429'25 (H-1) pug7hr
+
+4
+1 was previously organized and operated as a first class school
+2 district governed by part 6 that has a pupil membership of less
+3 than 100,000 enrolled on its most recent pupil membership count
+4 day, including, but not limited to, a school district that was
+5 previously organized and operated as a first class school district
+6 before June 21, 2016.
+7 (10) "Regular school election" or "regular election" means the
+8 election held in a school district, local act school district, or
+9 intermediate school district to elect a school board member in the
+10 regular course of the terms of that office and held on the school
+11 district's regular election date as determined under section 642c
+12 of the Michigan election law, MCL 168.642c.
+13 (11) "Reorganized intermediate school district" means an
+14 intermediate school district formed by consolidation or annexation
+15 of 2 or more intermediate school districts under sections 701 and
+16 702.
+17 (12) "Rule" means a rule promulgated under the administrative
+18 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+19 PART 6F
+20 LEARNER-FIRST DISTRICT
+21 Sec. 562. (1) The learner-first district is created and shall
+22 be governed by this part for the following purposes:
+23 (a) To provide innovative, flexible, transparent, safe,
+24 efficient, and effective public educational services throughout the
+25 state.
+26 (b) To provide parents and legal guardians with greater public
+27 educational choices and an increased ability to determine and
+28 direct the care, teaching, and education of their children.
+29 (c) To advance new flexible and adaptable educational models,
+CRM H01429'25 (H-1) pug7hr
+
+5
+1 including the expanded use of technology in education, online
+2 learning, and the provision of mastery-based learning.
+3 (d) To stimulate innovation in teaching methods, including the
+4 use of computer-adaptive methods of instruction.
+5 (e) To provide new professional opportunities for teachers
+6 within the public education system.
+7 (f) To create new public-private partnerships for the
+8 provision of public educational services.
+9 (2) All of the following apply to the learner-first district
+10 created under this section:
+11 (a) The learner-first district is a school district for the
+12 purposes of section 11 of article IX of the state constitution of
+13 1963.
+14 (b) The learner-first district is subject to the leadership
+15 and general supervision of the state board of education under
+16 section 3 of article VIII of the state constitution of 1963.
+17 (c) The learner-first district is a political subdivision and
+18 public body corporate separate and distinct from this state and
+19 other school districts in this state.
+20 (d) The learner-first district and members of the learner-
+21 first district school board, its superintendent, administrators,
+22 officers, employees, and volunteers have governmental immunity
+23 under section 7 of 1964 PA 170, MCL 691.1407.
+24 (e) The learner-first district encompasses a geographic area
+25 containing the entirety of this state.
+26 (3) As used in this section, "mastery-based learning" means
+27 education that includes all of the following elements:
+28 (a) Pupils are empowered daily to make important decisions
+29 about their learning experiences, how they will create and apply
+CRM H01429'25 (H-1) pug7hr
+
+6
+1 knowledge, and how they will demonstrate their learning.
+2 (b) Assessment is a meaningful, positive, and empowering
+3 learning experience for pupils that yields timely, relevant, and
+4 actionable evidence.
+5 (c) Pupils receive timely, differentiated support based on the
+6 pupil's individual learning needs.
+7 (d) Pupils progress based on evidence of mastery, not seat
+8 time.
+9 (e) Pupils learn actively using different pathways and varied
+10 pacing.
+11 (f) Strategies to ensure equity for all pupils are embedded in
+12 the culture, structure, and pedagogy.
+13 (g) Rigorous, common expectations for learning, including
+14 knowledge, skills, and dispositions, are explicit, transparent,
+15 measurable, and transferable.
+16 Sec. 564. (1) The learner-first district has all of the
+17 rights, powers, and duties expressly stated in this act; may
+18 exercise a power implied or incident to a power expressly stated in
+19 this act; and, except as otherwise provided by law, may exercise a
+20 power incidental or appropriate to the performance of a function
+21 related to the provision of public education services in the
+22 interests of public elementary and secondary education in this
+23 state, including, but not limited to, all of the following:
+24 (a) Educating pupils, in addition to educating pupils in
+25 grades K to 12, this function may include providing preschool,
+26 lifelong education, adult education, community education, training,
+27 enrichment, and recreation programs for other persons. The learner-
+28 first district may provide education services for pupils enrolled
+29 in the learner-first district through an agreement, contract, or
+CRM H01429'25 (H-1) pug7hr
+
+7
+1 other cooperative agreement with any public or private entity,
+2 including, but not limited to, another school district, an
+3 intermediate school district, a public school academy, a community
+4 college district, a state public university, or a library.
+5 (b) Providing for the safety and welfare of pupils enrolled in
+6 the learner-first district while engaged in a public educational
+7 service, an activity sponsored by the learner-first district, or
+8 while en route to or from a public educational service or a
+9 learner-first district sponsored activity.
+10 (c) Acquiring, renting, constructing, maintaining, repairing,
+11 renovating, disposing of, or conveying school property, facilities,
+12 equipment, technology, or furnishings.
+13 (d) Hiring, contracting for, scheduling, supervising, or
+14 terminating employees, independent contractors, individuals hired
+15 through parent-directed direct-instruction agreements under section
+16 566, and others, including, but not limited to, another school
+17 district or an intermediate school district, to carry out learner-
+18 first district powers. The learner-first district may indemnify its
+19 employees.
+20 (e) Receiving, accounting for, investing, or expending public
+21 school money; borrowing money and pledging public school funds for
+22 repayment; qualifying for state school aid and other public or
+23 private money from local, regional, state, or federal sources; and
+24 accepting gifts or grants from any public or private source.
+25 (2) The learner-first district may enter into agreements,
+26 contracts, concurrent enrollment agreements, or other cooperative
+27 arrangements with other entities, public or private, including, but
+28 not limited to, another school district, an intermediate school
+29 district, a public school academy, a community college district, a
+CRM H01429'25 (H-1) pug7hr
+
+8
+1 state public university, or a library.
+2 (3) The learner-first district may join organizations as part
+3 of performing the functions of the learner-first district. An
+4 agreement, contract, concurrent enrollment agreement, or other
+5 cooperative arrangement that is entered into under this act is not
+6 required to comply with the provisions of the urban cooperation act
+7 of 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to 124.512, as provided
+8 under section 3 of the urban cooperation act of 1967, 1967 (Ex
+9 Sess) PA 7, MCL 124.503.
+10 (4) A pupil who is enrolled in the learner-first district on
+11 less than a full-time equated basis must not be excluded from any
+12 course or learning pathway offered by the pupil's school district,
+13 including, but not limited to, core or essential academic
+14 coursework required under the Michigan merit curriculum sections
+15 1278a and 1278b.
+16 Sec. 565. (1) The learner-first district created under section
+17 562 is under the supervision and control of a learner-first
+18 district board. The learner-first district board must consist of 8
+19 members as follows:
+20 (a) Four members appointed by the governor.
+21 (b) Two members nominated by the speaker of the house of
+22 representatives and appointed by the governor.
+23 (c) Two members nominated by the senate majority leader and
+24 appointed by the governor.
+25 (2) Except as otherwise provided in this subsection, an
+26 individual appointed to the learner-first district board shall
+27 serve for a term of 8 years and may be reappointed. The terms for
+28 members first appointed must be staggered so that 2 expire in 2
+29 years, 2 expire in 4 years, 2 expire in 6 years, and 2 expire in 8
+CRM H01429'25 (H-1) pug7hr
+
+9
+1 years. A vacancy on the learner-first district board must be filled
+2 in the same manner as the original appointment.
+3 (3) Before beginning the duties of the office, a member of the
+4 learner-first district board shall take and subscribe to the
+5 constitutional oath of office as provided under section 1 of
+6 article XI of the state constitution of 1963. The oath of office
+7 must be filed with the secretary of state.
+8 Sec. 566. (1) The learner-first district board created under
+9 section 565 shall identify and contract with educational providers
+10 across this state to provide programs, courses, and services to
+11 pupils who enroll in the learner-first district. To become an
+12 educational provider for the learner-first district under this
+13 section, the individual or organization that wishes to serve as an
+14 educational provider must apply to the learner-first district board
+15 in a form and manner prescribed by the learner-first district
+16 board.
+17 (2) The learner-first district board may enter into a contract
+18 with an educational provider only if the learner-first district
+19 board determines the educational provider meets all of the
+20 following requirements:
+21 (a) The educational provider has a demonstrated record of
+22 improving pupil achievement in the program, course, or service the
+23 provider proposes to offer, or the educational provider's program,
+24 course, or service is a new approach to instruction that the
+25 learner-first district board believes will likely result in
+26 improved pupil achievement.
+27 (b) The proposed program, course, or service to be offered by
+28 the educational provider is consistent with the model core academic
+29 content standards under section 1278, the requirements for a high
+CRM H01429'25 (H-1) pug7hr
+
+10
+1 school diploma under section 1278a and 1278b, and other applicable
+2 provisions of this act.
+3 (c) The educational provider has sufficient operational
+4 capacity to deliver the proposed program, course, or service as
+5 described in the educational provider's contract with the learner-
+6 first district board.
+7 (d) The educational provider's proposed program, course, or
+8 service does not discriminate in pupil enrollment based on the
+9 pupil's academic or athletic ability, disability status, race,
+10 ethnicity, religious affiliation, geographic location or any other
+11 basis that cannot be used to prohibit enrollment in a public
+12 school.
+13 (e) The educational provider is operating in good standing
+14 with all applicable state and federal law, and meets any other
+15 operating standards established by the learner-first district
+16 board.
+17 (3) Except as otherwise provided by law, a program, course, or
+18 service offered by an educational provider must be provided by a
+19 certificated teacher, a faculty member of a community college
+20 district, a faculty member of a state public university, or an
+21 individual hired under subsection (6).
+22 (4) The learner-first district board shall contract with a
+23 sufficient number of educational providers in core academic
+24 subjects to allow a pupil to complete the core academic curriculum
+25 or state graduation requirements, as applicable.
+26 (5) An educational provider approved by the learner-first
+27 district board under subsection (1) may provide instruction in
+28 person, virtually, or through a combination of the 2, and with the
+29 assistance of computer-adaptive technology.
+CRM H01429'25 (H-1) pug7hr
+
+11
+1 (6) The learner-first district board shall establish and
+2 maintain a process through which parents or legal guardians may
+3 select and directly hire an individual certificated teacher or a
+4 faculty member of a community college or state public university to
+5 provide direct, one-to-one, or small-group instruction to the
+6 parent's or legal guardian's child. The learner-first district
+7 board shall do all of the following:
+8 (a) Maintain an open registry of qualified individuals who
+9 have applied and been approved by the learner-first district board
+10 after a criminal background check, verification of certification or
+11 faculty status, and demonstration of compliance with all applicable
+12 state and federal laws.
+13 (b) Facilitate the formation of a parent-directed direct-
+14 instruction agreement between the individual and the learner-first
+15 district. The agreement must include the individual's compensation
+16 rate, instructional hours, progress-reporting requirements, and any
+17 other terms the board deems necessary. The individual's
+18 compensation rate must not exceed the per-pupil foundation
+19 allowance under section 20 of the state school aid act, MCL
+20 388.1620, or the amount established by learner-first district board
+21 policy.
+22 (c) Disburse public funds directly to the selected individual
+23 or, at the parent's or legal guardian's election, reimburse the
+24 parent or legal guardian for payments already made to the
+25 individual in accordance with the agreement. The learner-first
+26 district remains the fiscal agent and retains all accountability
+27 and oversight responsibilities.
+28 (d) Require each individual providing direct instruction under
+29 this subsection to administer or participate in all state
+CRM H01429'25 (H-1) pug7hr
+
+12
+1 assessments required under this act and to provide regular progress
+2 reports to the learner-first district board, parents, and legal
+3 guardians.
+4 (7) The learner-first district board shall develop a system
+5 through which educational providers are evaluated and information
+6 on educational providers is provided to parents and legal guardians
+7 who wish to enroll their child in the learner-first district. The
+8 learner-first district board shall seek input from educational
+9 providers on the evaluation system developed under this subsection
+10 and changes to the evaluation system that can be implemented.
+11 Sec. 567. (1) If a parent or legal guardian wishes to enroll
+12 their child in the learner-first district, the parent or legal
+13 guardian must submit an application for enrollment in a form and
+14 manner prescribed by the learner-first district board. The learner-
+15 first district board may not deny a pupil the opportunity to enroll
+16 in the learner-first district based on the pupil's geographic
+17 location, academic or athletic ability, disability status, race,
+18 ethnicity, religious affiliation, or any other factor that cannot
+19 be used to prohibit enrollment in a public school. If the learner-
+20 first district board receives more applications than the learner-
+21 first district's capacity, the learner-first district board must
+22 select students for enrollment using a random selection process.
+23 (2) Any parent or legal guardian may enroll the parent's or
+24 legal guardian's child in the learner-first district. If a parent
+25 or legal guardian's application under subsection (1) is accepted,
+26 the parent or legal guardian may select any of the following:
+27 (a) Programs, courses, or services offered by preapproved
+28 educational providers under contract with the learner-first
+29 district board.
+CRM H01429'25 (H-1) pug7hr
+
+13
+1 (b) An individual teacher for direct instruction under section
+2 566. The parent or legal guardian has the right to negotiate the
+3 specific instructional plan with the selected teacher subject to
+4 learner-first district board approval of the resulting direct-
+5 instruction agreement. The learner-first district board shall
+6 provide support services, including a searchable online registry of
+7 qualified teachers, to assist parents and legal guardians in
+8 exercising this choice.
+9 (3) The learner-first district board shall ensure that each
+10 pupil enrolled in the learner-first district has access to
+11 instruction in the subject areas of reading, spelling, mathematics,
+12 science, history, civics, literature, writing, and English grammar
+13 as necessary to provide the pupil with a complete core academic
+14 curriculum or allow the pupil to complete the state graduation
+15 requirements. The learner-first district shall maintain a
+16 transcript for each pupil enrolled in the learner-first district
+17 and shall award credit in a program, course, or service based on
+18 objective measures of student achievement as provided for in the
+19 contract entered into with each educational provider under section
+20 566. A pupil receiving direct instruction under section 566 shall
+21 receive credit based on objective measures agreed upon in the
+22 direct-instruction agreement as described in that section.
+23 (4) The learner-first district board shall ensure that each
+24 pupil enrolled in the learner-first district is administered all
+25 state assessments required under this act.
+26 (5) This section does not prohibit a pupil enrolled in the
+27 learner-first district from satisfying any graduation requirements
+28 through dual enrollment in a postsecondary institution, or from
+29 enrolling in a public school for any course.
+CRM H01429'25 (H-1) pug7hr
+
+14
+1 (6) The learner-first district shall award a high school
+2 diploma to a pupil who satisfies the state graduation requirements
+3 established in sections 1278a and 1278b.
+4 Sec. 568. (1) The learner-first district is subject to all
+5 operational transparency requirements and fiscal controls that
+6 exist for other state educational agencies, including, but not
+7 limited to, the following:
+8 (a) The open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+9 (b) The freedom of information act, 1976 PA 442, MCL 15.231 to
+10 15.246.
+11 (c) The uniform budgeting and accounting act, 1968 PA 2, MCL
+12 141.421 to 141.440a.
+13 (d) 1947 PA 336, MCL 423.201 to 423.217.
+14 (e) Sections 1134, 1135, 1146, 1153, 1263(3), 1267, and 1274.
+15 (f) Laws concerning participation in state assessments, data
+16 collection systems, state level student growth models, state
+17 accountability and accreditation systems, and other public
+18 comparative data collection required for public schools.
+19 (2) The learner-first district shall make information
+20 concerning its operation and management available to the public in
+21 the same manner as is required by state law for school districts.
+22 Sec. 569. The validity of the formation of the learner-first
+23 district is conclusively presumed unless questioned in an original
+24 action filed in the court of appeals not later 60 days after the
+25 learner-first district is created under this part. The court of
+26 appeals has original jurisdiction to hear an action under this
+27 section. The court shall hear the action in an expedited manner.
+28 Sec. 1701b. (1) The learner-first district board created under
+29 section 565 shall, subject to the approval of the state board of
+CRM H01429'25 (H-1) pug7hr
+
+15
+1 education, develop and implement a plan for the delivery of special
+2 education services to eligible pupils enrolled in the learner-first
+3 district.
+4 (2) For the purposes of ensuring that a student with a
+5 disability enrolled in the learner-first district is provided with
+6 special education programs and services, the learner-first district
+7 is considered to be an intermediate school district under this
+8 article.
+9 (3) The learner-first district may not levy ad valorem
+10 property taxes or another tax for the purpose of providing special
+11 education programs or services, or for any other purpose. The state
+12 board of education shall adopt and implement a plan through which
+13 intermediate school district funds meant to be used for the
+14 provision of special education programs or services for a pupil
+15 residing in the intermediate school district may be transferred to
+16 the learner-first district for that pupil's education.
+Final Page
+CRM H01429'25 (H-1) pug7hr

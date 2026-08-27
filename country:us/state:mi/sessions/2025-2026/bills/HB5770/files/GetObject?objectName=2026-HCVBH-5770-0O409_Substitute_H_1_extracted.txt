@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+
+================================================================================
+
+SUBSTITUTE FOR
+HOUSE BILL NO. 5770
+A bill to regulate the use of facility fees by certain health
+care providers; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. As used in this act:
+2 (a) "Ambulatory surgical center" means a distinct entity
+3 certified by the Centers for Medicare and Medicaid Services as an
+4 ambulatory surgical center under 42 CFR part 416 that operates
+5 exclusively for the purpose of providing a surgical service to a
+6 patient who does not require hospitalization.
+7 (b) "Emergency room" means a specialized area in which
+8 immediate medical evaluation, treatment, and stabilization is
+9 provided to a patient with an acute illness or an injury that may
+10 be life threatening, limb threatening, or time critical.
+EMR H01321'25 (H-1) 6tydui
+
+2
+1 (c) "Facility fee" means a fee that meets all of the
+2 following:
+3 (i) The fee is charged or billed by a health care provider.
+4 (ii) The fee is intended to compensate the health care provider
+5 for the operational expenses of the health care provider.
+6 (iii) The fee is separate and distinct from a professional fee.
+7 (d) "Freestanding emergency facility" means an emergency room
+8 that is not physically connected to a hospital and that performs
+9 laboratory tests, ultrasounds, computerized tomography scans, and
+10 other tests and procedures that are performed in an emergency room
+11 of a hospital.
+12 (e) "Health care provider" means a health facility or a health
+13 professional.
+14 (f) "Health facility" means a health facility or agency as
+15 that term is defined in section 20106 of the public health code,
+16 1978 PA 368, MCL 333.20106, or any other entity that provides
+17 health care to patients, including, but not limited to, a health
+18 system, a hospital-based facility, a freestanding emergency
+19 facility, or an urgent care clinic.
+20 (g) "Health professional" means an individual who is licensed,
+21 registered, or authorized to engage in a health profession under
+22 article 15 of the public health code, 1978 PA 368, MCL 333.16101 to
+23 333.18838, but not including a dentist, dental hygienist, or dental
+24 assistant under part 166 of the public health code, 1978 PA 368,
+25 MCL 333.16601 to 16659, or a veterinarian or veterinary technician
+26 under part 188 of the public health code, 1978 PA 368, MCL
+27 333.18801 to 18838.
+28 (h) "Health system" means any of the following:
+29 (i) A parent corporation of 1 or more hospitals.
+EMR H01321'25 (H-1) 6tydui
+
+3
+1 (ii) An entity affiliated with a parent corporation of 1 or
+2 more hospitals through ownership, governance, membership, or other
+3 means.
+4 (iii) A hospital and an entity affiliated with the hospital.
+5 (i) "Hospital" means a hospital licensed under article 17 of
+6 the public health code, 1978 PA 368, MCL 333.20101 to 333.22260.
+7 (j) "Hospital-based facility" means a facility that meets both
+8 of the following requirements:
+9 (i) The facility is owned or operated, in whole or in part, by
+10 a hospital.
+11 (ii) A hospital service or professional medical service is
+12 provided in the facility.
+13 (k) "Hospital's campus" means any of the following:
+14 (i) The physical area that is immediately adjacent to a
+15 hospital's main building and any other area or structure that is
+16 not strictly contiguous to the hospital's main building but is
+17 located within 250 yards of the main building.
+18 (ii) An area that the Centers for Medicare and Medicaid
+19 Services has determined, on an individual basis, to be part of the
+20 campus of a hospital.
+21 (l) "Observation" means a service furnished by a hospital on
+22 the hospital's campus that includes, regardless of length of stay,
+23 the use of a bed and periodic monitoring by the hospital's staff,
+24 to evaluate an outpatient's condition or to determine the need to
+25 admit an individual to the hospital as an inpatient.
+26 (m) "Professional fee" means a fee that is charged or billed
+27 for a professional medical service provided by a health
+28 professional.
+29 (n) "Telemedicine" means that term as defined in section 3476
+EMR H01321'25 (H-1) 6tydui
+
+4
+1 of the insurance code of 1956, 1956 PA 218, MCL 500.3476.
+2 Sec. 3. (1) Beginning January 1, 2027, and except as otherwise
+3 provided under subsection (2), a health care provider shall not
+4 charge, bill, or collect a facility fee for any of the following:
+5 (a) A professional medical service provided through
+6 telemedicine.
+7 (b) A professional medical service that is provided to a
+8 patient in a facility that is not a hospital.
+9 (c) A professional medical service that is provided to a
+10 patient who is receiving an outpatient service in a hospital,
+11 unless either of the following applies:
+12 (i) The outpatient service is provided in an emergency room of
+13 the hospital.
+14 (ii) The outpatient service is observation.
+15 (2) Subsection (1) does not apply to a health care provider
+16 that provides a professional medical service to a patient in a
+17 facility that is an ambulatory surgical center.
+18 Sec. 4. Both of the following apply to a health care provider
+19 that charges, bills, or collects a facility fee under this act:
+20 (a) The health care provider shall identify the fee as a
+21 facility fee on the billing statement.
+22 (b) The health care provider shall inform the patient before
+23 the professional medical service is provided that the patient will
+24 be charged a facility fee and the amount of the facility fee.
+25 Sec. 5. (1) A person aggrieved by a violation of section 3 or
+26 4 may bring a civil action for damages against the health care
+27 provider.
+28 (2) A court shall award reasonable costs and attorney fees to
+29 a plaintiff who prevails in an action brought under this section.
+EMR H01321'25 (H-1) 6tydui
+
+5
+1 Sec. 7. (1) This act does not prohibit an insurer as that term
+2 as defined in section 106 of the insurance code of 1956, 1956 PA
+3 218, MCL 500.106, from entering into an agreement with a health
+4 care provider for the payment of a fee or cost considered to be
+5 appropriate.
+6 (2) This act does not prohibit charging and reimbursing a
+7 facility fee under Medicare.
+Final Page
+EMR H01321'25 (H-1) 6tydui

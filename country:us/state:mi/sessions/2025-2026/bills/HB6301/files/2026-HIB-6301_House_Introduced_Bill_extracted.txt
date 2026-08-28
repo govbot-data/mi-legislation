@@ -1,0 +1,8 @@
+Title: 
+Official Title: 
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+HOUSE BILL NO. 6301 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," (MCL 760.1 to 777.69) by adding section 3a to chapter IV. the people of the state of michigan enact: CHAPTER IV Sec. 3a. (1) Beginning October 1, 2026, each court shall post to the court's website both of the following: (a) The court's failure to appear rate, fugitive rate, or both. (b) The number of active warrants the court has, listed separately by traffic, misdemeanor, and felony offenses. (2) As used in this section: (a) "Failure to appear" means the failure to appear before court by a defendant for a hearing or any scheduled and required appearances. (b) "Failure to appear rate" means the number of defendants who qualify as failure to appear divided by the total population of defendants in the court's system. (c) "Fugitive" means an individual under judicial authority, including, but not limited to, defendants on pretrial release, probationers, and parolees, who fail to appear in court, abscond from supervision, or become fugitives from justice. (d) "Fugitive rate" means the number of individuals who qualify as a fugitive divided by the total number of individuals under judicial authority.

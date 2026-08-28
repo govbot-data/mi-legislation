@@ -1,0 +1,8 @@
+Title: 
+Official Title: 
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+HOUSE BILL NO. 6280 A bill to amend 1953 PA 232, entitled "Corrections code of 1953," (MCL 791.201 to 791.285) by adding section 67d. the people of the state of michigan enact: Sec. 67d. (1) The department shall maintain policies on the use of a recording device in a sensitive medical setting. The policy shall ensure all of the following: (a) That the use of a recording device in a sensitive medical setting is limited to circumstances in which it is reasonably necessary for safety, security, or documentation purposes. (b) That if a recording device is used, the recording device is used in a manner that minimizes intrusion on the privacy of the prisoner to the greatest extent practicable and the reason for using the recording device is documented. (2) The department shall maintain a policy on the retention, storage, and access to a recording created in a sensitive medical setting through a recording device, in a manner that complies with any applicable law. (3) As used in this section: (a) "Medical care" includes a physical, mental, optical, and dental health service. (b) "Recording device" means a device, other than a device used to provide medical care through telehealth, that is capable of capturing audio, video, or photographic images of a prisoner. (c) "Sensitive medical setting" means a setting where medical care is provided to a prisoner under circumstances where the prisoner has an expectation of privacy.

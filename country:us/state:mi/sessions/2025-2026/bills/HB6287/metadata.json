@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-08-28T18:11:52Z"
       }
+    },
+    {
+      "description": "per Rule 40 referred to Committee on Government Operations",
+      "date": "2026-09-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T09:59:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -222,7 +232,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T18:11:52Z",
+    "logs_latest_update": "2026-09-02T09:59:54Z",
     "text_extraction_latest_update": "2026-08-28T18:14:04.304185Z"
   }
 }

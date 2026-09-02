@@ -1,72 +1,62 @@
 {
   "legislative_session": "2025-2026",
-  "identifier": "HB 6302",
-  "title": "Education: school districts; requirement to display an American flag in classrooms; provide for. Amends sec. 1347 of 1976 PA 451 (MCL 380.1347).",
+  "identifier": "HB 6326",
+  "title": "Health occupations: health professionals; use of advertisements, name tags, and making other representations that contain false or misleading information; prohibit. Amends sec. 16221 of 1978 PA 368 (MCL 333.16221) & adds sec. 16260.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Education: school districts",
-    "State agencies (existing): education"
+    "Health occupations: health professionals",
+    "State agencies (existing): licensing and regulatory affairs"
   ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mi-2025_2026-hb6302"
+      "identifier": "ocd-bill-mi-2025_2026-hb6326"
     }
   ],
   "actions": [
     {
-      "description": "introduced by Representative Rep. Matt Maddock",
-      "date": "2026-08-27",
+      "description": "introduced by Representative Rep. John Roth",
+      "date": "2026-09-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T18:11:52Z"
+        "log_file_created": "2026-09-02T09:59:54Z"
       }
     },
     {
       "description": "read a first time",
-      "date": "2026-08-27",
+      "date": "2026-09-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T18:11:52Z"
+        "log_file_created": "2026-09-02T09:59:54Z"
       }
     },
     {
-      "description": "referred to Committee on Education and Workforce",
-      "date": "2026-08-27",
+      "description": "referred to Committee on Health Policy",
+      "date": "2026-09-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T18:11:52Z"
+        "log_file_created": "2026-09-02T09:59:54Z"
       }
     },
     {
-      "description": "bill electronically reproduced 08/27/2026",
-      "date": "2026-09-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-28T18:11:52Z"
-      }
-    },
-    {
-      "description": "per Rule 40 referred to Committee on Government Operations",
-      "date": "2026-09-01",
+      "description": "bill electronically reproduced 09/01/2026",
+      "date": "2026-09-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -77,35 +67,43 @@
   ],
   "sponsorships": [
     {
-      "name": "Matt Maddock",
+      "name": "John Roth",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Matt Maddock\"}",
+      "person_id": "~{\"name\": \"John Roth\"}",
       "organization_id": null
     },
     {
-      "name": "Timothy Beson",
+      "name": "Tim Kelly",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Timothy Beson\"}",
+      "person_id": "~{\"name\": \"Tim Kelly\"}",
       "organization_id": null
     },
     {
-      "name": "Alicia St. Germaine",
+      "name": "Mike Hoadley",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Alicia St. Germaine\"}",
+      "person_id": "~{\"name\": \"Mike Hoadley\"}",
       "organization_id": null
     },
     {
-      "name": "Rachelle Smit",
+      "name": "Ken Borton",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Rachelle Smit\"}",
+      "person_id": "~{\"name\": \"Ken Borton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gina Johnsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gina Johnsen\"}",
       "organization_id": null
     }
   ],
@@ -115,11 +113,11 @@
       "note": "House Introduced Bill",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2026-HIB-6302.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2026-HIB-6326.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-6302.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-6326.htm",
           "media_type": "text/html"
         }
       ],
@@ -131,7 +129,7 @@
   "citations": [
     {
       "publication": "Michigan Compiled Laws",
-      "citation": "MCL 380.1347",
+      "citation": "MCL 333.16221",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -140,7 +138,7 @@
   ],
   "sources": [
     {
-      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6302",
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6326",
       "note": ""
     }
   ],
@@ -152,7 +150,6 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T09:59:54Z",
-    "text_extraction_latest_update": "2026-08-28T18:12:57.733594Z"
+    "logs_latest_update": "2026-09-02T09:59:54Z"
   }
 }

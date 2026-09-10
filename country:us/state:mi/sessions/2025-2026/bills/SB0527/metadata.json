@@ -286,6 +286,36 @@
       "_processing": {
         "log_file_created": "2026-08-26T06:22:49Z"
       }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
+    },
+    {
+      "description": "FULL TITLE AGREED TO",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -454,7 +484,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T06:22:49Z",
+    "logs_latest_update": "2026-09-10T09:58:17Z",
     "text_extraction_latest_update": "2026-08-26T06:24:10.909658Z"
   }
 }

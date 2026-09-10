@@ -312,6 +312,36 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "HOUSE AMENDMENT(S) CONCURRED IN ROLL CALL # 229 YEAS 24 NAYS 10 EXCUSED 4 NOT VOTING 0",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:58:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -403,6 +433,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/pdf/2025-SCB-0729.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/htm/2025-SCB-0729.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -422,7 +467,7 @@
       "classification": ""
     },
     {
-      "note": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Date Completed: 12-9-25)",
+      "note": "SUMMARY OF DISCHARGED BILL (Date Completed: 9-9-26)",
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0729-F.pdf",
@@ -487,7 +532,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-09-10T09:58:17Z",
     "text_extraction_latest_update": "2026-07-21T21:41:56.650273Z"
   }
 }

@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SUBSTITUTE FOR
+SENATE BILL NO. 1134
+A bill to amend 1943 PA 240, entitled
+"State employees' retirement act,"
+by amending section 55 (MCL 38.55), as amended by 2011 PA 264, and
+by adding sections 50b and 64a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 50b. (1) Subject to subsection (4), the retirement system
+2 shall provide an opportunity for each eligible position qualified
+3 participant on June 5, 2027 to elect in writing to terminate being
+4 a qualified participant and elect to become a member of the
+5 Michigan state police retirement system created under the state
+6 police retirement act of 1986, 1986 PA 182, MCL 38.1601 to 38.1674.
+7 An election made by an eligible position qualified participant
+8 under this subsection is irrevocable. The retirement system shall
+DAW S07722'26 (S-1) xvbdpi
+
+2
+1 accept written elections under this subsection from eligible
+2 position qualified participants beginning on August 2, 2027 and
+3 ending at 5 p.m. Eastern Daylight Saving Time, October 15, 2027. An
+4 eligible position qualified participant who does not make a written
+5 election or who does not file the election during the period
+6 specified in this subsection continues to be a qualified
+7 participant. An eligible position qualified participant who makes
+8 and files a written election under this subsection elects to do
+9 both of the following:
+10 (a) Cease to be a qualified participant effective 11:59 p.m.,
+11 January 1, 2028.
+12 (b) Become a member of the Michigan state police retirement
+13 system created under the state police retirement act of 1986, 1986
+14 PA 182, MCL 38.1601 to 38.1674.
+15 (2) After consultation with the retirement board, the
+16 department of technology, management, and budget shall determine
+17 the method by which an eligible position qualified participant may
+18 make a written election under this section. If the eligible
+19 position qualified participant is married at the time of the
+20 election, the election is not effective unless the election is
+21 signed by the individual's spouse. However, the retirement board
+22 may waive this requirement if the spouse's signature cannot be
+23 obtained because of extenuating circumstances.
+24 (3) An election under this section is subject to the eligible
+25 domestic relations order act, 1991 PA 46, MCL 38.1701 to 38.1711.
+26 (4) An eligible position qualified participant that is
+27 described in section 55(2)(b) or (d) is not eligible to make an
+28 election under this section.
+29 (5) As used in this section:
+DAW S07722'26 (S-1) xvbdpi
+
+3
+1 (a) "Eligible position" means a position in the classified
+2 civil service with a classification of any of the following:
+3 (i) A position described in section 45(a)(i) or (iv).
+4 (ii) Corrections resident representative.
+5 (iii) Corrections transportation officer.
+6 (iv) Special alternative incarceration officer.
+7 (v) Corrections medical officer.
+8 (vi) Corrections medical unit officer.
+9 (vii) Assistant deputy warden.
+10 (viii) State deputy warden.
+11 (ix) Senior executive warden.
+12 (x) Forensic security assistant.
+13 (b) "Eligible position qualified participant" means a
+14 qualified participant who is employed in an eligible position.
+15 Sec. 55. (1) "Plan document" means the document that contains
+16 the provisions and procedures of Tier 2 in conformity with this act
+17 and the internal revenue code.
+18 (2) "Qualified participant" means an individual who is a
+19 participant of Tier 2 and who meets 1 of the following
+20 requirements:
+21 (a) Is first employed and entered upon on the payroll of his
+22 or her employer on or after March 31, 1997, and who before March
+23 31, 1997 would have been eligible to be a member of Tier 1.
+24 (b) Elects to terminate membership in Tier 1 and elects to
+25 participate in Tier 2 in the manner prescribed in section 50.
+26 (c) Is an adjutant general or an assistant adjutant general
+27 under the Michigan military act, 1967 PA 150, MCL 32.501 to 32.851,
+28 and who is first employed as an adjutant general or assistant
+29 adjutant general on or after January 1, 2011.December 31, 2010.
+DAW S07722'26 (S-1) xvbdpi
+
+4
+1 (d) Was a member who did not make the election under section
+2 50a.
+3 (e) Was a member who made the election under section 50a(1)
+4 and the designation under section 50a(2) and who has attained 30
+5 years of credited service or who has terminated employment and has
+6 been reemployed by this state.
+7 (f) Was a member as described in section 50a(6), (7), or (8).
+8 (3) "Qualified participant" does not include any of the
+9 following:
+10 (a) An individual employed in an eligible position, as that
+11 term is defined in section 50b, to whom both of the following
+12 apply:
+13 (i) Elects to terminate being a qualified participant under
+14 section 50b.
+15 (ii) Is first employed and entered on the payroll before June
+16 6, 2027.
+17 (b) An individual employed in an eligible position, as that
+18 term is defined in section 50b, who is first employed and entered
+19 on the payroll after June 5, 2027.
+20 (4) (3) "Refund beneficiary" means an individual nominated by
+21 a qualified participant or a former qualified participant under
+22 section 66 to receive a distribution of the participant's
+23 accumulated balance in the manner prescribed in section 67.
+24 (5) (4) "State treasurer" means the treasurer of this state.
+25 (6) (5) "Tax-deferred account" means an account or accounts of
+26 existing deferred compensation plans or plans established by the
+27 retirement system, for which the retirement system has the
+28 authority to determine the membership, eligibility, terms,
+29 conditions, and other administrative and operational features. Tax-
+DAW S07722'26 (S-1) xvbdpi
+
+5
+1 deferred account does not include a health reimbursement account
+2 for purposes other than complying with the contribution limits
+3 described in section 68b(12).
+4 (7) (6) Except as otherwise provided in this subsection, "year
+5 of service" means each period during which a qualified participant
+6 is employed by the employer and is credited with 2,080 hours of
+7 service. The Tier 2 plan administrator and the plan document may
+8 provide for a lesser number of annual hours and a maximum number of
+9 hours per pay period for any classification of employees, provided
+10 that no but a participant shall may not receive credit for more
+11 than 1 year of service for any 12-month period of employment.
+12 Beginning January 1, 2003, full service credit shall must also be
+13 given to a participant for furlough hours, for required 1-day
+14 layoffs, for required and designated temporary layoffs, for a year
+15 in which a participant temporarily leaves employment to enter
+16 active military duty and then dies during that active military
+17 duty, and for participation in the banked leave time program. In
+18 the event If a terminated participant is reemployed, such the
+19 individual shall must retain credit for all full and partial years
+20 of service completed prior to such before the reemployment, for
+21 purposes of determining his or her vesting percentage in any
+22 employer contributions made pursuant to section 63(2) and (3) after
+23 his or her the reemployment.
+24 Sec. 64a. An eligible position qualified participant who
+25 elects to terminate being a qualified participant under section 50b
+26 may transfer part or all of his or her contributions made to Tier 2
+27 and, subject to the vesting schedule under section 64, transfer
+28 part or all of employer contributions made on his or her behalf to
+29 Tier 2 to purchase service credit under the state police retirement
+DAW S07722'26 (S-1) xvbdpi
+
+6
+1 act of 1986, 1986 PA 182, MCL 38.1601 to 38.1674, as provided in
+2 section 24c of the state police retirement act of 1986, 1986 PA
+3 182, MCL 38.1624c. As used in this section, "eligible position
+4 qualified participant" means that term as defined in section 50b.
+5 Enacting section 1. This amendatory act does not take effect
+6 unless all of the following bills of the 103rd Legislature are
+7 enacted into law:
+8 (a) Senate Bill No. 1133.
+9 (b) Senate Bill No. 1135.
+Final Page
+DAW S07722'26 (S-1) xvbdpi

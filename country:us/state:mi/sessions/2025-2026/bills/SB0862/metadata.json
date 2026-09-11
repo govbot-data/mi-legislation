@@ -92,6 +92,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
+    },
+    {
+      "description": "REASSIGNED TO COMMITTEE ON APPROPRIATIONS",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,7 +190,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-07-22T01:50:12.931456Z"
   }
 }

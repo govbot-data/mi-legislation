@@ -274,6 +274,68 @@
       "_processing": {
         "log_file_created": "2026-08-26T06:22:49Z"
       }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH AMENDMENT(S) WITH IMMEDIATE EFFECT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED FOR IMMEDIATE CONSIDERATION",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "HOUSE AMENDMENT(S) CONCURRED IN ROLL CALL # 230 YEAS 32 NAYS 2 EXCUSED 4 NOT VOTING 0",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "FULL TITLE AGREED TO",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -419,6 +481,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/pdf/2026-SCB-1013.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/htm/2026-SCB-1013.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -492,6 +569,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Summary as Passed by the House (8/26/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-1013-Y4NXK1J5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -526,7 +614,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T06:22:49Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-08-26T06:24:37.144555Z"
   }
 }

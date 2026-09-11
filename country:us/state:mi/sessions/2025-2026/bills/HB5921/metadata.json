@@ -160,6 +160,30 @@
       "_processing": {
         "log_file_created": "2026-08-26T06:22:49Z"
       }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH IMMEDIATE EFFECT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE ON OVERSIGHT",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -523,7 +547,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T06:22:49Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-08-26T06:24:18.231197Z"
   }
 }

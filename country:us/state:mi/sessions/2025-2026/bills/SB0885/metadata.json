@@ -97,6 +97,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:33Z"
       }
+    },
+    {
+      "description": "PASSED ROLL CALL # 246 YEAS 27 NAYS 8 EXCUSED 3 NOT VOTING 0",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "received on 09/10/2026",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +182,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/pdf/2026-SEBS-0885.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0885.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -207,7 +246,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:33Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-07-21T21:21:35.701382Z"
   }
 }

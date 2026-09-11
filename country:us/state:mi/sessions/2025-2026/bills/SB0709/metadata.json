@@ -74,6 +74,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITH SUBSTITUTE (S-2)",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTE (S-2) CONCURRED IN",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "PLACED ON ORDER OF THIRD READING WITH SUBSTITUTE (S-2)",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -136,6 +168,39 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0709-0B736.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 3",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0709-00C77.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 4",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0709-00D48.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 5",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0709-0D289.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -222,7 +287,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-07-22T01:34:45.172064Z"
   }
 }

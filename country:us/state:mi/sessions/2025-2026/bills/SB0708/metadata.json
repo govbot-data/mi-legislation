@@ -74,6 +74,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:35Z"
       }
+    },
+    {
+      "description": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITHOUT AMENDMENT(S)",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "PLACED ON ORDER OF THIRD READING",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T10:14:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -200,7 +222,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:35Z",
+    "logs_latest_update": "2026-09-11T10:14:13Z",
     "text_extraction_latest_update": "2026-07-21T21:23:18.796785Z"
   }
 }

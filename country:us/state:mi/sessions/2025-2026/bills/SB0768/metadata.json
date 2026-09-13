@@ -90,6 +90,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: VERONICA KLINEFELT",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +166,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jeremy Moss\"}",
       "organization_id": null
+    },
+    {
+      "name": "Veronica Klinefelt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Klinefelt\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -217,7 +235,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-09-13T10:23:54Z",
     "text_extraction_latest_update": "2026-07-21T21:04:59.662173Z"
   }
 }

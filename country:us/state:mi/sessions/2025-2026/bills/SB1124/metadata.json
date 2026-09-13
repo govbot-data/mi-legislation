@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-08-14T07:28:38Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: VERONICA KLINEFELT",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +77,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rosemary Bayer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Klinefelt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Klinefelt\"}",
       "organization_id": null
     }
   ],
@@ -104,7 +122,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T07:28:38Z",
+    "logs_latest_update": "2026-09-13T10:23:54Z",
     "text_extraction_latest_update": "2026-08-14T07:29:45.031213Z"
   }
 }

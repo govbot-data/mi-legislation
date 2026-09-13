@@ -40,6 +40,16 @@
       "_processing": {
         "log_file_created": "2026-09-11T10:14:13Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T10:14:13Z",
+    "logs_latest_update": "2026-09-13T10:23:54Z",
     "text_extraction_latest_update": "2026-09-11T10:17:38.074628Z"
   }
 }

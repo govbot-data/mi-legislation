@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 1085",
-  "title": "Businesses: business corporations; power of corporations to spend in elections or ballot issues; revoke. Amends sec. 261, 271, 821, 1012 & 1041 of 1972 PA 284 (MCL 450.1261 et seq.) & adds sec. 261a.   TIE BAR WITH: SB 1086'26,  SB 1087'26",
+  "title": "Businesses: business corporations; power of corporations to spend in elections or ballot issues; revoke. Amends secs. 261, 271, 821, 1012 & 1041 of 1972 PA 284 (MCL 450.1261 et seq.) & adds sec. 261a.   TIE BAR WITH: SB 1086'26,  SB 1087'26",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -49,6 +49,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:36Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: VERONICA KLINEFELT",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:23:54Z"
       }
     }
   ],
@@ -124,6 +134,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Mallory McMorrow\"}",
       "organization_id": null
+    },
+    {
+      "name": "Veronica Klinefelt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Klinefelt\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -169,7 +187,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-09-13T10:23:54Z",
     "text_extraction_latest_update": "2026-07-21T19:19:23.869485Z"
   }
 }

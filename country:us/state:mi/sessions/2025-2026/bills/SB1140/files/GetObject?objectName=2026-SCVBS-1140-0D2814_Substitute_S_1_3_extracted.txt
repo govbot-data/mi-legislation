@@ -1,0 +1,970 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SUBSTITUTE FOR
+SENATE BILL NO. 1140
+A bill to amend 1996 PA 381, entitled
+"Brownfield redevelopment financing act,"
+by amending section 2 (MCL 125.2652), as amended by 2026 PA 36.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Authority" means a brownfield redevelopment authority
+3 created under this act.
+4 (b) "Baseline environmental assessment" means that term as
+5 defined in part 201 or 213.
+6 (c) "Blighted" means property that meets any of the following
+7 criteria as determined by the governing body:
+8 (i) Has been declared a public nuisance in accordance with a
+9 local housing, building, plumbing, fire, or other related code or
+ERE S07727'26 (S-1) cye7s4
+
+2
+1 ordinance.
+2 (ii) Is an attractive nuisance to children because of physical
+3 condition, use, or occupancy.
+4 (iii) Is a fire hazard or is otherwise dangerous to the safety
+5 of persons or property.
+6 (iv) Has had the utilities, plumbing, heating, or sewerage
+7 permanently disconnected, destroyed, removed, or rendered
+8 ineffective so that the property is unfit for its intended use.
+9 (v) Is previously developed or tax reverted property owned by
+10 a municipality or by this state. The sale, lease, or transfer of
+11 previously developed or tax reverted property by a municipality or
+12 this state after the property's inclusion in a brownfield plan does
+13 not result in the loss to the property of the status as blighted
+14 property for purposes of this act.
+15 (vi) Is property owned by or under the control of a land bank
+16 fast track authority, whether or not located within a qualified
+17 local governmental unit. Property included within a brownfield plan
+18 before the date it meets the requirements of this subdivision to be
+19 eligible property is considered to become eligible property as of
+20 the date the property is determined to have been or becomes
+21 qualified as, or is combined with, other eligible property. The
+22 sale, lease, or transfer of the property by a land bank fast track
+23 authority after the property's inclusion in a brownfield plan does
+24 not result in the loss to the property of the status as blighted
+25 property for purposes of this act.
+26 (vii) Has substantial buried subsurface demolition debris
+27 present so that the property is unfit for its intended use.
+28 (d) "Board" means the board that supervises and controls an
+29 authority under section 5.
+ERE S07727'26 (S-1) cye7s4
+
+3
+1 (e) "Brownfield plan" means a plan that meets the requirements
+2 of sections 13 and 13b and is adopted under section 14.
+3 (f) "Captured taxable value" means the amount in 1 year by
+4 which the current taxable value of an eligible property subject to
+5 a brownfield plan, including the taxable value or assessed value,
+6 as appropriate, of the property for which specific taxes are paid
+7 in lieu of property taxes, exceeds the initial taxable value of
+8 that eligible property. The state tax commission shall prescribe
+9 the method for calculating captured taxable value.
+10 (g) "Chief executive officer" means the mayor of a city, the
+11 village manager of a village, the township supervisor of a
+12 township, or the county executive of a county or, if the county
+13 does not have an elected county executive, the chairperson of the
+14 county board of commissioners.
+15 (h) "Combined brownfield plan" means a brownfield plan that
+16 also includes the information necessary to submit the plan to the
+17 department, Michigan state housing development authority, or
+18 Michigan strategic fund under section 15(20).
+19 (i) "Construction period tax capture revenues" means funds
+20 equal to the amount of income tax levied and imposed in a calendar
+21 year on wages paid to individuals physically present and working
+22 within the eligible property for the construction, renovation, or
+23 other improvement of eligible property that is an eligible activity
+24 within a transformational brownfield plan. As used in this
+25 subdivision, "wages" means that term as defined in section 3401 of
+26 the internal revenue code of 1986, 26 USC 3401. To calculate the
+27 amount of construction period tax capture revenues for a calendar
+28 year under a transformational brownfield plan, the state treasurer
+29 shall do all of the following:
+ERE S07727'26 (S-1) cye7s4
+
+4
+1 (i) Require the owner or developer of the eligible property to
+2 report the total taxable wages paid to individuals for the
+3 construction, renovation, or other improvement of eligible property
+4 that is an eligible activity within the transformational brownfield
+5 plan. The wages reported under this subparagraph must exclude any
+6 wages paid to employees of the owner or developer.
+7 (ii) Multiply the amount under subparagraph (i) by the effective
+8 rate as determined by the state treasurer at which the income tax
+9 is levied on an individual in this state. The state treasurer shall
+10 estimate the effective rate by taking into account the effect of
+11 any exemptions, additions, subtractions, and credits allowable
+12 under part 1 of the income tax act of 1967, 1967 PA 281, MCL 206.1
+13 to 206.532. The state treasurer may require the owner or developer
+14 to submit any information necessary for the calculation under this
+15 subparagraph.
+16 (iii) The wage information and other information required under
+17 this subdivision must be provided to the department of treasury by
+18 the owner or developer in a manner prescribed by the state
+19 treasurer. The state treasurer may require the owner or developer
+20 to provide a review or reconciliation of the wages by an
+21 independent auditing firm.
+22 (j) "Corrective action" means that term as defined in part 111
+23 or part 213.
+24 (k) "Department" means the department of environment, Great
+25 Lakes, and energy.
+26 (l) "Department specific activities" means baseline
+27 environmental assessments, due care activities, response
+28 activities, and other environmentally related actions that are
+29 eligible activities and are identified as a part of a brownfield
+ERE S07727'26 (S-1) cye7s4
+
+5
+1 plan that are in addition to the minimum due care activities
+2 required by part 201, including, but not limited to:
+3 (i) Response activities that are more protective of the public
+4 health, safety, and welfare and the environment than required by
+5 section 20107a, 20114, or 21304c of the natural resources and
+6 environmental protection act, 1994 PA 451, MCL 324.20107a,
+7 324.20114, and 324.21304c.
+8 (ii) Removal and closure of underground storage tanks pursuant
+9 to part 211 or 213.
+10 (iii) Disposal of solid waste, as defined in part 115 of the
+11 natural resources and environmental protection act, 1994 PA 451,
+12 MCL 324.11501 to 324.11587, from the eligible property, if the
+13 solid waste was not generated or accumulated by the authority or
+14 the developer.
+15 (iv) Dust control related to construction activities.
+16 (v) Removal and disposal of lake or river sediments exceeding
+17 part 201 criteria from, at, or related to an economic development
+18 project if the upland property is either a facility or would become
+19 a facility as a result of the deposition of dredged spoils.
+20 (vi) Industrial cleaning.
+21 (vii) Sheeting and shoring necessary for the removal of
+22 materials exceeding part 201 criteria at projects requiring a
+23 permit pursuant to part 301, 303, or 325 of the natural resources
+24 and environmental protection act, 1994 PA 451, MCL 324.30101 to
+25 324.30113, 324.30301 to 324.30328, and 324.32501 to 324.32515a.
+26 (viii) Lead, mold, or asbestos abatement when lead, mold, or
+27 asbestos pose an imminent and significant threat to human health.
+28 (ix) Environmental insurance.
+29 (m) "Due care activities" means those response activities
+ERE S07727'26 (S-1) cye7s4
+
+6
+1 identified as part of a brownfield plan that are necessary to allow
+2 the owner or operator of an eligible property in the plan to comply
+3 with the requirements of section 20107a or 21304c of the natural
+4 resources and environmental protection act, 1994 PA 451, MCL
+5 324.20107a and 324.21304c.
+6 (n) "Economic opportunity zone" means 1 or more parcels of
+7 property that meet all of the following:
+8 (i) That together are 40 or more acres in size.
+9 (ii) That contain or contained a manufacturing operation or an
+10 enclosed mall that consists or consisted of 300,000 or more square
+11 feet.
+12 (iii) That are located in a municipality that is contiguous to a
+13 qualified local governmental unit.
+14 (o) "Eligible activities" or "eligible activity" means 1 or
+15 more of the following:
+16 (i) For all eligible properties, eligible activities include
+17 all of the following:
+18 (A) Department specific activities.
+19 (B) Relocation of public buildings or operations for economic
+20 development purposes.
+21 (C) Reasonable costs of environmental insurance.
+22 (D) Reasonable costs incurred to develop and prepare
+23 brownfield plans, combined brownfield plans, or work plans for the
+24 eligible property, including legal and consulting fees that are not
+25 in the ordinary course of acquiring and developing real estate.
+26 (E) Reasonable costs of brownfield plan and work plan
+27 implementation, including, but not limited to, tracking and
+28 reporting of data and plan compliance, including costs to
+29 implement, monitor, and maintain compliance with the income and
+ERE S07727'26 (S-1) cye7s4
+
+7
+1 price monitoring responsibilities associated with housing
+2 development activities, and the reasonable costs incurred to
+3 estimate and determine actual costs incurred, whether those costs
+4 are incurred by a municipality, authority, or private developer.
+5 (F) Demolition of structures or site improvements that are not
+6 a response activity, including removal of manufactured debris
+7 composed of discarded, unused, or unusable manufactured by-products
+8 left on the site by a previous owner. The removal of the
+9 manufactured by-products left on the site described in this sub-
+10 subparagraph is not eligible for interest reimbursement under sub-
+11 subparagraph (H).
+12 (G) Lead, asbestos, or mold abatement.
+13 (H) Except as otherwise provided in sub-subparagraph (F), the
+14 repayment of principal of and interest on any obligation issued by
+15 an authority to pay the costs of eligible activities attributable
+16 to an eligible property.
+17 (ii) For housing property located in a community that has
+18 identified a specific housing need and has absorption data or job
+19 growth data included in the brownfield plan, eligible activities
+20 include all of the following:
+21 (A) The activities described in subparagraph (i).
+22 (B) Housing development activities.
+23 (C) Infrastructure improvements that are necessary for housing
+24 property and support housing development activities.
+25 (D) Site preparation that is not a response activity and that
+26 supports housing development activities.
+27 (iii) For eligible properties located in a qualified local
+28 governmental unit, or an economic opportunity zone, or that are a
+29 former mill, eligible activities include all of the following:
+ERE S07727'26 (S-1) cye7s4
+
+8
+1 (A) The activities described in subparagraph (i).
+2 (B) Infrastructure improvements that directly benefit eligible
+3 property.
+4 (C) Site preparation that is not a response activity.
+5 (iv) For eligible properties that are owned by or under the
+6 control of a land bank fast track authority, or a municipality or
+7 authority, eligible activities include all of the following:
+8 (A) The eligible activities described in subparagraphs (i),
+9 (ii), and (iii).
+10 (B) Assistance to a land bank fast track authority in clearing
+11 or quieting title to, or selling or otherwise conveying, property
+12 owned by or under the control of a land bank fast track authority
+13 or the acquisition of property by the land bank fast track
+14 authority if the acquisition of the property is for economic
+15 development purposes.
+16 (C) Assistance to a municipality or authority in clearing or
+17 quieting title to, or selling or otherwise conveying, property
+18 owned by or under the control of a municipality or authority or the
+19 acquisition of property by a qualified local governmental unit or
+20 authority if the acquisition of the property is for economic
+21 development purposes.
+22 (v) For eligible activities on eligible property that is
+23 included in a transformational brownfield plan, any demolition,
+24 construction, restoration, alteration, renovation, or improvement
+25 of buildings or site improvements on eligible property, including
+26 infrastructure improvements that directly benefit eligible
+27 property.
+28 (vi) For eligible activities on eligible property that is a
+29 qualified facility that is not located in a qualified local
+ERE S07727'26 (S-1) cye7s4
+
+9
+1 governmental unit and that is a facility, functionally obsolete, or
+2 blighted, the following additional activities:
+3 (A) The activities described in subparagraph (i).
+4 (B) Infrastructure improvements that directly benefit eligible
+5 property.
+6 (C) Site preparation that is not a response activity.
+7 (p) "Eligible property" means either of the following:
+8 (i) Except as otherwise provided in sub-subparagraph (G),
+9 property for which eligible activities are identified under a
+10 brownfield plan that was used or is currently used for commercial,
+11 industrial, public, or residential purposes, including personal
+12 property located on the property, or former dumps, landfills, and
+13 other areas filled with nonnative material, to the extent included
+14 in the brownfield plan, and that meets 1 or more of the following
+15 conditions listed in sub-subparagraphs (A) to (F):
+16 (A) Is in a qualified local governmental unit and is a
+17 facility or a site or property as those terms are defined in part
+18 213, historic resource, functionally obsolete, or blighted and
+19 includes parcels that are adjacent or contiguous to that property
+20 if the development of the adjacent and contiguous parcels is
+21 estimated to increase the captured taxable value of that property.
+22 (B) Is not in a qualified local governmental unit and is a
+23 facility, historic resource, functionally obsolete, blighted, or a
+24 site or property as those terms are defined in part 213, and
+25 includes parcels that are adjacent or contiguous to that property
+26 if the development of the adjacent and contiguous parcels is
+27 estimated to increase the captured taxable value of that property.
+28 (C) Is tax reverted property owned by or under the control of
+29 a land bank fast track authority.
+ERE S07727'26 (S-1) cye7s4
+
+10
+1 (D) Is a transit-oriented development or transit-oriented
+2 property.
+3 (E) Is located in a qualified local governmental unit and
+4 contains a targeted redevelopment area.
+5 (F) Is undeveloped property that was eligible property in a
+6 previously approved brownfield plan abolished under section 14(8).
+7 (G) Eligible property does not include qualified agricultural
+8 property exempt under section 7ee of the general property tax act,
+9 1893 PA 206, MCL 211.7ee, from the tax levied by a local school
+10 district for school operating purposes to the extent provided under
+11 section 1211 of the revised school code, 1976 PA 451, MCL 380.1211.
+12 (ii) Housing property for which eligible activities are
+13 identified under a brownfield plan implemented under section 13
+14 only, including personal property located on the property, to the
+15 extent included in the brownfield plan. Eligible property under
+16 this subparagraph does not include housing property for which
+17 eligible activities are identified under a transformational
+18 brownfield plan implemented under section 13c. This subparagraph
+19 does not prevent housing property for which eligible activities are
+20 identified under a transformational brownfield plan implemented
+21 under section 13c from qualifying as eligible property under
+22 subparagraph (i) if the requirements under subparagraph (i) are met.
+23 (q) "Environmental insurance" means liability insurance for
+24 environmental contamination and cleanup that is not otherwise
+25 required by state or federal law.
+26 (r) "Facility" means that term as defined in part 201.
+27 (s) "Fiscal year" means the fiscal year of the authority.
+28 (t) "Former mill" means a former mill that has not been used
+29 for industrial purposes for the immediately preceding 2 years, that
+ERE S07727'26 (S-1) cye7s4
+
+11
+1 is not located in a qualified local governmental unit, that is a
+2 facility or is a site or a property as those terms are defined in
+3 part 213, functionally obsolete, or blighted, and that is located
+4 within 15 miles of a river that is a federal superfund site listed
+5 under the comprehensive environmental response, compensation and
+6 liability act of 1980, 42 USC 9601 to 9675, and that is located in
+7 a municipality with a population of less than 10,000.
+8 (u) "Functionally obsolete" means that the property is unable
+9 to be used to adequately perform the function for which it was
+10 intended due to a substantial loss in value resulting from factors
+11 such as overcapacity, changes in technology, deficiencies or
+12 superadequacies in design, or other similar factors that affect the
+13 property itself or the property's relationship with other
+14 surrounding property.
+15 (v) "Governing body" means the elected body having legislative
+16 powers of a municipality creating an authority under this act.
+17 (w) "Historic resource" means that term as defined in section
+18 90a of the Michigan strategic fund act, 1984 PA 270, MCL 125.2090a.
+19 (x) "Housing development activities" means 1 or more of the
+20 following:
+21 (i) Reimbursement provided to owners of rental housing units
+22 for qualified rehabilitation.
+23 (ii) Costs for infrastructure available for public use and
+24 safety improvements necessary for a housing project.
+25 (iii) Costs of demolition and renovation of existing buildings
+26 and site preparation, to the extent necessary to accommodate an
+27 income qualified purchaser household or income qualified renting
+28 household.
+29 (iv) Temporary household relocation costs for an income
+ERE S07727'26 (S-1) cye7s4
+
+12
+1 qualified household for a period not to exceed 1 year.
+2 (v) Acquisition cost for blighted or obsolete rental units, to
+3 the extent the acquisition would promote rehabilitation or adaptive
+4 reuse of the blighted or obsolete rental unit to accommodate an
+5 income qualified purchaser household or income qualified renting
+6 household.
+7 (vi) Reimbursement provided to a developer to fill a financing
+8 gap associated with the development of housing units priced for
+9 income qualified households and to assist with costs related to
+10 infrastructure improvements and site preparation that are not a
+11 response activity and that are necessary for new housing
+12 development for income qualified households on eligible property.
+13 (y) "Housing property" means 1 or more of the following:
+14 (i) A property on which 1 or more units of residential housing
+15 are proposed to be constructed, rehabilitated, or otherwise
+16 designed to be used as a dwelling.
+17 (ii) One or more units of residential housing proposed to be
+18 constructed or rehabilitated and located in a mixed-use project.
+19 (z) "Income qualified household" means a person, a family, or
+20 unrelated persons living together, whose annual household income is
+21 not more than 120% of the area median income. As used in this
+22 subdivision:
+23 (i) "Area median income" means the median income for the area
+24 as determined under section 8 of the United States housing act of
+25 1937, 42 USC 1437f, adjusted for family size.
+26 (ii) "Household income" means all income received by all
+27 individuals who are not less than 24 years of age when the
+28 household income is determined and who reside in a household while
+29 members of the household.
+ERE S07727'26 (S-1) cye7s4
+
+13
+1 (aa) "Income qualified purchaser household" means a purchaser
+2 who is, or who is a member of, an income qualified household.
+3 (bb) "Income qualified renting household" means a renter who
+4 is, or who is a member of, an income qualified household.
+5 (cc) "Income tax" means the tax levied and imposed under part
+6 1 of the income tax act of 1967, 1967 PA 281, MCL 206.1 to 206.532.
+7 (dd) "Income tax capture revenues" means, with respect to each
+8 eligible property subject to a transformational brownfield plan,
+9 funds equal to the amount for each tax year by which the aggregate
+10 income tax from individuals residing within the eligible property
+11 subject to a transformational brownfield plan exceeds the initial
+12 income tax value. Subject to subparagraph (iii), the state treasurer
+13 shall calculate annually the income tax capture revenues associated
+14 with each transformational brownfield plan. In calculating income
+15 tax capture revenues, the state treasurer shall subtract from the
+16 aggregate amount of income tax credits under sections 255, 265,
+17 266, 266a, and chapter 9 of the income tax act of 1967, 1967 PA
+18 281, MCL 206.255, 206.265, 206.266, 206.266a, and 206.501 to
+19 206.532. The state treasurer shall require the owner or developer
+20 of the eligible property to provide to the department of treasury
+21 all of the following information at the end of each calendar year,
+22 including the year in which the resolution adding that eligible
+23 property in the transformational brownfield plan is adopted:
+24 (i) A list of addresses for all residential units, rental or
+25 owner-occupied, within the eligible property.
+26 (ii) Any other information that may be necessary to calculate
+27 the income tax capture revenues. The information required under
+28 this subdivision must be provided in a manner prescribed by the
+29 state treasurer.
+ERE S07727'26 (S-1) cye7s4
+
+14
+1 (iii) Notwithstanding anything to the contrary in this
+2 subdivision, instead of the reporting and calculation methods
+3 otherwise provided for, the owner or developer of a
+4 transformational brownfield project site may elect to utilize a
+5 safe harbor method of calculating income tax capture revenues.
+6 Under this safe harbor method, the Michigan strategic fund shall
+7 establish a safe harbor amount of annual income tax capture
+8 revenues for each eligible property when the Michigan strategic
+9 fund approves the transformational brownfield plan, and those
+10 amounts shall serve as the basis for the transmittal of income tax
+11 capture revenues to the owner or developer of the transformational
+12 project site under section 8a(4). The Michigan strategic fund shall
+13 establish the safe harbor amount for an eligible property by
+14 imputing a standard annual taxable income for households residing
+15 within the eligible property or portion of the eligible property.
+16 The safe harbor is effective only to the extent that the
+17 residential units within the eligible property or portion of the
+18 eligible property are actively leased or, in the case of units made
+19 available for sale, sold in an arms-length transaction. Imputations
+20 as to standard household taxable income may vary based on location
+21 and other relevant factors. The Michigan strategic fund may adjust
+22 the safe harbor amount for an eligible property, or portion of the
+23 eligible property, after the time of transformational brownfield
+24 plan approval as required to reflect changes in the
+25 transformational brownfield plan for the transformational project
+26 site that may occur after approval of the transformational
+27 brownfield plan, if those changes do not result in an aggregate
+28 increase in the level of income tax capture revenues from the
+29 amount initially established. Except as otherwise provided in this
+ERE S07727'26 (S-1) cye7s4
+
+15
+1 subparagraph, the owner or developer of the transformational
+2 project site may elect to utilize the safe harbor method of
+3 accounting at any time before the first reimbursement of income tax
+4 capture revenues under the transformational brownfield plan. For
+5 any new project approved by the Michigan strategic fund board after
+6 December 31, 2026, the owner or developer of the transformational
+7 project site must elect to utilize the safe harbor method of
+8 accounting before approval of the project by the Michigan strategic
+9 fund board. An election to utilize the safe harbor method of
+10 accounting, once made, cannot be rescinded. As used in this
+11 subdivision, "Michigan strategic fund board" means the board of
+12 directors of the Michigan strategic fund under section 5 of the
+13 Michigan strategic fund act, 1984 PA 270, MCL 125.2005.
+14 (ee) "Industrial cleaning" means cleaning or removal of
+15 contaminants from within a structure necessary to achieve the
+16 intended use of the property.
+17 (ff) "Infrastructure improvements" means a street, road,
+18 sidewalk, parking facility, pedestrian mall, alley, bridge, sewer,
+19 sewage treatment plant, property designed to reduce, eliminate, or
+20 prevent the spread of identified soil or groundwater contamination,
+21 drainage system, waterway, waterline, water storage facility, rail
+22 line, utility line or pipeline, transit-oriented development,
+23 transit-oriented property, or other similar or related structure or
+24 improvement, together with necessary easements for the structure or
+25 improvement, owned or used by a public agency or functionally
+26 connected to similar or supporting property owned or used by a
+27 public agency, or designed and dedicated to use by, for the benefit
+28 of, or for the protection of the health, welfare, or safety of the
+29 public generally, whether or not used by a single business entity,
+ERE S07727'26 (S-1) cye7s4
+
+16
+1 if any road, street, or bridge is continuously open to public
+2 access and other property is located in public easements or rights-
+3 of-way and sized to accommodate reasonably foreseeable development
+4 of eligible property in adjoining areas. Infrastructure
+5 improvements also include 1 or more of the following whether
+6 publicly or privately owned or operated or located on public or
+7 private property:
+8 (i) Underground parking.
+9 (ii) Multilevel parking structures.
+10 (iii) Urban stormwater management systems.
+11 (gg) "Initial income tax value" means, with respect to each
+12 eligible property subject to a transformational brownfield plan,
+13 the aggregate amount of income tax less credits under sections 255,
+14 265, 266, 266a, and chapter 9 of the income tax act of 1967, 1967
+15 PA 281, MCL 206.255, 206.265, 206.266, 206.266a, and 206.501 to
+16 206.532, from individuals residing within the eligible property for
+17 the base year specified in the resolution that adds the eligible
+18 property in the transformational brownfield plan.
+19 (hh) "Initial sales and use tax value" means, with respect to
+20 each eligible property subject to a transformational brownfield
+21 plan, the aggregate amount of sales tax and use tax collected from
+22 persons located within the eligible property for the base year
+23 specified in the resolution that adds the eligible property in the
+24 transformational brownfield plan. For persons with multiple
+25 business locations, the applicable amount of sales tax and use tax
+26 for purposes of this act is only the sales tax and use tax
+27 collections attributable to the business location within the
+28 eligible property.
+29 (ii) "Initial taxable value" means the taxable value of an
+ERE S07727'26 (S-1) cye7s4
+
+17
+1 eligible property identified in and subject to a brownfield plan at
+2 the time the resolution adding that eligible property in the
+3 brownfield plan is adopted, as shown either by the most recent
+4 assessment roll for which equalization has been completed at the
+5 time the resolution is adopted or, if provided by the brownfield
+6 plan, by the next assessment roll for which equalization will be
+7 completed following the date the resolution adding that eligible
+8 property in the brownfield plan is adopted. Property exempt from
+9 taxation at the time the initial taxable value is determined is
+10 included with the initial taxable value of zero. Property for which
+11 a specific tax is paid in lieu of property tax is not considered
+12 exempt from taxation. The state tax commission shall prescribe the
+13 method for calculating the initial taxable value of property for
+14 which a specific tax was paid in lieu of property tax. The initial
+15 assessed value may be modified by lowering the initial assessed
+16 value once during the term of the brownfield plan through an
+17 amendment as provided in section 14 after the tax increment
+18 financing plan fails to generate captured taxes for 3 consecutive
+19 years due to declines in assessed value.
+20 (jj) "Initial withholding tax value" means, with respect to
+21 each eligible property subject to a transformational brownfield
+22 plan, the amount of income tax withheld under chapter 17 of the
+23 income tax act of 1967, 1967 PA 281, MCL 206.701 to 206.718, from
+24 individuals employed within the eligible property for the base year
+25 specified in the resolution that adds the eligible property to the
+26 plan. The initial withholding tax value does not include
+27 construction period tax capture revenues.
+28 (kk) "Land bank fast track authority" means an authority
+29 created under the land bank fast track act, 2003 PA 258, MCL
+ERE S07727'26 (S-1) cye7s4
+
+18
+1 124.751 to 124.774.
+2 (ll) "Local taxes" means all taxes levied other than taxes
+3 levied for school operating purposes.
+4 (mm) "Michigan state housing development authority" means the
+5 Michigan state housing development authority created in section 21
+6 of the state housing development authority act of 1966, 1966 PA
+7 346, MCL 125.1421.
+8 (nn) "Michigan strategic fund" means the Michigan strategic
+9 fund created under the Michigan strategic fund act, 1984 PA 270,
+10 MCL 125.2001 to 125.2094.
+11 (oo) "Mixed-use" means a real estate project with planned
+12 integration of some combination of retail, office, residential, or
+13 hotel uses.
+14 (pp) "Municipality" means all of the following:
+15 (i) A city.
+16 (ii) A village.
+17 (iii) A township in those areas of the township that are outside
+18 of a village.
+19 (iv) A township in those areas of the township that are in a
+20 village on the concurrence by resolution of the village in which
+21 the zone would be located.
+22 (v) A county.
+23 (qq) "Owned by or under the control of" means that a land bank
+24 fast track authority, a municipality, or a qualified local
+25 governmental unit has 1 or more of the following:
+26 (i) An ownership interest in the property.
+27 (ii) A tax lien on the property.
+28 (iii) A tax deed to the property.
+29 (iv) A contract with this state or a political subdivision of
+ERE S07727'26 (S-1) cye7s4
+
+19
+1 this state to enforce a lien on the property.
+2 (v) A right to collect delinquent taxes, penalties, or
+3 interest on the property.
+4 (vi) The ability to exercise its authority over the property.
+5 (rr) "Part 111", "part 201", "part 211", or "part 213" means
+6 that part as described as follows:
+7 (i) Part 111 of the natural resources and environmental
+8 protection act, 1994 PA 451, MCL 324.11101 to 324.11153.
+9 (ii) Part 201 of the natural resources and environmental
+10 protection act, 1994 PA 451, MCL 324.20101 to 324.20142.
+11 (iii) Part 211 of the natural resources and environmental
+12 protection act, 1994 PA 451, MCL 324.21101 to 324.21113.
+13 (iv) Part 213 of the natural resources and environmental
+14 protection act, 1994 PA 451, MCL 324.21301a to 324.21334.
+15 (ss) "Previously developed property" means property that was
+16 part of an existing developed residential, commercial, or
+17 industrial zone and contained a structure serviced by utilities, or
+18 former dumps, landfills, and other areas filled with nonnative
+19 material.
+20 (tt) "Qualified facility" means a landfill facility area of 15
+21 or more contiguous acres that is located in a city and that
+22 contains, contained, or is adjacent to a landfill, a material
+23 recycling facility, or an asphalt plant that is no longer in
+24 operation.
+25 (uu) "Qualified local governmental unit" means that term as
+26 defined in the obsolete property rehabilitation act, 2000 PA 146,
+27 MCL 125.2781 to 125.2797.
+28 (vv) "Qualified rehabilitation" means rehabilitation of
+29 existing structures that is necessary to make a housing unit
+ERE S07727'26 (S-1) cye7s4
+
+20
+1 suitable for sale to an income qualified purchaser household or
+2 rent to an income qualified renting household. Qualified
+3 rehabilitation also includes proposed rehabilitation that will
+4 bring the structure into conformance with minimum local building
+5 code standards for occupancy or improve the livability of the units
+6 while meeting minimum local building code standards. As used in
+7 this subsection, "existing structures" includes any structure
+8 designed to be used as a dwelling.
+9 (ww) "Qualified taxpayer" means that term as defined in
+10 sections 38d and 38g of former 1975 PA 228, or section 437 of the
+11 Michigan business tax act, 2007 PA 36, MCL 208.1437, or a recipient
+12 of a community revitalization incentive as described in section 90a
+13 of the Michigan strategic fund act, 1984 PA 270, MCL 125.2090a.
+14 (xx) "Release" means that term as defined in part 201 or part
+15 213.
+16 (yy) "Response activity" means either of the following:
+17 (i) Response activity as that term is defined in part 201.
+18 (ii) Corrective action.
+19 (zz) "Sales tax" means the tax levied under the general sales
+20 tax act, 1933 PA 167, MCL 205.51 to 205.78.
+21 (aaa) "Sales and use tax capture revenues" means, with respect
+22 to each eligible property subject to a transformational brownfield
+23 plan, the amount for each calendar year by which the sales tax and
+24 use tax collected from persons within the eligible property exceeds
+25 the initial sales and use tax value. For persons with multiple
+26 business locations, the applicable amount of sales tax and use tax
+27 for purposes of this act is only the sales tax and use tax
+28 collections attributable to the business location within the
+29 eligible property. To calculate sales and use tax capture revenues
+ERE S07727'26 (S-1) cye7s4
+
+21
+1 for a calendar year under a transformational brownfield plan, the
+2 state treasurer or the Michigan strategic fund shall do all of the
+3 following:
+4 (i) The state treasurer shall develop methods and processes
+5 that are necessary for each applicable person within the eligible
+6 property to report the amount of sales and use tax from that
+7 location.
+8 (ii) The Michigan strategic fund shall include all of the
+9 following provisions in the development or reimbursement agreement
+10 for any transformational brownfield plan that utilizes sales and
+11 use tax capture revenues:
+12 (A) That the owner or developer of the eligible property shall
+13 require each applicable person occupying the eligible property to
+14 comply with the reporting requirements under this section through a
+15 contract requirement, lease requirement, or other similar means.
+16 (B) That reimbursement of sales and use tax capture revenues
+17 is limited to amounts that are reported in accordance with this
+18 section, and this state has no obligation with respect to sales and
+19 use tax capture revenues that are not reported or paid.
+20 (bbb) "Specific taxes" means all of the following:
+21 (i) A tax levied under any of the following:
+22 (A) 1974 PA 198, MCL 207.551 to 207.572.
+23 (B) The commercial redevelopment act, 1978 PA 255, MCL 207.651
+24 to 207.668.
+25 (C) The enterprise zone act, 1985 PA 224, MCL 125.2101 to
+26 125.2123.
+27 (D) 1953 PA 189, MCL 211.181 to 211.182.
+28 (E) The technology park development act, 1984 PA 385, MCL
+29 207.701 to 207.718.
+ERE S07727'26 (S-1) cye7s4
+
+22
+1 (F) The obsolete property rehabilitation act, 2000 PA 146, MCL
+2 125.2781 to 125.2797.
+3 (G) The neighborhood enterprise zone act, 1992 PA 147, MCL
+4 207.771 to 207.786.
+5 (H) The commercial rehabilitation act, 2005 PA 210, MCL
+6 207.841 to 207.856.
+7 (I) The attainable housing facilities act, 2022 PA 236, MCL
+8 207.901 to 207.916.
+9 (J) The residential housing facilities act, 2022 PA 237, MCL
+10 207.951 to 207.966.
+11 (ii) That portion of the tax levied under the tax reverted
+12 clean title act, 2003 PA 260, MCL 211.1021 to 211.1025a, that is
+13 not required to be distributed to a land bank fast track authority.
+14 (ccc) "State brownfield redevelopment fund" means the state
+15 brownfield redevelopment fund created in section 8a.
+16 (ddd) "Targeted redevelopment area" means not fewer than 40
+17 and not more than 500 contiguous parcels of real property located
+18 in a qualified local governmental unit and designated as a targeted
+19 redevelopment area by resolution of the governing body and approved
+20 by the Michigan strategic fund. A qualified local governmental unit
+21 is limited to designating no more than 2 targeted redevelopment
+22 areas for the purposes of this section in a calendar year. The
+23 Michigan strategic fund may approve no more than 5 targeted
+24 redevelopment areas for the purposes of this section in a calendar
+25 year.
+26 (eee) "Tax increment revenues" means the amount of ad valorem
+27 property taxes and specific taxes attributable to the application
+28 of the levy of all taxing jurisdictions on the captured taxable
+29 value of each parcel of eligible property subject to a brownfield
+ERE S07727'26 (S-1) cye7s4
+
+23
+1 plan and personal property located on that property, regardless of
+2 whether those taxes began to be levied after the brownfield plan
+3 was adopted. Tax increment revenues also include the amount of any
+4 payment in lieu of taxes under section 15a(3) of the state housing
+5 development authority act of 1966, 1966 PA 346, MCL 125.1415a, paid
+6 on an eligible property subject to a brownfield plan, less the
+7 amount of property taxes levied on the eligible property subject to
+8 the brownfield plan for the year the eligible property became
+9 subject to the brownfield plan. Tax increment revenues do not
+10 include any of the following:
+11 (i) Ad valorem property taxes specifically levied for the
+12 payment of principal of and interest on either obligations approved
+13 by the electors or obligations pledging the unlimited taxing power
+14 of the local governmental unit, and specific taxes attributable to
+15 those ad valorem property taxes.
+16 (ii) For tax increment revenues attributable to eligible
+17 property, the amount of ad valorem property taxes or specific taxes
+18 captured by a downtown development authority under part 2 of the
+19 recodified tax increment financing act, 2018 PA 57, MCL 125.4201 to
+20 125.4230, tax increment finance authority under part 3 of the
+21 recodified tax increment financing act, 2018 PA 57, MCL 125.4301 to
+22 125.4329, corridor improvement authority under part 6 of the
+23 recodified tax increment financing act, 2018 PA 57, MCL 125.4602 to
+24 125.4629, or local development finance authority under part 4 of
+25 the recodified tax increment financing act, 2018 PA 57, MCL
+26 125.4401 to 125.4420, if those taxes were captured by these other
+27 authorities on the date that eligible property became subject to a
+28 brownfield plan under this act, unless these other authorities
+29 agree to forgo or transfer their taxes in support of the brownfield
+ERE S07727'26 (S-1) cye7s4
+
+24
+1 plan.
+2 (iii) Ad valorem property taxes levied under 1 or more of the
+3 following or specific taxes attributable to those ad valorem
+4 property taxes:
+5 (A) The zoological authorities act, 2008 PA 49, MCL 123.1161
+6 to 123.1183.
+7 (B) The art institute authorities act, 2010 PA 296, MCL
+8 123.1201 to 123.1229.
+9 (C) The history museum authorities act.
+10 (fff) "Taxable value" means the value determined under section
+11 27a of the general property tax act, 1893 PA 206, MCL 211.27a.
+12 (ggg) "Taxes levied for school operating purposes" means all
+13 of the following:
+14 (i) The taxes levied by a local school district for operating
+15 purposes.
+16 (ii) The taxes levied under the state education tax act, 1993
+17 PA 331, MCL 211.901 to 211.906.
+18 (iii) That portion of specific taxes attributable to taxes
+19 described under subparagraphs (i) and (ii).
+20 (hhh) "Transformational brownfield plan" means a brownfield
+21 plan that meets the requirements of section 13c and is adopted
+22 under section 14a and, as designated by resolution of the governing
+23 body and approved by the Michigan strategic fund, will have a
+24 transformational impact on local economic development and community
+25 revitalization based on the extent of brownfield redevelopment and
+26 growth in population, commercial activity, and employment that will
+27 result from the plan. To be designated a transformational
+28 brownfield plan, a transformational brownfield plan under this
+29 subdivision must be for mixed-use development unless waived by the
+ERE S07727'26 (S-1) cye7s4
+
+25
+1 Michigan strategic fund as provided under section 14a(26) and must
+2 be expected to result in the following levels of capital
+3 investment:
+4 (i) In a municipality that is not a county and that has a
+5 population of not less than 600,000, $500,000,000.00.
+6 (ii) In a municipality that is not a county and that has a
+7 population of not less than 150,000 and not more than 599,999,
+8 $100,000,000.00.
+9 (iii) In a municipality that is not a county and that has a
+10 population of not less than 100,000 and not more than 149,999,
+11 $75,000,000.00.
+12 (iv) In a municipality that is not a county and that has a
+13 population of not less than 50,000 and not more than 99,999,
+14 $50,000,000.00.
+15 (v) In a municipality that is not a county and that has a
+16 population of not less than 25,000 and not more than 49,999,
+17 $25,000,000.00.
+18 (vi) In a municipality that is not a county and that has a
+19 population of less than 25,000, $15,000,000.00.
+20 (iii) "Transit-oriented development" means infrastructure
+21 improvements that are located within 1/2 mile of a transit station
+22 or transit-oriented property that promotes transit ridership or
+23 passenger rail use as determined by the board and approved by the
+24 municipality in which it is located.
+25 (jjj) "Transit-oriented property" means property that houses a
+26 transit station in a manner that promotes transit ridership or
+27 passenger rail use.
+28 (kkk) "Use tax" means the tax levied under the use tax act,
+29 1937 PA 94, MCL 205.91 to 205.111, including both the local
+ERE S07727'26 (S-1) cye7s4
+
+26
+1 community stabilization share and the state share as those terms
+2 are defined in section 2c of the use tax act, 1937 PA 94, MCL
+3 205.92c.
+4 (lll) "Withholding-disqualified employee" means an employee,
+5 other than a retail employee or hospitality employee, who meets
+6 both of the following conditions:
+7 (i) Is employed by an employer that employs more than 50
+8 employees in this state or that is receiving an economic incentive
+9 from the Michigan strategic fund.
+10 (ii) Is employed in a position that is not a new job. As used
+11 in this subdivision:
+12 (A) "Hospitality employee" means an individual employed at a
+13 hospitality establishment in a position that is responsible for
+14 ensuring a positive guest experience.
+15 (B) "Hospitality establishment" means a place of business that
+16 provides 1 or more of the following services to guests:
+17 (I) Accommodation services, including, but not limited to,
+18 hotels, motels, resorts, and bed and breakfast establishments.
+19 (II) Food and beverage services, including, but not limited
+20 to, restaurants, cafes, bars, catering services, and nightclubs.
+21 (C) "New job" means a job created by the employer within the
+22 eligible property that is in addition to the jobs the employer
+23 maintained in this state before the employer commenced occupancy
+24 within the eligible property. New job does not include either of
+25 the following:
+26 (I) A position relocated from another location in this state
+27 to within the eligible property.
+28 (II) A position at another location in this state that was
+29 terminated or eliminated and rehired within the eligible property.
+ERE S07727'26 (S-1) cye7s4
+
+27
+1 (D) "Retail employee" means an individual employed at a retail
+2 establishment.
+3 (E) "Retail establishment" means a place of business open to
+4 the general public for the sale of goods or services to the final
+5 consumer.
+6 (mmm) "Withholding-disqualified entity" means an entity that
+7 relocates its facility from another location in this state to
+8 within the eligible property and that does not do 1 of the
+9 following:
+10 (i) Expand the size of its relocated facility.
+11 (ii) Employ more individuals after the relocation than it did
+12 before the relocation.
+13 (iii) Have another valid business reason for the relocation as
+14 documented by a third-party analysis.
+15 (nnn) "Withholding tax capture revenues" means, with respect
+16 to each eligible property subject to a transformational brownfield
+17 plan, the amount for each calendar year by which the income tax
+18 withheld under chapter 17 of the income tax act of 1967, 1967 PA
+19 281, MCL 206.701 to 206.718, from individuals employed within the
+20 eligible property exceeds the initial withholding tax value.
+21 Withholding tax capture revenues do not include income tax from
+22 individuals domiciled within the eligible property or construction
+23 period tax capture revenues. For transformational brownfield plans
+24 approved after the effective date of the amendatory act that added
+25 section 16a, July 22, 2026, withholding tax capture revenues do not
+26 include income tax withholdings attributable to withholding-
+27 disqualified employees or employees of a withholding-disqualified
+28 entity. To calculate withholding tax capture revenues for a
+29 calendar year under a transformational brownfield plan, the state
+ERE S07727'26 (S-1) cye7s4
+
+28
+1 treasurer or the Michigan strategic fund shall do all of the
+2 following:
+3 (i) The state treasurer shall require the owner or developer of
+4 the eligible property to provide the department of treasury with
+5 notice not more than 10 days from the date an employer commences or
+6 terminates occupancy within the eligible property. As used in this
+7 subdivision, "employer" means that term as defined in section 8 of
+8 the income tax act of 1967, 1967 PA 281, MCL 206.8.
+9 (ii) The state treasurer shall develop methods and processes
+10 that are necessary for each employer occupying the eligible
+11 property to report both of the following:
+12 (A) The amount of withholding under chapter 17 of the income
+13 tax act of 1967, 1967 PA 281, MCL 206.701 to 206.718, from
+14 individuals employed within the eligible property.
+15 (B) For transformational brownfield plans approved after the
+16 effective date of the amendatory act that added section 16a, July
+17 22, 2026, the information necessary to determine whether
+18 individuals employed within the eligible property are withholding-
+19 disqualified employees or employees of a withholding-disqualified
+20 entity. The methods and processes developed for an employer to
+21 report the information under this sub-subparagraph may require an
+22 employer to annually certify that employees within the eligible
+23 property are not withholding-disqualified employees and that the
+24 employer is not a withholding-disqualified entity.
+25 (iii) The Michigan strategic fund shall include the following
+26 provisions in the development or reimbursement agreement for any
+27 transformational brownfield plan that utilizes withholding tax
+28 capture revenues:
+29 (A) That the owner or developer of the eligible property shall
+ERE S07727'26 (S-1) cye7s4
+
+29
+1 require each employer occupying the eligible property to comply
+2 with the reporting requirements under this section through a
+3 contract requirement, lease requirement, or other similar means.
+4 (B) That reimbursement of withholding tax capture revenues is
+5 limited to amounts that are reported in accordance with chapter 17
+6 of the income tax act of 1967, 1967 PA 281, MCL 206.701 to 206.718,
+7 and this state has no obligation with respect to withholding tax
+8 capture revenues that are not reported or paid.
+9 (iv) Except as otherwise provided in this subparagraph and
+10 notwithstanding anything to the contrary in this subdivision,
+11 instead of the reporting and calculation methods otherwise provided
+12 for, the owner or developer of a transformational project site may
+13 elect to utilize a safe harbor method of calculating withholding
+14 tax capture revenues. Use of the safe harbor method does not
+15 eliminate a reporting requirement described in subparagraph (ii)(B)
+16 or section 14a(7)(b). Under the safe harbor method, the Michigan
+17 strategic fund shall establish a safe harbor amount of annual
+18 withholding tax capture revenues for each eligible property when
+19 the Michigan strategic fund approves the transformational
+20 brownfield plan, and, except as otherwise provided in this
+21 subparagraph, those amounts shall serve as the basis for the
+22 transmittal of withholding tax capture revenues to the owner or
+23 developer of the transformational project site under section 8a(4).
+24 The Michigan strategic fund shall establish the safe harbor amount
+25 for an eligible property by imputing a standard level of employee
+26 occupancy that corresponds to the size and use of the eligible
+27 property or portion of the eligible property and a safe harbor
+28 average annual taxable wage for the individuals employed within the
+29 eligible property or portion of the eligible property. The safe
+ERE S07727'26 (S-1) cye7s4
+
+30
+1 harbor is effective only to the extent the eligible property or
+2 portion of the eligible property is actively occupied, as evidenced
+3 by the existence of a binding lease agreement or similar
+4 instrument. Imputations as to occupancy and wages may vary between
+5 projects based on location, the type and use of the eligible
+6 property, and other relevant factors. The Michigan strategic fund
+7 may adjust the safe harbor amount for an eligible property, or
+8 portion of the eligible property, after the time of plan approval
+9 as required to reflect changes in the transformational brownfield
+10 plan for the transformational project site that may occur after
+11 approval of the transformational brownfield plan, if those changes
+12 do not result in an aggregate increase in the level of withholding
+13 tax capture revenues from the amount initially established. The
+14 Michigan strategic fund may adjust the safe harbor amount for an
+15 eligible property, or portion of the eligible property, after the
+16 time of plan approval as required to account for withholding-
+17 disqualified employees, if the number of withholding-disqualified
+18 employees exceeds the amount estimated in the initial safe harbor
+19 calculation. Except as otherwise provided in this subparagraph, the
+20 owner or developer of the transformational project site may elect
+21 to utilize the safe harbor method of accounting at any time before
+22 the first reimbursement of withholding tax capture revenues under
+23 the plan. For any new project approved by the Michigan strategic
+24 fund board after December 31, 2026, the owner or developer of the
+25 transformational project site must elect to utilize the safe harbor
+26 method of accounting before approval of the project by the Michigan
+27 strategic fund board. An election to utilize the safe harbor method
+28 of accounting, once made, cannot be rescinded for projects approved
+29 on or before December 31, 2026, without approval by the Michigan
+ERE S07727'26 (S-1) cye7s4
+
+31
+1 strategic fund. As used in this subdivision, "Michigan strategic
+2 fund board" means the board of directors of the Michigan strategic
+3 fund under section 5 of the Michigan strategic fund act, 1984 PA
+4 270, MCL 125.2005.
+5 (ooo) "Work plan" means a plan that describes each individual
+6 activity to be conducted to complete eligible activities and the
+7 associated costs of each individual activity.
+8 (ppp) "Zone" means, for an authority established before June
+9 6, 2000, a brownfield redevelopment zone designated under this act.
+10 Enacting section 1. This amendatory act does not take effect
+11 unless all of the following bills of the 103rd Legislature are
+12 enacted into law:
+13 (a) Senate Bill No. 1139.
+14 (b) Senate Bill No. 1141.
+Final Page
+ERE S07727'26 (S-1) cye7s4

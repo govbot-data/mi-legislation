@@ -306,6 +306,18 @@
       "_processing": {
         "log_file_created": "2026-09-11T10:14:13Z"
       }
+    },
+    {
+      "description": "presented to the Governor 09/14/2026 01:20 PM",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T11:00:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -467,7 +479,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T10:14:13Z",
+    "logs_latest_update": "2026-09-15T11:00:40Z",
     "text_extraction_latest_update": "2026-09-11T10:16:14.149194Z"
   }
 }

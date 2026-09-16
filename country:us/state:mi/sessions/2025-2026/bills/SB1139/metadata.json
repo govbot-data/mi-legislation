@@ -134,7 +134,7 @@
       }
     },
     {
-      "description": "PLACED ON IMMEDIATE PASSAGE",
+      "description": "PLACED ON ORDER OF THIRD READING",
       "date": "2026-09-10",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -144,7 +144,7 @@
       }
     },
     {
-      "description": "PLACED ON ORDER OF THIRD READING",
+      "description": "PLACED ON IMMEDIATE PASSAGE",
       "date": "2026-09-10",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -185,6 +185,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-11T10:14:13Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:42:35Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Government Operations",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:42:35Z"
       }
     }
   ],
@@ -319,7 +343,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-13T10:23:54Z",
+    "logs_latest_update": "2026-09-16T10:42:35Z",
     "text_extraction_latest_update": "2026-09-13T10:25:18.366715Z"
   }
 }

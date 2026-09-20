@@ -298,6 +298,16 @@
       }
     },
     {
+      "description": "full title agreed to",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T10:34:09Z"
+      }
+    },
+    {
       "description": "bill ordered enrolled 09/09/2026",
       "date": "2026-09-15",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -309,14 +319,14 @@
     },
     {
       "description": "presented to the Governor 09/14/2026 01:22 PM",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "executive-receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T11:00:40Z"
+        "log_file_created": "2026-09-20T10:34:09Z"
       }
     }
   ],
@@ -479,7 +489,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T11:00:40Z",
+    "logs_latest_update": "2026-09-20T10:34:09Z",
     "text_extraction_latest_update": "2026-09-15T11:02:33.119982Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "approved by the Governor 09/21/2026 09:52 AM",
+    "occurred_at": "2026-09-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 6130"
+}

@@ -328,6 +328,38 @@
       "_processing": {
         "log_file_created": "2026-09-16T10:42:35Z"
       }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 9/21/2026 9:34 AM",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:30:41Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 9/21/2026 11:28 AM",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:30:41Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0101'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:30:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -481,6 +513,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 101 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 600.3208",
       "citation_type": "proposed",
@@ -511,7 +551,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:42:35Z",
+    "logs_latest_update": "2026-09-22T10:30:41Z",
     "text_extraction_latest_update": "2026-09-16T10:43:54.291449Z"
   }
 }

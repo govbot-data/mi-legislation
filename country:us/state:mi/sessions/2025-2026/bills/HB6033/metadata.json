@@ -85,6 +85,92 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "substitute (H-1) adopted",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "substitute (H-4) adopted",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "placed on immediate passage",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #365 Yeas 95 Nays 8 Excused 0 Not Voting 7",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,6 +197,28 @@
       "classification": ""
     },
     {
+      "note": "Substitute (H-1) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-6033-0O338.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-4)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-6033-0O339.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -124,6 +232,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2026-HEBH-6033.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2026-HEBH-6033.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -132,6 +255,17 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-5120-18VB0NR9.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary as Reported from Committee  (9/22/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-5120-9X18BWYP.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +297,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-09-23T10:35:21Z",
     "text_extraction_latest_update": "2026-07-21T21:46:00.515948Z"
   }
 }

@@ -89,12 +89,12 @@
     },
     {
       "description": "PLACED ON ORDER OF THIRD READING WITH SUBSTITUTE (S-1)",
-      "date": "2026-07-02",
+      "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:34Z"
+        "log_file_created": "2026-09-23T10:35:21Z"
       }
     },
     {
@@ -153,6 +153,122 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
+      }
+    },
+    {
+      "description": "rule suspended",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "motion to discharge committee approved",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "placed on second reading",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "substitute (H-1) adopted",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "placed on immediate passage",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #366 Yeas 96 Nays 7 Excused 0 Not Voting 7",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "title amended",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "returned to Senate",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
       }
     }
   ],
@@ -283,6 +399,17 @@
       "classification": ""
     },
     {
+      "note": "Substitute (H-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBH-0947-0O3319.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Senate Introduced Bill",
       "links": [
         {
@@ -306,6 +433,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0947.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/pdf/2026-SEBH-0947.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBH-0947.htm",
           "media_type": "text/html"
         }
       ],
@@ -343,6 +485,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 8-17-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-0947-U.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-0947-U.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary as Passed by the Senate (9/22/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-0947-PQX3VRDZ.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -360,7 +528,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-09-23T10:35:21Z",
     "text_extraction_latest_update": "2026-07-22T01:47:18.647466Z"
   }
 }

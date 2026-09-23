@@ -40,6 +40,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:34Z"
       }
+    },
+    {
+      "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 9/22/2026",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE OF THE WHOLE",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +119,14 @@
       "effective": null,
       "expires": null,
       "url": null
+    },
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 324.80112",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
     }
   ],
   "sources": [
@@ -111,7 +143,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-09-23T10:35:21Z",
     "text_extraction_latest_update": "2026-07-21T20:23:32.166597Z"
   }
 }

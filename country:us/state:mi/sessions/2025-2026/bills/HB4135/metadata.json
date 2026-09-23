@@ -264,6 +264,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:39Z"
       }
+    },
+    {
+      "description": "Senate amendment(s) concurred in Roll Call #372 Yeas 101 Nays 2 Excused 0 Not Voting 7",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
+    },
+    {
+      "description": "bill ordered enrolled",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:35:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -317,6 +337,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBS-4135.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/House/pdf/2025-HCB-4135.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/House/htm/2025-HCB-4135.htm",
           "media_type": "text/html"
         }
       ],
@@ -382,7 +417,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:39Z",
+    "logs_latest_update": "2026-09-23T10:35:21Z",
     "text_extraction_latest_update": "2026-07-21T23:37:31.581777Z"
   }
 }

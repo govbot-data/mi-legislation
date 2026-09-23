@@ -1,0 +1,502 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 947
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 31502, 31503, 31504, 31505, 31507, 31508,
+31516, and 31518 (MCL 324.31502, 324.31503, 324.31504, 324.31505,
+324.31507, 324.31508, 324.31516, and 324.31518), as added by 1995
+PA 59, and by adding sections 31509a and 31518a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 31502. (1) "Abandonment" means an affirmative act on the
+2 part of an owner to discontinue maintenance or operation of a
+3 dam."Additional spillway capacity" means modification to an
+4 existing spillway or construction of an auxiliary spillway to
+5 increase flow conveyance capabilities of the dam.
+6 (2) "Administrative procedures act of 1969" means Act No. 306
+RMH S07004'26 (H-1) e3wqkv
+
+2
+1 of the Public Acts of 1969, being sections 24.201 to 24.328 of the
+2 Michigan Compiled Laws.the administrative procedures act of 1969,
+3 1969 PA 306, MCL 24.201 to 24.328.
+4 (3) "Alteration" means a change in the design of an existing
+5 dam that directly affects or may directly affect the structural
+6 integrity of a dam.
+7 (4) "Appurtenant works" means the structure or machinery
+8 incident to or annexed to a dam that is built to operate and
+9 maintain a dam, including spillways, any of the following:
+10 (a) Spillways, either in a dam or separate from the dam. ; low
+11 (b) Low level outlet works. ; and water
+12 (c) Water conduits such as tunnels, pipelines, or penstocks,
+13 located either through the dam or through the abutments of the dam.
+14 (5) "Auxiliary spillway" means a secondary spillway which that
+15 is operational at all times and does not require stoplog removal or
+16 gate manipulation.designed to activate or be operated only during
+17 large flood flow events.
+18 (6) "Dam" means an artificial barrier, including dikes,
+19 embankments, and appurtenant works , that impounds, meets all of
+20 the following requirements:
+21 (a) Impounds, diverts, or is designed to impound or divert
+22 water or a combination of water and any other liquid or material in
+23 the water. ; that is
+24 (b) Is, or will be when complete, 6 feet or more in height. ;
+25 and that has
+26 (c) Has or will have an 1 of the following:
+27 (i) An impounding capacity at design flood elevation of 5
+28 surface acres or more. Dam
+29 (ii) For a high hazard potential or significant hazard
+RMH S07004'26 (H-1) e3wqkv
+
+3
+1 potential dam, an impounding capacity at design flood elevation of
+2 15 acre-feet or more.
+3 (7) Dam does not include a storage or processing tank or
+4 standpipe constructed of steel or concrete, a roadway embankment
+5 not designed to impound water, or a dug pond where there is no
+6 impoundment of water or waste materials containing water at levels
+7 above adjacent natural grade levels.
+8 (8) (7) "Days" means calendar days, including Sundays and
+9 holidays.
+10 (9) (8) "Design flood" means the design flow rate for spillway
+11 capacity and dam height design.
+12 (10) (9) "Design flood elevation" means the maximum flood
+13 elevation that is considered in the design of the spillway capacity
+14 and freeboard for a dam.
+15 (11) (10) "Downstream toe elevation" means the elevation of
+16 the lowest point of intersection between the downstream slope of an
+17 earthen embankment and the natural ground.
+18 Sec. 31503. (1) "Emergency action plan" means a plan developed
+19 by the owner that establishes procedures for notification of the
+20 department, public off-site authorities, and other agencies of the
+21 emergency actions to be taken prior to before, during, and
+22 following after an impending or actual failure of a dam.
+23 (2) "Enlargement" means any change in or addition to an
+24 existing dam which that raises or may raise the design flood
+25 elevation of the water impounded by the dam.
+26 (3) "Failed dam" means a dam not capable of impounding water
+27 at its intended level due to a structural deficiency.
+28 (4) "Failure" means an incident resulting in an unplanned or
+29 uncontrolled release of water from a dam.
+RMH S07004'26 (H-1) e3wqkv
+
+4
+1 (5) "Federal Energy Regulatory Commission" means the federal
+2 agency or a successor federal agency charged with implementing dam
+3 safety and licensing requirements for non-federally owned
+4 hydropower projects under the federal power act, 16 USC 791a to
+5 825r.
+6 (6) (5) "Flood of record" means the greatest flow rate
+7 determined by the department to have occurred at a particular
+8 location.
+9 (7) (6) "Freeboard" means the vertical distance between the
+10 design flood elevation and the lowest point of the top of the dam.
+11 (8) (7) "Half probable maximum flood" means the largest flood
+12 that may reasonably occur over a watershed , and is derived from
+13 the combination of hydrologic runoff parameters and the half
+14 probable maximum storm precipitation that produces the maximum
+15 runoff.
+16 (9) (8) "Half probable maximum storm" precipitation" means the
+17 spatial and temporal distribution of the probable maximum
+18 precipitation, divided by 2, that produces the maximum volume of
+19 precipitation over a watershed.
+20 (10) (9) "Hazard potential classification" means a reference
+21 to the potential for loss of life, property damage, and
+22 environmental damage in the area downstream of a dam in the event
+23 of failure of the dam or appurtenant works.
+24 (11) (10) "Height" means the difference in elevation measured
+25 vertically between the natural bed of a stream or watercourse at
+26 the downstream toe of the dam, or, if it is not across a stream
+27 channel or watercourse, from the lowest elevation of the downstream
+28 toe of the dam, to the design flood elevation or to the lowest
+29 point of the top of the dam, whichever is less.
+RMH S07004'26 (H-1) e3wqkv
+
+5
+1 (12) (11) "High hazard potential dam" means a dam located in
+2 an area where a failure may cause serious damage to inhabited
+3 homes, agricultural buildings, campgrounds, recreational
+4 facilities, industrial or commercial buildings, public utilities ,
+5 main highways, or in areas with a population density greater than
+6 or equal to 5,000 people per square mile, interstate roads, other
+7 freeway roads, other principal arterial roads as defined in the
+8 National Functional Classification (NFC) system, class I carrier
+9 railroads, or where environmental degradation or natural resource
+10 damage would be significant, or where danger to individuals exists
+11 with the potential for loss of life.
+12 Sec. 31504. (1) "Impoundment" means the water held back by a
+13 dam.
+14 (2) "Inflow design flood" means the flood hydrograph entering
+15 the reservoir that is used to design or modify a specific dam and
+16 its appurtenant works, including, but not limited to, sizing the
+17 spillway and outlet works and evaluating the maximum storage,
+18 height of the dam, and freeboard requirements.
+19 (3) (2) "Low hazard potential dam" means a dam located in an
+20 area where failure may cause damage limited to agriculture,
+21 uninhabited buildings, structures, or township or county minor
+22 collector roads, local roads, or nonrated roadways as defined in
+23 the National Functional Classification (NFC) system, where
+24 environmental degradation would be minimal, and where danger to
+25 individuals is slight or nonexistent.
+26 (4) (3) "Maintenance" means the upkeep of a dam and its
+27 impoundment and appurtenant works but does not include alterations
+28 or repairs.
+29 (5) (4) "One-hundred year flood" means a flood that has a 1%
+RMH S07004'26 (H-1) e3wqkv
+
+6
+1 chance of being equaled or exceeded in any given year.
+2 (6) (5) "Owner" means a person who that owns, leases,
+3 controls, operates, maintains, manages, or proposes to construct a
+4 dam.
+5 (7) "Probable maximum flood" means the largest flood that may
+6 reasonably occur over a watershed and is derived from the
+7 combination of hydrologic runoff parameters and the probable
+8 maximum precipitation that produces the maximum runoff.
+9 (8) (6) "Probable maximum precipitation" means the
+10 theoretically greatest depth of precipitation for a given duration
+11 that is physically possible over a given size storm area at a
+12 particular geographic location at a certain time of year.
+13 Sec. 31505. (1) "Removal" means the physical elimination of a
+14 dam or impoundment.
+15 (2) "Repair" means to substantially restore a dam to its
+16 original condition and includes only such restoration as that may
+17 directly affect the structural integrity of the dam.
+18 (3) "Riparian owner" means a person who that has riparian
+19 rights.
+20 (4) "Riparian rights" means rights which that accrue by
+21 operation of law to a landowner on the banks of an inland lake or
+22 stream.
+23 (5) "Significant hazard potential dam" means a dam located in
+24 an area where its failure may cause damage limited to isolated
+25 inhabited homes, agricultural buildings, structures, secondary
+26 highways, short line or minor arterial roads or major collector
+27 roads as defined in the National Functional Classification (NFC)
+28 system, railroads not classified as class I, or public utilities in
+29 areas with a population density less than 5,000 people per square
+RMH S07004'26 (H-1) e3wqkv
+
+7
+1 mile, where environmental degradation may be significant, or where
+2 danger to individuals exists.
+3 (6) "Spillway" means a waterway in or about a dam designed for
+4 the discharge of water.
+5 (7) "Spillway capacity" means the maximum rate of discharge
+6 that will pass through a spillway at design flood elevation.
+7 (8) "Two-hundred year flood" means a flood that has a 0.5%
+8 chance of being equaled or exceeded in any given year.
+9 Sec. 31507. (1) A person shall not construct, enlarge, repair,
+10 reconstruct, alter, or remove , or abandon any a dam except in a
+11 manner provided for in this part.
+12 (2) This section does not apply to maintenance performed on a
+13 dam that does not affect the structural integrity of the dam.
+14 Sec. 31508. (1) Except as otherwise provided in subsection
+15 (2), a A licensed professional engineer shall prepare all plans and
+16 specifications and the comprehensive evaluation under section
+17 31518a, except for minor projects undertaken pursuant to under
+18 section 31513.
+19 (2) A person who is not a licensed professional engineer may
+20 prepare plans and specifications only for repairs or alterations to
+21 a dam where the application is made by a nonprofit organization
+22 under the following circumstances:
+23 (a) The nonprofit organization has assets of less than
+24 $30,000.00, is exempt from taxation under section 501(c)(3) of the
+25 internal revenue code of 1986, 26 U.S.C. 501, and is not composed
+26 primarily of the owners of property adjacent to or contiguous to an
+27 impoundment.
+28 (b) The proposed repairs or alterations have a projected total
+29 cost of less than $25,000.00.
+RMH S07004'26 (H-1) e3wqkv
+
+8
+1 (c) The impoundment is open to the public and a notice of
+2 public access is posted.
+3 (2) Plans and specifications prepared under subsection (1) and
+4 a comprehensive evaluation under section 31518a must include
+5 documentation that demonstrates that the licensed professional
+6 engineer or design team preparing the plans and specifications and
+7 comprehensive evaluation has successfully completed or been in
+8 consultation with licensed professional engineers who have, at a
+9 minimum, completed 5 similar projects, including any of the
+10 following project types:
+11 (a) Construction of a new dam.
+12 (b) Reconstruction of a failed dam.
+13 (c) Enlargement of a dam.
+14 (d) Complex alteration of a dam, such as significant
+15 rehabilitation or reconstruction of an existing dam.
+16 (e) Removal of an existing dam.
+17 Sec. 31509a. (1) The department shall establish a staggered
+18 registration process that meets all of the following conditions:
+19 (a) Is divided into 5 rounds and each round lasts not more
+20 than 2 years, with the first round of registrations beginning 6
+21 months after the effective date of the 2026 amendatory act that
+22 added this section.
+23 (b) Registers 1/5 of all dams in this state each round.
+24 (c) Identifies the dams that are subject to registration in
+25 each round based on hazard potential classification and other
+26 relevant considerations.
+27 (2) Subject to subsection (1), an owner shall register all of
+28 its dams with the department on a form and in a manner prescribed
+29 by the department. The application for a registration under this
+RMH S07004'26 (H-1) e3wqkv
+
+9
+1 section must include all of the following information:
+2 (a) Proof of ownership of the dam.
+3 (b) An asset management plan for all dams owned by the owner,
+4 that includes all of the following information:
+5 (i) An inventory of all dam assets.
+6 (ii) An assessment of conditions, remaining life, and critical
+7 deficiencies and failure modes, and a life cycle cost analysis.
+8 (iii) An assessment of probability and consequences of dam
+9 failure.
+10 (iv) A list of funding sources adequate to cover estimated life
+11 cycle costs.
+12 (v) A performance evaluation that includes regulatory
+13 compliance, inspection schedule, instrumentation monitoring, and
+14 internal operations.
+15 (c) A demonstrated compliance with this part that includes all
+16 of the following:
+17 (i) A current inspection report under section 31518 and a plan
+18 and schedule approved by the department to address any deficiencies
+19 identified in the inspection report, if applicable.
+20 (ii) For high hazard potential and significant hazard potential
+21 dams, a current, comprehensive evaluation report under section
+22 31518a, and a plan and schedule approved by the department to
+23 address any deficiencies identified in the comprehensive evaluation
+24 report, if applicable.
+25 (iii) A current surveillance and monitoring plan under section
+26 31518b.
+27 (iv) A current operation and maintenance plan under section
+28 31518c.
+29 (v) A current safety and security plan under section 31518d.
+RMH S07004'26 (H-1) e3wqkv
+
+10
+1 (d) Any additional information that the department determines
+2 is necessary for dam safety.
+3 (3) A registration issued under this section is valid for 10
+4 years. Not later than April 1 of the year the registration expires,
+5 to renew a registration, an owner shall submit an application for
+6 registration under subsection (2).
+7 (4) The department shall approve or deny an application for a
+8 registration not later than 120 days after the application is
+9 complete. The department shall deny an application for registration
+10 that does not sufficiently demonstrate that the public health,
+11 safety, welfare, property, or natural resources, or the public
+12 trust in those natural resources, is protected.
+13 (5) The department may revoke a registration, after notice and
+14 opportunity for a hearing in accordance with the administrative
+15 procedures act of 1969, for any of the following reasons:
+16 (a) A violation of the terms of the registration or a change
+17 in the condition of the dam.
+18 (b) The owner failed to disclose relevant facts or otherwise
+19 obtained a registration by misrepresentation.
+20 (c) The dam is subject to any of the following:
+21 (i) An order under section 31518(7).
+22 (ii) An order to limit dam operations or an order for the
+23 removal of the dam under section 31519.
+24 (iii) An emergency order under section 31521.
+25 (iv) Any other violation under section 31524.
+26 (6) If the department revokes a registration under subsection
+27 (5), the department shall notify the owner in writing of the
+28 revocation not later than 30 days after the hearing and state the
+29 deficiency and request additional information.
+RMH S07004'26 (H-1) e3wqkv
+
+11
+1 (7) If the department denies a registration under subsection
+2 (4) or revokes a registration under subsection (5), the owner shall
+3 submit a revised application for registration not later than 180
+4 days after the notification is received under subsection (4) or
+5 (6).
+6 (8) An owner can transfer a registration to a new owner if
+7 both of the following conditions are met:
+8 (a) The new owner is willing and financially capable of
+9 complying with the terms of the registration.
+10 (b) The owner receives written approval from the department
+11 for the transfer.
+12 (9) The owner shall submit a request for transfer of a
+13 registration under subsection (8) on a form and in a manner
+14 prescribed by the department. The request for a transfer of a
+15 registration must be accompanied by a written agreement between the
+16 owner and new owner that states a specific date for the transfer of
+17 responsibility.
+18 Sec. 31516. (1) Spillway Subject to subsection (4), spillway
+19 capacity shall must meet the following minimum criteria:
+20 (a) Low hazard potential dams shall must be capable of passing
+21 the 100-year flood, or the flood of record, whichever is greater.
+22 (b) Significant hazard potential dams shall must be capable of
+23 passing the 200-year half probable maximum flood, or the flood of
+24 record, whichever is greater.
+25 (c) High hazard potential dams , less than 40 feet in height,
+26 as measured from the 200-year design flood elevation to the lowest
+27 downstream toe elevation, shall be capable of passing the 200-year
+28 flood, or the flood of record, whichever is greater.
+29 (d) High hazard potential dams, 40 feet or greater in height,
+RMH S07004'26 (H-1) e3wqkv
+
+12
+1 as measured from the 200-year design flood elevation to the lowest
+2 downstream toe elevation, shall must be capable of passing the half
+3 probable maximum flood, . The half probable maximum flood criterion
+4 may be reduced to not less than the 200-year flood, with proper
+5 documentation evidencing a failure of a dam under half probable
+6 maximum flood conditions will not cause additional flood damage or
+7 loss of life.or the flood of record, whichever is greater.
+8 (d) (e) Spillway design capacity shall not must be not less
+9 than the flood of record.
+10 (2) Freeboard shall must be considered when determining
+11 spillway capacity.
+12 (3) If a dam cannot pass the design flood, an auxiliary
+13 additional spillway capacity must be provided. The owner must
+14 document, to the satisfaction of the department, that the dam has
+15 sufficient spillway capacity, and that proper means are available
+16 to operate the spillway or spillways during the design flood.
+17 (4) The criteria described under subsection (1) may be reduced
+18 in accordance with a site-specific, consequence-based, or risk-
+19 based inflow design flood study completed in a manner approved by
+20 the department.
+21 Sec. 31518. (1) An owner shall submit to the department
+22 inspection reports prepared by a licensed professional engineer
+23 that evaluate the condition of the dam. The inspection report shall
+24 must be submitted as follows:
+25 (a) Not less than once every 3 years year for high hazard
+26 potential dams.
+27 (b) Not less than once every 4 2 years for significant hazard
+28 potential dams.
+29 (c) Not less than once every 5 years for low hazard potential
+RMH S07004'26 (H-1) e3wqkv
+
+13
+1 dams.
+2 (2) The department shall determine the hazard potential
+3 classification of for all dams and shall establish an inspection
+4 schedule. The department shall notify the owner of each dam's
+5 hazard potential classification, the effective date of each hazard
+6 potential classification, and each dam's hazard potential history.
+7 Not later than 30 days after the owner receives the department's
+8 notice of a dam's hazard potential classification, the owner shall
+9 provide the department with information regarding how the owner
+10 will meet the requirements of the dam's hazard potential
+11 classification, including, but not limited to, spillway capacity,
+12 emergency action plan, inundation mapping requirements, and an
+13 inspection schedule. An inspection schedule shall developed under
+14 this subsection must require annual submission of inspection
+15 reports for approximately 1/3 of all high hazard potential dams,
+16 1/4 1/2 of all significant hazard potential dams, and 1/5 of all
+17 low hazard potential dams. The department shall notify the owners
+18 in writing when inspection reports are due. The department may
+19 order additional inspection reports following an event or change in
+20 condition that could threaten a dam.
+21 (3) An inspection report required by this section shall must
+22 include, at a minimum, all of the following:
+23 (a) An evaluation of the dam's condition, spillway capacity,
+24 operational adequacy, and structural integrity.
+25 (b) A determination of whether deficiencies exist that could
+26 lead to the failure of the dam.
+27 (c) Recommendations for maintenance, repair, and alterations
+28 of a dam as are necessary to eliminate any deficiencies.
+29 (d) A schedule to address deficiencies that is approved by the
+RMH S07004'26 (H-1) e3wqkv
+
+14
+1 department. An owner violates this part if the owner fails to
+2 address deficiencies in accordance with the schedule approved under
+3 this subdivision. The department may modify the schedule under this
+4 subdivision to address deficiencies based on the conditions of the
+5 dam.
+6 (e) An assessment of the appropriateness of the current hazard
+7 potential classification established under subsection (1) taking
+8 into consideration the current conditions that exist downstream of
+9 the dam. An assessment under this subdivision must consider
+10 conditions related to damage as identified under a significant
+11 hazard potential dam classification and serious damage as
+12 identified under a high hazard potential dam classification that
+13 might have changed since the effective date of the current hazard
+14 potential classification established under subsection (1).
+15 (f) An assessment of operations and maintenance based on the
+16 requirements of the current operation and maintenance records
+17 prepared under section 31517a.
+18 (g) An evaluation of the risk or changes in risk of
+19 significant hazard potential and low hazard potential dams, if
+20 applicable.
+21 (h) A review of the original design, construction,
+22 maintenance, repair, and probable failure mode records of high
+23 hazard potential and significant hazard potential dams, if
+24 applicable.
+25 (i) Recommendations for more detailed investigations or
+26 evaluations as needed to determine the condition of the dam.
+27 (4) Instead of engaging a licensed professional engineer to
+28 prepare an inspection report, local units of government or an
+29 organization of the type described in section 31508(2)(a) through
+RMH S07004'26 (H-1) e3wqkv
+
+15
+1 (c) 31509(5) may request the department to conduct a visual
+2 inspection of a dam owned by that local unit of government and
+3 prepare a report on the condition of the dam in accordance with
+4 subsection (3). The department shall notify a requesting local unit
+5 of government as to when the inspection is to occur.
+6 (5) If an inspection report discloses the need for a more
+7 detailed investigation or evaluation of certain dam features for
+8 the purpose of determining the condition of the dam, the department
+9 may order the completion and submission of that detailed
+10 investigation or evaluation at the expense of the owner. An
+11 investigation or evaluation required under this subsection shall
+12 must be conducted under the supervision of a licensed professional
+13 engineer.
+14 (6) If an owner does not submit an inspection report as
+15 required by subsection (1) or conduct additional investigations if
+16 required by subsection (5), the department or any person who that
+17 would have life or property threatened by a breach of the dam may
+18 have a report prepared and recover the costs of preparing the
+19 report in a civil action. commenced in a court of competent
+20 jurisdiction. This subsection does not limit the right of any
+21 person to bring a cause of action in a court of proper jurisdiction
+22 to compel an owner to comply with the requirements of this part.
+23 (7) If, based on the findings and recommendations of the
+24 inspection report, and an inspection by the department, or if the
+25 department finds that a condition exists which that endangers a the
+26 dam, it the department shall order the owner to take actions that
+27 the department considers necessary to alleviate the danger.
+28 Sec. 31518a. (1) For high hazard potential and significant
+29 hazard potential dams, an owner shall submit to the department a
+RMH S07004'26 (H-1) e3wqkv
+
+16
+1 comprehensive evaluation report prepared by a licensed professional
+2 engineer that evaluates the overall safety of the dam. For low
+3 hazard potential dams, the department may require an owner to
+4 submit a comprehensive evaluation report as provided under this
+5 subsection. The comprehensive evaluation report must be submitted
+6 not less than once every 10 years on a schedule determined by the
+7 department.
+8 (2) The comprehensive evaluation report must include, but is
+9 not limited to, a detailed evaluation and recommendation for all of
+10 the following:
+11 (a) The dam's condition, spillway capacity, operational
+12 adequacy, and structural integrity.
+13 (b) The adequacy of the dam's original design and
+14 construction.
+15 (c) The adequacy of the dam's operation and maintenance
+16 procedures.
+17 (d) Probable failure modes and risk reduction measures.
+18 (e) Conformance with current dam safety practices.
+19 (f) Any deficiencies that exist that could lead to failure of
+20 the dam.
+21 (g) Maintenance, repair, and alterations of a dam that are
+22 necessary to eliminate the deficiencies described under subdivision
+23 (f).
+24 Enacting section 1. This amendatory act does not take effect
+25 unless House Bill No. 5485 of the 103rd Legislature is enacted into
+26 law.
+Final Page
+RMH S07004'26 (H-1) e3wqkv

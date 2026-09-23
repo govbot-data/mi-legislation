@@ -1,0 +1,294 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SUBSTITUTE FOR
+SENATE BILL NO. 1089
+A bill to amend 1961 PA 236, entitled
+"Revised judicature act of 1961,"
+by amending sections 880d, 8727, and 8827 (MCL 600.880d, 600.8727,
+and 600.8827), section 880d as added by 1993 PA 189, section 8727
+as amended by 2003 PA 95, and section 8827 as amended by 2020 PA
+387, and by adding sections 1495, 1496, and 1497; and to repeal
+acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 880d. A judge of probate shall order that the payment of
+2 any fee required under this chapter be waived or suspended, in
+3 whole or in part, upon a showing by affidavit on a determination of
+4 indigency. or inability to pay.The court shall determine indigency
+5 in accordance with the process provided in section 1495.
+SCS S05630'25 (S-1) 3cpvyb
+
+2
+1 Sec. 1495. (1) Before the imposition of any fine, cost, or
+2 other assessment under section 8727 or 8827, section 1k of chapter
+3 IX of the code of criminal procedure, 1927 PA 175, MCL 769.1k, or
+4 section 907 of the Michigan vehicle code, 1949 PA 300, MCL 257.907,
+5 the court must conduct an assessment of indigency using a 3-pronged
+6 examination. An individual must be determined to be indigent if the
+7 individual meets any of the following criteria:
+8 (a) The individual is represented by appointed indigent
+9 defense counsel under the Michigan indigent defense commission act,
+10 2013 PA 93, MCL 780.981 to 780.1003, or is enrolled in public
+11 assistance, including, but not limited to, food assistance;
+12 temporary assistance for needy families; Medicaid; disability
+13 insurance; women, infants, and children benefits; federal
+14 supplemental security income; family independence program; or
+15 public housing.
+16 (b) The individual's income is at or below the very low income
+17 threshold for the county in which the individual resides according
+18 to the United States Department of Housing and Urban Development
+19 Income Eligibility Calculator.
+20 (c) The individual demonstrates financial hardship under an
+21 individualized judicial review test, including, but not limited to,
+22 consideration of 1 or more of the following:
+23 (i) Household size.
+24 (ii) Income source and amount.
+25 (iii) Other relevant financial circumstances, medical expenses
+26 or procedures, emergencies, or other existing debts.
+27 (2) For an assessment of indigency under subsection (1)(a) and
+28 (b), the trial court may request documentary evidence to establish
+29 that indigency criteria are met or may rely on self-attestation. An
+SCS S05630'25 (S-1) 3cpvyb
+
+3
+1 individual must be advised before sentencing that the individual
+2 may provide the trial court with any evidence of limited financial
+3 means or hardship.
+4 (3) For an assessment of indigency under subsection (1)(c),
+5 self-attestation of financial circumstances shall be presumed
+6 sufficient proof. The trial court may exercise its discretion to
+7 require documentary proof of an individual's stated circumstance,
+8 but if the trial court requires proof, the trial court must
+9 document the court's reasoning for the requirement on the record.
+10 (4) Current incarceration of an individual creates a
+11 presumption of the individual's indigency under this section.
+12 (5) Except as otherwise provided by law, the indigency
+13 standards in this section must also apply when determining an
+14 individual's indigency for waiver of civil filing fees and court
+15 costs.
+16 Sec. 1496. (1) At sentencing, the trial court shall calculate
+17 the court assessments owed by the defendant. Assessments may
+18 include restitution to victims, fines within statutory ranges,
+19 court costs, fees authorized by law, and reimbursements including,
+20 but not limited to, plaintiff costs.
+21 (2) Without regard to indigency, restitution must be imposed
+22 where appropriate for the offense, under all of the following:
+23 (a) Section 543x of the Michigan penal code, 1931 PA 328, MCL
+24 750.543x.
+25 (b) Sections 1a(2), 3, and 34(6) of chapter IX of the code of
+26 criminal procedure, 1927 PA 175, MCL 769.1a, 769.3, and 769.34.
+27 (c) Section 3(1)(e) of chapter XI of the code of criminal
+28 procedure, 1927 PA 175, MCL 771.3.
+29 (d) Section 16(2) or 76(2) of the William Van Regenmorter
+SCS S05630'25 (S-1) 3cpvyb
+
+4
+1 crime victim's rights act, 1985 PA 87, MCL 780.766 and 780.826.
+2 (e) Any other applicable law.
+3 (3) Fines and assessments imposed under section 5 of 1989 PA
+4 196, MCL 780.905, for the purpose of victim payments under the
+5 William Van Regenmorter crime victim's rights act, 1985 PA 87, MCL
+6 780.751 to 780.834, may be imposed at the discretion of the court.
+7 In determining whether a fine, an assessment imposed under section
+8 5 of 1989 PA 196, MCL 780.905, or both, are appropriate
+9 accountability measures, the trial court may consider the
+10 individual's indigency and follow guidance provided by the state
+11 court administrative office under the direction of the supreme
+12 court about alternative sentencing measures that may provide more
+13 appropriate accountability for indigent individuals.
+14 (4) On a finding of indigency, the court shall not impose
+15 costs, fees, and reimbursements including, but not limited to,
+16 plaintiff costs.
+17 (5) The trial court shall make a finding of indigency on the
+18 record. The court shall make all findings regarding the court
+19 assessments imposed or not imposed on the record.
+20 Sec. 1497. (1) An individual may motion the trial court for
+21 redetermination of indigency if the individual's financial
+22 circumstances change after the individual has been sentenced. On a
+23 request for redetermination, the trial court shall conduct a new
+24 indigency assessment in accordance with the process set out in
+25 section 1496. The trial court shall consider any evidence of change
+26 in financial means.
+27 (2) If the trial court finds that the individual is indigent
+28 on redetermination under subsection (1), all of the following
+29 apply:
+SCS S05630'25 (S-1) 3cpvyb
+
+5
+1 (a) The trial court shall waive previously imposed court costs
+2 and fees.
+3 (b) The trial court may waive previously imposed fines at its
+4 discretion.
+5 (c) The trial court shall enter the waiver into the judicial
+6 information services system, and any late fees that had been
+7 imposed on that assessment must be waived.
+8 (3) If the trial court waives a previously imposed assessment
+9 under this section and the individual has already made payments
+10 toward the assessment, the individual is not entitled to a
+11 reimbursement of the payments.
+12 Sec. 8727. (1) A municipal civil infraction is not a lesser
+13 included offense of a criminal offense or an ordinance violation
+14 that is not a civil infraction.
+15 (2) If a defendant is determined to be responsible or
+16 responsible "with explanation" for a municipal civil infraction,
+17 the judge or district court magistrate may order the defendant to
+18 pay a civil fine. , Beginning after the effective date of the
+19 amendatory act that added section 1495, before ordering a defendant
+20 to pay costs, assessments, damages, or expenses under this section,
+21 the judge or district court magistrate shall conduct an indigency
+22 assessment and make an indigency determination in accordance with
+23 sections 1495 to 1497. If the judge or district court magistrate
+24 finds that the defendant is indigent, the judge or district court
+25 magistrate shall not order any costs, assessments, damages, or
+26 expenses under this section. If the judge or district court
+27 magistrate finds that the defendant is not indigent, the judge or
+28 district court magistrate may order the defendant to pay costs as
+29 provided in subsection (3), the justice system assessment as
+SCS S05630'25 (S-1) 3cpvyb
+
+6
+1 provided in subsection (4), and, if applicable, damages and
+2 expenses as provided in section 8733(2). In the order of judgment,
+3 the judge or district court magistrate may grant a defendant
+4 permission to pay a civil fine, costs, assessment, and damages and
+5 expenses within a specified period of time or in specified
+6 installments. Otherwise, the civil fine, costs, assessment, and
+7 damages and expenses are due immediately.
+8 (3) If a defendant is ordered to pay a civil fine found not
+9 indigent under subsection (2), the judge or district court
+10 magistrate shall may summarily tax and determine the costs of the
+11 action, which are not limited to the costs taxable in ordinary
+12 civil actions and may include all expenses, direct and indirect, to
+13 which the plaintiff has been put in connection with the municipal
+14 civil infraction, up to the entry of judgment. Costs of not more
+15 than $500.00 shall must be ordered. Until September 30, 2003, the
+16 amount of costs ordered shall must be not less than $9.00. Except
+17 as otherwise provided by law, costs shall be are payable to the
+18 general fund of the plaintiff.
+19 (4) Effective October 1, 2003, in addition to any fine or cost
+20 ordered to be paid under subsection (2), the judge or district
+21 court magistrate shall may order the a defendant who is not
+22 indigent to pay a justice system assessment of $10.00. Upon On
+23 payment of the assessment, the clerk of the court shall transmit
+24 the assessment collected to the state treasurer for deposit in the
+25 justice system fund created in section 181.
+26 (5) In addition to ordering the defendant to pay a civil fine,
+27 costs, a justice system assessment, and damages and expenses, the
+28 judge or district court magistrate may issue a writ or order under
+29 section 8302.
+SCS S05630'25 (S-1) 3cpvyb
+
+7
+1 (6) A district court magistrate shall impose the sanctions
+2 permitted under subsections (2) and (5) only to the extent
+3 expressly authorized by the chief judge or only judge of the
+4 district court district.
+5 (7) Each district of the district court and each municipal
+6 court may establish a schedule of civil fines, costs, and
+7 assessments to be imposed for municipal civil infractions that
+8 occur within the district or city. If a schedule is established, it
+9 shall must be prominently posted and readily available for public
+10 inspection. A schedule need not include all municipal civil
+11 infractions. A schedule may exclude cases on the basis of a
+12 defendant's prior record of municipal civil infractions. If a
+13 schedule is established, the schedule must make note of the
+14 exception for indigent individuals and include the process for
+15 determining indigency under sections 1495 to 1497.
+16 (8) A default in the payment of a civil fine, costs,
+17 assessment, or damages or expenses ordered under subsection (2),
+18 (3), or (4) or an installment of the fine, costs, assessment, or
+19 damages or expenses may be collected by a means authorized for the
+20 enforcement of a judgment under chapter 40 or chapter 60.
+21 (9) If a defendant fails to comply with an order or judgment
+22 issued pursuant to under this section within the time prescribed by
+23 the court, the court may proceed under section 8729, 8731 , or
+24 8733, as applicable.
+25 (10) A defendant who fails to answer a citation or notice to
+26 appear in court for a municipal civil infraction is guilty of a
+27 misdemeanor.
+28 Sec. 8827. (1) A state civil infraction is not a lesser
+29 included offense of a criminal offense.
+SCS S05630'25 (S-1) 3cpvyb
+
+8
+1 (2) If a defendant is determined to be responsible or
+2 responsible "with explanation" for a state civil infraction, the
+3 judge or district court magistrate may order the defendant to pay a
+4 civil fine as provided by law. and Beginning after the effective
+5 date of the amendatory act that added section 1495, before ordering
+6 a defendant to pay costs, assessments, damages, or expenses under
+7 this section, the judge or district court magistrate shall conduct
+8 an indigency assessment and make an indigency determination in
+9 accordance with sections 1495 to 1497. If the judge or district
+10 court magistrate finds that the defendant is indigent, the judge or
+11 district court magistrate shall not order any costs, assessments,
+12 damages, or expenses under this section. If the judge or district
+13 court magistrate finds that the defendant is not indigent, the
+14 judge or district court magistrate may order the defendant to pay
+15 costs as provided in subsection (3) and the justice system
+16 assessment provided in subsection (4). In the order of judgment,
+17 the judge or district court magistrate may grant a defendant
+18 permission to pay a civil fine, costs, and assessment within a
+19 specified period of time or in specified installments. Otherwise,
+20 the civil fine, costs, and assessment are payable immediately.
+21 (3) If a defendant is ordered to pay a civil fine found not
+22 indigent under subsection (2), the judge or district court
+23 magistrate shall may summarily tax and determine the costs of the
+24 action, which are not limited to the costs taxable in ordinary
+25 civil actions and may include all expenses, direct and indirect, to
+26 which the plaintiff has been put in connection with the state civil
+27 infraction, up to the entry of judgment. Costs of not more than
+28 $500.00 must may be ordered. Until September 30, 2003, the amount
+29 of costs ordered must be not less than $9.00. Costs in a state
+SCS S05630'25 (S-1) 3cpvyb
+
+9
+1 civil infraction action in the district court must be distributed
+2 as provided in sections 8379 and 8381. Beginning October 1, 2003,
+3 costs ordered in a state civil infraction action must be
+4 distributed as provided in section 8379. Costs in a state civil
+5 infraction action in a municipal court must be paid to the county.
+6 (4) Effective October 1, 2003, in addition to any fine or cost
+7 ordered to be paid under subsection (2) or (3), the judge or
+8 district court magistrate shall may order the a defendant who is
+9 not indigent to pay a justice system assessment of $10.00. Upon On
+10 payment of the assessment, the clerk of the court shall transmit
+11 the assessment collected to the state treasurer for deposit in the
+12 justice system fund created in section 181.
+13 (5) A district court magistrate shall impose the sanctions
+14 permitted under subsection (2) only to the extent expressly
+15 authorized by the chief judge or only judge of the district court
+16 district.
+17 (6) Each district of the district court and each municipal
+18 court may establish a schedule of civil fines, costs, and
+19 assessments to be imposed for state civil infractions that occur
+20 within the district or city. If a schedule is established, it must
+21 be prominently posted and readily available for public inspection.
+22 A schedule need not include all violations that are designated by
+23 law as state civil infractions. If a schedule is established, the
+24 schedule must make note of the exception for indigent individuals
+25 and include the process for determining indigency under sections
+26 1495 to 1497.
+27 (7) A default in the payment of a civil fine, costs, or
+28 assessment ordered under subsection (2), (3), or (4) or an
+29 installment of the fine, costs, or assessment may be collected by a
+SCS S05630'25 (S-1) 3cpvyb
+
+10
+1 means authorized for the enforcement of a judgment under chapter 40
+2 or chapter 60.
+3 (8) A defendant who fails to comply with an order or judgment
+4 issued under this section is guilty of a misdemeanor.
+5 Enacting section 1. Sections 8729 and 8829 of the revised
+6 judicature act of 1961, 1961 PA 236, MCL 600.8729 and 600.8829, are
+7 repealed.
+8 Enacting section 2. This amendatory act does not take effect
+9 unless Senate Bill No. 1090 of the 103rd Legislature is enacted
+10 into law.
+Final Page
+SCS S05630'25 (S-1) 3cpvyb

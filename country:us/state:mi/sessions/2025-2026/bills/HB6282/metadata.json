@@ -63,6 +63,102 @@
       "_processing": {
         "log_file_created": "2026-08-28T18:11:52Z"
       }
+    },
+    {
+      "description": "rule suspended",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "motion to discharge committee approved",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "placed on second reading",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "placed on immediate passage",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #373 Yeas 88 Nays 15 Excused 0 Not Voting 7",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,9 +243,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2026-HEBH-6282.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2026-HEBH-6282.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Summary as Introduced (9/23/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2026-HLA-6282-V5P1MZXC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -165,7 +288,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T18:11:52Z",
+    "logs_latest_update": "2026-09-24T10:51:01Z",
     "text_extraction_latest_update": "2026-08-28T18:12:59.510791Z"
   }
 }

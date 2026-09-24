@@ -36,6 +36,18 @@
       "_processing": {
         "log_file_created": "2026-09-23T10:35:21Z"
       }
+    },
+    {
+      "description": "adopted",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:51:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -160,6 +172,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Adopted Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/pdf/2026-HAR-0355.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/htm/2026-HAR-0355.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -178,7 +205,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:35:21Z",
+    "logs_latest_update": "2026-09-24T10:51:01Z",
     "text_extraction_latest_update": "2026-09-23T10:38:17.137652Z"
   }
 }

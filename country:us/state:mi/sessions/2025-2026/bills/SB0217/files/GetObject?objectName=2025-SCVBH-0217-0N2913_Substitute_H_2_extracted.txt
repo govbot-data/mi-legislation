@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 217
+A bill to amend 1927 PA 175, entitled
+"The code of criminal procedure,"
+by amending section 12e of chapter XVII (MCL 777.12e), as amended
+by 2011 PA 59.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER XVII
+2 Sec. 12e. This chapter applies to the following felonies
+3 enumerated in sections 601 to 624b of chapter VI of the Michigan
+4 vehicle code, 1949 PA 300, within chapter 257 of the Michigan
+5 Compiled Laws:
+6 M.C.L. Category Class Description Stat Max
+JJR S00683'25 (H-2) 9qf2am
+
+2
+1 257.601b(3) Person C Moving violation 15
+2 causing death to
+3 another person in a
+4 work zone or a school
+5 bus zone
+6 257.601c(2) Person E Moving violation 5
+7 causing serious injury
+8 to vulnerable roadway
+9 user or operator of
+10 implement of husbandry
+11 257.601c(2) Person CD Moving violation 1510
+12 257.601c(3) causing death to
+13 operator of implement
+14 of husbandry
+15 vulnerable roadway
+16 user
+17 257.601c(4) Person C Moving violation 15
+18 causing death to
+19 operator of implement
+20 of husbandry
+21 257.601c(5) Person C Moving violation 15
+22 causing death to blind
+23 pedestrian
+24 257.601c(6) Person E Moving violation 5
+25 causing death of a
+26 blind person's service
+27 animal
+28 257.602a(2) Pub saf G Fourth degree fleeing 2
+29 and eluding
+JJR S00683'25 (H-2) 9qf2am
+
+3
+1 257.602a(3) Pub saf E Third degree fleeing 5
+2 and eluding
+3 257.602a(4) Person D Second degree fleeing 10
+4 and eluding
+5 257.602a(5) Person C First degree fleeing 15
+6 and eluding
+7 257.616a(2)(b) Pub saf G Using a signal 2
+8 preemption device
+9 257.616a(2)(c) Pub saf E Using a signal 5
+10 preemption device
+11 causing a traffic
+12 accident
+13 257.616a(2)(d) Person D Using a signal 10
+14 preemption device
+15 causing serious
+16 impairment of a body
+17 function
+18 257.616a(2)(e) Person C Using a signal 15
+19 preemption device
+20 causing death
+21 257.616a(2)(f) Pub ord G Selling or purchasing 2
+22 a signal preemption
+23 device
+24 257.617(2) Person E Failure to stop at 5
+25 scene of accident
+26 resulting in serious
+27 impairment or death
+JJR S00683'25 (H-2) 9qf2am
+
+4
+1 257.617(3) Person C Failure to stop at 15
+2 scene of accident
+3 resulting in death
+4 when at fault
+5 Enacting section 1. This amendatory act takes effect 90 days
+6 after the date it is enacted into law.
+7 Enacting section 2. This amendatory act does not take effect
+8 unless House Bill No. 4334 of the 103rd Legislature is enacted into
+9 law.
+Final Page
+JJR S00683'25 (H-2) 9qf2am

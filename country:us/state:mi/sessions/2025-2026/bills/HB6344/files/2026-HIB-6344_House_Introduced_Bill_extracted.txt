@@ -1,0 +1,8 @@
+Title: 
+Official Title: 
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+HOUSE BILL NO. 6344 A bill to amend 1984 PA 431, entitled "The management and budget act," (MCL 18.1101 to 18.1594) by adding section 261g. the people of the state of michigan enact: Sec. 261g. Beginning on the effective date of the amendatory act that added this section, a state agency shall not enter into a contract for an information technology project unless the contract explicitly allows the state agency to select, at the state agency's sole discretion, the infrastructure on which the software will be installed or used.

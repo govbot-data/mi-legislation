@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2026-09-23T10:35:21Z"
       }
+    },
+    {
+      "description": "motion to discharge committee rejected",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:06:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:35:21Z",
+    "logs_latest_update": "2026-09-25T11:06:06Z",
     "text_extraction_latest_update": "2026-09-23T10:38:17.176095Z"
   }
 }

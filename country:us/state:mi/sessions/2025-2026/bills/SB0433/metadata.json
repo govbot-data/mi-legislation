@@ -243,6 +243,16 @@
       }
     },
     {
+      "description": "inserted full title",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:56:09Z"
+      }
+    },
+    {
       "description": "returned to Senate",
       "date": "2026-09-22",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -487,7 +497,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:35:21Z",
+    "logs_latest_update": "2026-09-26T10:56:09Z",
     "text_extraction_latest_update": "2026-09-23T10:36:52.777681Z"
   }
 }

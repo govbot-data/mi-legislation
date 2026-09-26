@@ -20,6 +20,18 @@
   ],
   "actions": [
     {
+      "description": "introduced by Representative Jamie Thompson",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:56:09Z"
+      }
+    },
+    {
       "description": "read a first time",
       "date": "2025-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -170,7 +182,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:37Z",
+    "logs_latest_update": "2026-09-26T10:56:09Z",
     "text_extraction_latest_update": "2026-07-21T22:53:27.835792Z"
   }
 }

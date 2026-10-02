@@ -1,0 +1,8 @@
+Title: 
+Official Title: 
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+SENATE BILL NO. 1200 A bill to amend 2016 PA 345, entitled "Limousine, taxicab, and transportation network company act," by amending section 41 (MCL 257.2141). the people of the state of michigan enact: Sec. 41. (1) A transportation network company driver shall not accept a request for transportation unless the request is accepted through the transportation network company's digital network. (2) After a request for transportation is accepted as described in subsection (1), the transportation network company driver and the transportation network company shall not cancel the request for transportation in order to give priority to a higher-paying transportation network company rider.

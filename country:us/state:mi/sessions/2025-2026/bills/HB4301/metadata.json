@@ -199,6 +199,110 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITHOUT AMENDMENT(S)",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PLACED ON ORDER OF THIRD READING",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PLACED ON IMMEDIATE PASSAGE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 249 YEAS 36 NAYS 0 EXCUSED 2 NOT VOTING 0",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "INSERTED FULL TITLE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "RETURNED TO HOUSE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "returned from Senate without amendment with immediate effect and full title",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "full title agreed to",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "bill ordered enrolled 10/01/2026",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -410,6 +514,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2025-HEBS-4301.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBS-4301.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/House/pdf/2025-HCB-4301.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/House/htm/2025-HCB-4301.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -498,7 +632,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-07-21T20:01:20.669390Z"
   }
 }

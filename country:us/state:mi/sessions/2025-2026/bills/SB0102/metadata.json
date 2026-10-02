@@ -243,6 +243,26 @@
       "_processing": {
         "log_file_created": "2026-09-23T10:35:21Z"
       }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -401,7 +421,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:35:21Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-09-23T10:37:42.309483Z"
   }
 }

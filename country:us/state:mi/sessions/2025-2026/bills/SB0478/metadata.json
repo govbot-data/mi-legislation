@@ -230,6 +230,38 @@
       "_processing": {
         "log_file_created": "2026-09-23T10:35:21Z"
       }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 10/1/2026 1:06 PM",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -312,6 +344,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0478.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0478.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -331,7 +378,7 @@
       "classification": ""
     },
     {
-      "note": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Senate-passed version) (Date Completed: 10-22-25)",
+      "note": "SUMMARY OF BILL REPORTED FROM COMMITTEE (enrolled version) (Date Completed: 9-29-26)",
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0478-F.pdf",
@@ -340,6 +387,17 @@
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0478-F.htm",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary as Passed by the House (9/29/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-0478-HJF1W7KM.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -361,7 +419,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:35:21Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-09-23T10:36:22.535354Z"
   }
 }

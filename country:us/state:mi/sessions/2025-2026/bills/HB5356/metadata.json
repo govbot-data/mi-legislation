@@ -217,6 +217,30 @@
       "_processing": {
         "log_file_created": "2026-09-10T09:58:17Z"
       }
+    },
+    {
+      "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 10/1/2026",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE OF THE WHOLE WITH SUBSTITUTE (S-1)",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -327,7 +351,7 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-5356-0N297.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -338,7 +362,7 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-5356-0U6210.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -349,7 +373,29 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-5356-0O3311.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBS-5356-00B720.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-1) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBS-5356-0B7321.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -387,6 +433,21 @@
     }
   ],
   "documents": [
+    {
+      "note": "SUMMARY OF HOUSE PASSED BILL IN COMMITTEE (Date Completed: 9-30-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-5356-L.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-5356-L.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Summary as Introduced (4/23/2026)",
       "links": [
@@ -445,7 +506,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T09:58:17Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-09-10T09:59:27.853841Z"
   }
 }

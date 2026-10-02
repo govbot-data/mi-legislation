@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 4793",
-  "title": "Elections: school; requirement for school board members to file an acceptance of office; eliminate. Amends secs. 309 & 310 of 1954 PA 116 (MCL 168.309 & 168.310).   TIE BAR WITH: HB 4795'25,  HB 4794'25",
+  "title": "Elections: school; requirement for school board members to file an acceptance of office; eliminate. Amends secs. 309 & 310 of 1954 PA 116 (MCL 168.309 & 168.310).   TIE BAR WITH: HB 4794'25,  HB 4795'25",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -165,6 +165,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:38Z"
       }
+    },
+    {
+      "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 10/1/2026",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE OF THE WHOLE",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,6 +260,21 @@
   ],
   "documents": [
     {
+      "note": "SUMMARY OF HOUSE PASSED BILL IN COMMITTEE (Date Completed: 9-28-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-4793-L.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-4793-L.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Summary as Introduced (09/08/2025)",
       "links": [
         {
@@ -290,7 +329,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-07-21T21:43:28.920984Z"
   }
 }

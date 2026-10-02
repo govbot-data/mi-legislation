@@ -151,6 +151,28 @@
       "_processing": {
         "log_file_created": "2026-09-24T10:51:01Z"
       }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH IMMEDIATE EFFECT",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE ON CIVIL RIGHTS, JUDICIARY, AND PUBLIC SAFETY",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,7 +279,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-24T10:51:01Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-09-24T10:52:58.195896Z"
   }
 }

@@ -182,6 +182,140 @@
       "_processing": {
         "log_file_created": "2026-08-09T06:35:18Z"
       }
+    },
+    {
+      "description": "DISCHARGE COMMITTEE APPROVED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PLACED ON ORDER OF GENERAL ORDERS",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED FOR IMMEDIATE CONSIDERATION",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITH SUBSTITUTE (S-2)",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTE (S-2) CONCURRED IN",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PLACED ON ORDER OF THIRD READING WITH SUBSTITUTE (S-2)",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PLACED ON IMMEDIATE PASSAGE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 247 YEAS 34 NAYS 2 EXCUSED 2 NOT VOTING 0",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "INSERTED FULL TITLE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "RETURNED TO HOUSE",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "returned from Senate with substitute (S-2) with immediate effect and title amendment",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "laid over one day under the rules",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,7 +407,51 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5485-0O339.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBS-5485-00C720.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBS-5485-00D421.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 3",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBS-5485-0D2822.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-2) - 4",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-5485-0T3328.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -308,9 +486,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2026-HEBS-5485.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2026-HEBS-5485.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "SUMMARY OF DISCHARGED BILL (Date Completed: 9-9-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-5485-F.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-5485-F.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Summary as Introduced (4/29/2026)",
       "links": [
@@ -347,7 +555,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:35:18Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-08-09T06:36:54.779583Z"
   }
 }

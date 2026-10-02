@@ -26,6 +26,28 @@
       "_processing": {
         "log_file_created": "2026-10-01T13:42:54Z"
       }
+    },
+    {
+      "description": "RULES SUSPENDED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "ADOPTED",
+      "date": "2026-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:20:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +57,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jonathan Lindsey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward W. McBroom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward W. McBroom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sylvia A. Santana",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sylvia A. Santana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Shink",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Shink\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lana Theis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lana Theis\"}",
       "organization_id": null
     }
   ],
@@ -49,6 +103,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/Senate/htm/2026-SIR-0142.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Adopted Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/Senate/pdf/2026-SAR-0142.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/Senate/htm/2026-SAR-0142.htm",
           "media_type": "text/html"
         }
       ],
@@ -72,7 +141,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-01T13:42:54Z",
+    "logs_latest_update": "2026-10-02T12:20:43Z",
     "text_extraction_latest_update": "2026-10-01T13:44:10.574546Z"
   }
 }

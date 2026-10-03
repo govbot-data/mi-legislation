@@ -312,6 +312,18 @@
       "_processing": {
         "log_file_created": "2026-10-02T12:20:43Z"
       }
+    },
+    {
+      "description": "presented to the Governor 10/02/2026 03:06 PM",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T12:07:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -815,6 +827,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/pdf/2025-HNB-4599.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/htm/2025-HNB-4599.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -903,7 +930,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:20:43Z",
+    "logs_latest_update": "2026-10-03T12:07:54Z",
     "text_extraction_latest_update": "2026-10-02T12:23:32.989710Z"
   }
 }

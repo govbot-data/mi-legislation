@@ -45,6 +45,26 @@
       "_processing": {
         "log_file_created": "2026-10-02T12:20:43Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: SUE SHINK",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,7 +200,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:20:43Z",
+    "logs_latest_update": "2026-10-07T15:25:29Z",
     "text_extraction_latest_update": "2026-10-02T12:22:37.913614Z"
   }
 }

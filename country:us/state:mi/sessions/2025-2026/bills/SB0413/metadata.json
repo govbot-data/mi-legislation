@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0413",
-  "title": "Health occupations: psychologists; requirements for practice by limited licensed psychologist; modify. Amends secs. 18221, 18223, 18233 & 18237 of 1978 PA 368 (MCL 333.18221 et seq.).",
+  "title": "Health occupations: psychologists; licensure requirements for limited licensed psychologists; modify and modify membership of Michigan board of psychology. Amends secs. 18221, 18223, 18233 & 18237 of 1978 PA 368 (MCL 333.18221 et seq.).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -313,6 +313,18 @@
       "_processing": {
         "log_file_created": "2026-10-02T12:20:43Z"
       }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 10/5/2026 2:30 PM",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -458,6 +470,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Enrolled Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0413.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0413.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -492,7 +519,7 @@
       "classification": ""
     },
     {
-      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 9-26-25)",
+      "note": "ANALYSIS AS PASSED BY THE SENATE (enrolled version) (Date Completed: 9-26-25)",
       "links": [
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0413-U.pdf",
@@ -542,7 +569,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:20:43Z",
+    "logs_latest_update": "2026-10-07T15:25:29Z",
     "text_extraction_latest_update": "2026-10-02T12:22:02.420958Z"
   }
 }

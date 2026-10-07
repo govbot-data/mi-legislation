@@ -43,26 +43,26 @@
     },
     {
       "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 9/22/2026",
-      "date": "2026-09-22",
+      "date": "2026-09-30",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-23T10:35:21Z"
+        "log_file_created": "2026-10-07T15:25:29Z"
       }
     },
     {
       "description": "REFERRED TO COMMITTEE OF THE WHOLE",
-      "date": "2026-09-22",
+      "date": "2026-09-30",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-23T10:35:21Z"
+        "log_file_created": "2026-10-07T15:25:29Z"
       }
     },
     {
@@ -129,6 +129,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-02T12:20:43Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Appropriations",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
       }
     }
   ],
@@ -239,7 +263,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:20:43Z",
+    "logs_latest_update": "2026-10-07T15:25:29Z",
     "text_extraction_latest_update": "2026-10-02T12:23:37.693571Z"
   }
 }

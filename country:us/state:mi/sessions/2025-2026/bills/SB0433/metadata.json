@@ -343,6 +343,38 @@
       "_processing": {
         "log_file_created": "2026-10-02T12:20:43Z"
       }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 10/5/2026 9:30 AM",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 10/5/2026 11:00 AM",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0104'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -601,6 +633,14 @@
   ],
   "citations": [
     {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 104 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 380.1",
       "citation_type": "proposed",
@@ -631,7 +671,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:20:43Z",
+    "logs_latest_update": "2026-10-07T15:25:29Z",
     "text_extraction_latest_update": "2026-10-02T12:22:02.375101Z"
   }
 }

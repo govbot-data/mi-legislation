@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 5514",
-  "title": "Children: other; prohibition of use of certain restraints while transporting youths to certain qualified residential treatment programs; provide for. Creates new act.",
+  "title": "Children: other; prohibition of use of certain restraint while transporting youths to certain youth residential treatment programs; provide for. Creates new act.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -315,6 +315,38 @@
       "_processing": {
         "log_file_created": "2026-10-03T12:07:54Z"
       }
+    },
+    {
+      "description": "approved by the Governor 10/05/2026 09:44 AM",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "filed with Secretary of State 10/05/2026 11:14 AM",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
+    },
+    {
+      "description": "assigned PA 111'26 with immediate effect",
+      "date": "2026-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T15:25:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -452,14 +484,14 @@
       "classification": ""
     },
     {
-      "note": "House Enrolled Bill",
+      "note": "Public Act",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/pdf/2026-HNB-5514.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0111.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/House/htm/2026-HNB-5514.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0111.htm",
           "media_type": "text/html"
         }
       ],
@@ -532,7 +564,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 111 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5514",
@@ -547,7 +588,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T12:07:54Z",
+    "logs_latest_update": "2026-10-07T15:25:29Z",
     "text_extraction_latest_update": "2026-10-03T12:09:05.180373Z"
   }
 }

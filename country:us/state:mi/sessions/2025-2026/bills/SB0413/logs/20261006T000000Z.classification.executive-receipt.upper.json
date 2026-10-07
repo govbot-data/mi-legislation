@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PRESENTED TO GOVERNOR 10/5/2026 2:30 PM",
+    "occurred_at": "2026-10-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0413",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0413"
+}

@@ -42,6 +42,16 @@
       }
     },
     {
+      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-08T16:30:15Z"
+      }
+    },
+    {
       "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-3) 6/17/2025",
       "date": "2025-06-18",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -216,8 +226,8 @@
       "note": "Substitute (S-3)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00B74.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00B75.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -227,8 +237,8 @@
       "note": "Substitute (S-3) - 2",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-0B735.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-0B736.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -238,8 +248,8 @@
       "note": "Substitute (S-3) - 3",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00C76.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00C77.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -249,8 +259,8 @@
       "note": "Substitute (S-3) - 4",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00D47.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-00D48.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -260,8 +270,8 @@
       "note": "Substitute (S-3) - 5",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-0D288.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0350-0D289.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -384,7 +394,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:38Z",
+    "logs_latest_update": "2026-10-08T16:30:15Z",
     "text_extraction_latest_update": "2026-07-21T20:40:13.613707Z"
   }
 }

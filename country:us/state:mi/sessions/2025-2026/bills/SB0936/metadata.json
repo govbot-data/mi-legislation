@@ -53,23 +53,13 @@
       }
     },
     {
-      "description": "SENATE CO-SPONSOR(S) NAMED: WINNIE BRINKS",
+      "description": "SENATE CO-SPONSOR(S) NAMED: DARRIN CAMILLERI ERIKA GEISS MALLORY MCMORROW",
       "date": "2026-04-29",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:34Z"
-      }
-    },
-    {
-      "description": "SENATE CO-SPONSOR(S) NAMED: ERIKA GEISS DARRIN CAMILLERI MALLORY MCMORROW",
-      "date": "2026-04-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:55:34Z"
+        "log_file_created": "2026-10-08T16:30:15Z"
       }
     },
     {
@@ -281,8 +271,8 @@
       "note": "Substitute (S-3)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-00C79.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-00C78.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -292,8 +282,8 @@
       "note": "Substitute (S-3) - 2",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-00D410.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-00D49.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -303,8 +293,8 @@
       "note": "Substitute (S-3) - 3",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-0D2811.pdf",
-          "media_type": "application/pdf"
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0936-0D2810.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -450,7 +440,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:34Z",
+    "logs_latest_update": "2026-10-08T16:30:15Z",
     "text_extraction_latest_update": "2026-07-21T19:58:37.899489Z"
   }
 }

@@ -53,23 +53,13 @@
       }
     },
     {
-      "description": "SENATE CO-SPONSOR(S) NAMED: WINNIE BRINKS",
+      "description": "SENATE CO-SPONSOR(S) NAMED: DARRIN CAMILLERI ERIKA GEISS MALLORY MCMORROW",
       "date": "2026-04-29",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:36Z"
-      }
-    },
-    {
-      "description": "SENATE CO-SPONSOR(S) NAMED: ERIKA GEISS DARRIN CAMILLERI MALLORY MCMORROW",
-      "date": "2026-04-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:55:36Z"
+        "log_file_created": "2026-10-08T16:30:15Z"
       }
     },
     {
@@ -399,7 +389,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:36Z",
+    "logs_latest_update": "2026-10-08T16:30:15Z",
     "text_extraction_latest_update": "2026-07-21T23:28:58.358713Z"
   }
 }

@@ -367,6 +367,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:37Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) REMOVED: JOSEPH BELLINO",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:55:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -434,7 +444,7 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0304-00C79.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -445,7 +455,7 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0304-00D410.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -456,7 +466,7 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0304-0D2811.pdf",
-          "media_type": "application/pdf"
+          "media_type": "text/html"
         }
       ],
       "date": "",

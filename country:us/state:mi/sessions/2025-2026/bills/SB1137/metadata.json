@@ -44,33 +44,13 @@
       }
     },
     {
-      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
+      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER MALLORY MCMORROW JEREMY MOSS",
       "date": "2026-08-12",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-12T07:01:53Z"
-      }
-    },
-    {
-      "description": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW",
-      "date": "2026-08-12",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-09T06:35:18Z"
-      }
-    },
-    {
-      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
-      "date": "2026-08-12",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-12T07:01:53Z"
+        "log_file_created": "2026-10-09T12:14:08Z"
       }
     },
     {
@@ -360,7 +340,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:42:35Z",
+    "logs_latest_update": "2026-10-09T12:14:08Z",
     "text_extraction_latest_update": "2026-09-16T10:43:50.274044Z"
   }
 }

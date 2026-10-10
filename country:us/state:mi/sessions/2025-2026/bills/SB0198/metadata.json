@@ -272,6 +272,38 @@
       "_processing": {
         "log_file_created": "2026-10-07T15:25:29Z"
       }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 10/9/2026 9:32 AM",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:30:49Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 10/9/2026 10:42 AM",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:30:49Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0113'26 WITH IMMEDIATE EFFECT",
+      "date": "2026-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:30:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,14 +419,14 @@
       "classification": ""
     },
     {
-      "note": "Senate Enrolled Bill",
+      "note": "Public Act",
       "links": [
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/pdf/2025-SNB-0198.pdf",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2026-PA-0113.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billenrolled/Senate/htm/2025-SNB-0198.htm",
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2026-PA-0113.htm",
           "media_type": "text/html"
         }
       ],
@@ -449,7 +481,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 113 of 2026",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0198",
@@ -464,7 +505,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T15:25:29Z",
+    "logs_latest_update": "2026-10-10T11:30:49Z",
     "text_extraction_latest_update": "2026-10-07T15:26:46.253231Z"
   }
 }

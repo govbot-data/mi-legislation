@@ -127,6 +127,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:39:40Z"
+    "logs_latest_update": "2026-10-24T09:39:40Z",
+    "text_extraction_latest_update": "2026-10-24T09:41:05.280126Z"
   }
 }
